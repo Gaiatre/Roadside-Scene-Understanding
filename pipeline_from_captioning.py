@@ -12,7 +12,33 @@ OCR_JSON_DIR = os.path.join(OUTPUT_DIR, "ocr_parsed")
 os.makedirs(OCR_HTML_DIR, exist_ok=True)
 os.makedirs(OCR_JSON_DIR, exist_ok=True)
 
-print("\n===== STARTING FROM FRAME CAPTIONING =====\n")
+print("\n===== STARTING FROM FRAME EXTRACTION =====\n")
+import subprocess
+
+# ============================================
+# 0️⃣ FRAME EXTRACTION
+# ============================================
+
+os.makedirs(FRAMES_DIR, exist_ok=True)
+
+# Skip extraction if frames already exist
+if len(os.listdir(FRAMES_DIR)) > 0:
+    print("Frames already extracted. Skipping extraction.")
+else:
+    print("Extracting frames every 2 seconds...")
+
+    frame_pattern = os.path.join(FRAMES_DIR, "frame_%04d.jpg")
+
+    command = [
+        "ffmpeg",
+        "-i", VIDEO_PATH,
+        "-vf", "fps=1/2",
+        frame_pattern
+    ]
+
+    subprocess.run(command, check=True)
+
+    print("Frame extraction complete.")
 
 # ============================================
 # 1️⃣ FRAME CAPTIONING
