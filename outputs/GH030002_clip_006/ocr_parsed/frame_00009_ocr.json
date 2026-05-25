@@ -1,0 +1,32 @@
+[
+  {
+    "text": "WARD 17",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "The Self Culture Institute",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "Advertisement showing three men smiling.",
+    "label": "Image",
+    "region": "upper-left"
+  },
+  {
+    "text": "9336072198",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "9336072198",
+    "label": "Text",
+    "region": "middle-center"
+  },
+  {
+    "text": "Green and black auto-rickshaw parked on the left side of the street.",
+    "label": "Image",
+    "region": "lower-left"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "local_id": "frame_00010_det_001",
+    "frame_id": "frame_00010",
+    "text": "Advertisement showing a plate of fried snacks (likely samosas or pakoras).",
+    "norm_text": "advertisement showing a plate of fried snacks (likely samosas or pakoras).",
+    "bbox": [
+      544,
+      0,
+      658,
+      141
+    ],
+    "label": "Image",
+    "region": "upper-center"
+  },
+  {
+    "local_id": "frame_00010_det_002",
+    "frame_id": "frame_00010",
+    "text": "Advertisement showing a slice of cake or pastry with a fork.",
+    "norm_text": "advertisement showing a slice of cake or pastry with a fork.",
+    "bbox": [
+      668,
+      0,
+      797,
+      141
+    ],
+    "label": "Image",
+    "region": "upper-center"
+  },
+  {
+    "local_id": "frame_00010_det_003",
+    "frame_id": "frame_00010",
+    "text": "WELAMURI PALAKKAD / 8880991111",
+    "norm_text": "welamuri palakkad / 8880991111",
+    "bbox": [
+      583,
+      166,
+      762,
+      199
+    ],
+    "label": "Text",
+    "region": "upper-center"
+  },
+  {
+    "local_id": "frame_00010_det_004",
+    "frame_id": "frame_00010",
+    "text": "എല്ലാ വില്ലിങ്ങളും",
+    "norm_text": "എല്ലാ വില്ലിങ്ങളും",
+    "bbox": [
+      302,
+      470,
+      544,
+      543
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00010_det_005",
+    "frame_id": "frame_00010",
+    "text": "ഒരു വില്ലിങ",
+    "norm_text": "ഒരു വില്ലിങ",
+    "bbox": [
+      346,
+      543,
+      544,
+      576
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  }
+]

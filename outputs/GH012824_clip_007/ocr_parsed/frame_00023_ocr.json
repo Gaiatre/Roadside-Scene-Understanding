@@ -1,0 +1,22 @@
+[
+  {
+    "text": "VOLU E",
+    "label": "Text",
+    "region": "middle-center"
+  },
+  {
+    "text": "YOU E L'OREAL",
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "text": "METRO HOSPITAL",
+    "label": "Text",
+    "region": "lower-right"
+  },
+  {
+    "text": "LITTLE STAR CHILDREN HOSPITAL",
+    "label": "Text",
+    "region": "lower-center"
+  }
+]

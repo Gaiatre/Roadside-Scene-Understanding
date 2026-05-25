@@ -1,0 +1,582 @@
+{
+  "video_summary": {
+    "video_id": "GH030002_clip_006",
+    "model_caption": "### Analysis of Driving Footage\n\n**1. Scene Setting**\nThe footage is captured in a bustling urban environment, specifically on Beadon Street and C.R. Avenue in Kolkata, India (indicated by shop addresses and area names). The setting is characterized by a dense concentration of commercial establishments, including medical stores, electronics shops, and clothing retailers, interspersed with older architectural residential-style buildings.\n\n**2. Vehicle Analysis**\nThe video showcases a diverse range of vehicles typical of an Indian metropolitan area:\n*   **Public Transport:** Large blue public buses and numerous green and yellow auto-rickshaws (tuktuks).\n*   **Commercial Vehicles:** Yellow Ambassador-style taxis, a white pickup truck loaded with goods, and hand-pulled or cycle carts.\n*   **Private/Other:** Bicycles, scooters, and white passenger cars.\n\n**3. Traffic Dynamics**\nTraffic flow varies throughout the clip. The initial segments show moderate movement through an intersection, while the latter half shows stationary or slow-moving traffic as vehicles, including the camera car and a large bus, come to a halt. There is a high volume of pedestrians interacting closely with the roadway, often crossing between vehicles.\n\n**4. Temporal Progression**\nThe video progresses from a steady drive past various storefronts and landmarks to a complete stop in a congested area. The movement is relatively fluid for the first 25 seconds before the vehicle joins a queue of stationary traffic near a bus stop.\n\n**5. Safety Observations**\n*   **Infrastructure:** Blue and white safety railings separate the sidewalk from the road in several sections.\n*   **Signals:** Traffic lights are visible at major intersections, though the mix of pedestrians and various vehicle speeds creates a complex safety environment.\n*   **Signage:** Signs such as \"Go Slow\" and designated bus stop markers are present to regulate the mixed traffic.\n\n**6. Environmental Context**\nThe environment is well-lit by daylight. Large, mature trees (including Banyan trees) provide shade over the streets. The landscape is filled with vibrant advertisements, political or cultural posters, and shop signs in both English and Bengali. Numerous overhead electrical wires are a prominent feature of the urban skyline.\n\n**7. Alleyways and Pathways**\nAt approximately **00:06**, a narrow residential or commercial alleyway is visible branching off to the right of the main road. Other smaller pathways and entrances to building complexes are seen intermittently between the tightly packed storefronts."
+  },
+  "frames": [
+    {
+      "frame_name": "frame_00001",
+      "description": "Street view of commercial buildings with closed shutters. A sign reads 'SREE RADHARAMAN KUNJ' in English and 'শ্রী রাধারমণ কুঞ্জ' in Bengali. A blue and white fence lines the sidewalk. One pedestrian is visible on the far left.",
+      "ocr_detections": []
+    },
+    {
+      "frame_name": "frame_00002",
+      "description": "The camera moves right, showing 'NKG Diagnostics' (এন কেজি ডায়াগনস্টিকস) and 'ABANTI JEWELLERS'. A 'NEW INDIAN RESTAURANT (BOMBAY HOTEL)' sign is also visible. A pedestrian walks right, and a bicycle is parked. A red triangular traffic warning sign is seen.",
+      "ocr_detections": [
+        {
+          "text": "SREE RADHA KUNJ",
+          "label": "Section-Header",
+          "region": "middle-center"
+        },
+        {
+          "text": "For Consecration, Consecration, and Annual Gathering",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "SREERADHAKRISHNA KUNJBANGALORE",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "SREERADHAKRISHNA KUNJBANGALORE",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "SREERADHAKRISHNA KUNJBANGALORE",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00003",
+      "description": "View of a building housing 'Muthoot Finance' (মুথুট ফিনান্স). A smaller sign for 'শাওমি' (Xiaomi) is also present. A white car is parked on the bottom right. A person is sitting on the sidewalk behind the blue fence.",
+      "ocr_detections": [
+        {
+          "text": "NKG Diagnostics",
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "text": "• Zone of the city's most trusted• 24/7 Lab Services• 100% Accurate Results",
+          "label": "Text",
+          "region": "upper-center"
+        },
+        {
+          "text": "Phone icon",
+          "label": "Image",
+          "region": "upper-center"
+        },
+        {
+          "text": "24/7 Lab Services & ConsultCall Now",
+          "label": "Text",
+          "region": "upper-center"
+        },
+        {
+          "text": "Phone Number(033) 2595 444199207 27771",
+          "label": "Text",
+          "region": "upper-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00004",
+      "description": "The camera captures a street corner. An 'IIFL Finance' sign is visible. A side lane stretches into the distance. A pedestrian walks left on the sidewalk.",
+      "ocr_detections": [
+        {
+          "text": "9) 9641-9037 20.21",
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "text": "সাওন",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "Punjab National Bank (PNB) logo",
+          "label": "Image",
+          "region": "upper-center"
+        },
+        {
+          "text": "Finance",
+          "label": "Text",
+          "region": "upper-center"
+        },
+        {
+          "text": "Punjab National Bank (PNB) logo",
+          "label": "Image",
+          "region": "upper-center"
+        },
+        {
+          "text": "মু",
+          "label": "Text",
+          "region": "upper-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00005",
+      "description": "Commercial buildings with several signs: 'HAZARI EYE CLINIC', 'Sandhyarag Saris' (সন্ধ্যারাগ শাড়ীজ). A green street sign indicates 'Jatindra Mohan Avenue' (যতীন্দ্র মোহন এভিনিউ). Direction boards point towards 'GIRISH PARK', 'ESPLANADE', etc. Several people are walking on the sidewalk.",
+      "ocr_detections": [
+        {
+          "text": "A photograph of a narrow, paved street corner in an urban area, likely India. The street curves to the left. On the right, a building features a prominent orange and blue awning with the letters 'FL' and some text in Hindi/Urdu. A small tree is planted in a raised bed surrounded by a blue metal railing. Two people are sitting near the tree. On the left, a white building has a red sign with white text (partially visible, possibly 'मन'). The scene is brightly lit by the sun, casting shadows.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00006",
+      "description": "Looking down a narrow street. Signs for 'The Raymond Shop' and 'AKANT SWEET' are visible. A few motorcycles are parked, and people are gathered.",
+      "ocr_detections": [
+        {
+          "text": "श्री लक्ष्मी देवीश्री लक्ष्मी देवी",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "Blue cylindrical utility pole with two portraits of women, likely religious figures.",
+          "label": "Image",
+          "region": "middle-left"
+        },
+        {
+          "text": "6",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "RAJASHRI EYE CLINIC",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "DR. HARISH PANDIT HAZARI",
+          "label": "Text",
+          "region": "middle-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00007",
+      "description": "Street view with older buildings and trees. A person on a motorcycle passes in the foreground (blurred). People are standing behind the blue and white fence near 'SHAN STORES'.",
+      "ocr_detections": [
+        {
+          "text": "Shree KalyanagSweets",
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "text": "Shree KalyanagSweets",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "RAKANT SWE",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "THERAYMONDSHOP",
+          "label": "Text",
+          "region": "middle-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00008",
+      "description": "A street junction featuring a traffic light showing red. A large billboard with faces is prominent. Blue trash bins are on the sidewalk. Posters for 'BOYS PG' are stuck on walls.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in a densely populated urban area, likely India. The foreground shows a blue and white metal fence separating the road from a sidewalk area. Several people are visible behind the fence, including a person sitting on the left and a person sitting on the right. A person wearing a helmet and a reflective vest is partially visible in the bottom right corner, suggesting they are a traffic officer or security guard. The background features multi-story buildings, some with exposed brick and others with yellow and green facades, heavily shaded by large, leafy trees. A tall street light stands near the center.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00009",
+      "description": "Wide view of a city road. Green and yellow auto-rickshaws are either parked or moving. A billboard for 'The Self Culture Institute' is visible on the left.",
+      "ocr_detections": [
+        {
+          "text": "লোকিও রবিবারপ্রত্যেক বাড়াপ্রত্যেক বারসু কোটা জীবনের ফল",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "Large billboard advertisement featuring several people, likely promoting a product or service.",
+          "label": "Image",
+          "region": "upper-center"
+        },
+        {
+          "text": "THE INCODA42199",
+          "label": "Text",
+          "region": "middle-right"
+        },
+        {
+          "text": "SHAMIT",
+          "label": "Text",
+          "region": "lower-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00010",
+      "description": "Pedestrians stand near a building entrance on a street corner. Infrastructure includes a blue metal fence and streetlights.",
+      "ocr_detections": [
+        {
+          "text": "WARD 17",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "The Self Culture Institute",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "Advertisement showing three men smiling.",
+          "label": "Image",
+          "region": "upper-left"
+        },
+        {
+          "text": "9336072198",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "9336072198",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "Green and black auto-rickshaw parked on the left side of the street.",
+          "label": "Image",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00011",
+      "description": "Storefronts of 'CENTRAL MEDICAL STORES' and 'SREE RANISATI PAPER' (শ্রী রাণীসতী পেপার). People are walking and standing on the sidewalk.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in an urban area, likely India. Two uniformed security guards (one in light blue, one in white) stand near a blue metal fence in the foreground. Behind them is a multi-story building with balconies, laundry hanging, and a utility pole. A blue car is visible on the left, and a person is walking away on the right. A sign with a red circle and a white cross is visible on the right side of the frame.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00012",
+      "description": "A yellow Ambassador taxi passes by medical and paper shops. Signs for 'NARAYAN MEDICAL' and 'SREE RANISATI PAPER HOUSE' are visible.",
+      "ocr_detections": [
+        {
+          "text": "ALL MEDICAL STORESS & DRUGGISTS",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "FREE RENIKATI PAPश्री रामस्वरूपी सेवारPAPER & BOOKSPh. 2241",
+          "label": "Text",
+          "region": "middle-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00013",
+      "description": "Closer view of the shops. 'NARAYAN MEDICAL' chemist and 'শাওমি' (Xiaomi) sign. A cycle rickshaw is parked on the right.",
+      "ocr_detections": [
+        {
+          "text": "ORTETS006",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "FREE MEDICINE HOUSE",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "241 0725",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "DRUG MERCHANT",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "A person in a pink shirt and dark pants walking on the sidewalk.",
+          "label": "Image",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00014",
+      "description": "A bus stop area on 'C.R. AVENUE'. People are waiting under the shelter. A blue 'BUS STOP' sign is visible.",
+      "ocr_detections": [
+        {
+          "text": "NARAYAN MEDICALCHEMIST & DRUGGISTSBEADON STREET",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "Xir",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "श्री",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "A blue and white metal railing runs along the sidewalk, separating the street from the shops. A small, leafy tree grows between the railing and the building facade. A rickshaw is parked on the right side of the street.",
+          "label": "Image",
+          "region": "lower-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00015",
+      "description": "A view of the bus shelter at 'BEADON STREET' featuring several bank advertisements. A man is sitting on the bench.",
+      "ocr_detections": [
+        {
+          "text": "ATPHIT STOP",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "C.B. AVENUE",
+          "label": "Text",
+          "region": "middle-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00016",
+      "description": "A blue and yellow public bus (WB-07J-0257) moves into the frame from the right. A small roadside temple is visible behind the fence on the left.",
+      "ocr_detections": [
+        {
+          "text": "Advertisement board for \"EXPANDING YOURS\" and \"A\" brand, showing prices 8.35 and 8.80. Below the board, a sign reads \"BEADON STREET\".",
+          "label": "Image",
+          "region": "middle-left"
+        },
+        {
+          "text": "Advertisement board for \"EXPANDING YOURS\" and \"A\" brand, showing prices 8.35 and 8.80. Below the board, a sign reads \"BEADON STREET\".",
+          "label": "Image",
+          "region": "lower-center"
+        },
+        {
+          "text": "Advertisement board for \"EXPANDING YOURS\" and \"A\" brand, showing prices 8.35 and 8.80. Below the board, a sign reads \"BEADON STREET\".",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00017",
+      "description": "The bus is passing, partially obscuring shops like 'O MY GOD' and 'Habibsha Style Salon'. A police 'GO SLOW' barrier is on the sidewalk.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in India featuring a blue and yellow bus on the right, with passengers visible through the window. On the left, a small, blue, dome-shaped shrine (Kuthi) is situated behind a blue metal fence. Two men are standing near the fence, and another man in a blue shirt is standing further down the road. The background includes large green trees and buildings.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00018",
+      "description": "The bus has moved further, revealing more of the shops. People are sitting on the sidewalk. The 'GO SLOW' sign is clearly visible.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in India showing a blue and yellow bus on the right, partially visible. The bus has a license plate reading 'WB 07 J0257'. The background features a multi-story building with a closed shop on the ground floor. A sign above the shop reads 'J MY GO'. A blue metal railing runs along the sidewalk, and a person is standing near the railing on the left.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00019",
+      "description": "The camera captures more people on the sidewalk, including a woman in a blue sari. The background remains the 'O MY GOD' shop area.",
+      "ocr_detections": [
+        {
+          "text": "GO MY GOD",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "GOSLOW",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00020",
+      "description": "A man on a bicycle and several pedestrians pass through the frame. The scene is still in front of the same commercial building.",
+      "ocr_detections": [
+        {
+          "text": "O MY GOD",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "GO SLOW",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00021",
+      "description": "A white mini-truck with 'AP HIRE' written on the side enters the frame. It carries bags of goods.",
+      "ocr_detections": [
+        {
+          "text": "O MY GOD",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "GO SLOW",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00022",
+      "description": "The mini-truck moves across the frame. An Indian flag is painted on its side panel. Pedestrians continue walking in the background.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in an urban area, likely India. A white pickup truck is parked in the foreground, partially obscuring the view of the street. The truck bed is decorated with colorful sunburst patterns and the word 'JURE' in large letters. A person is visible driving the truck. In the background, there are multi-story buildings with commercial establishments. A sign on the left reads 'O MY GOD' in red letters on a pink background. Other visible signs include 'Habibee Shariya' and 'SARWAR NIKETAN'. Several people are visible near the buildings and on the sidewalk.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00023",
+      "description": "The mini-truck is now central in the frame, partially obscuring the shops. The driver is visible.",
+      "ocr_detections": [
+        {
+          "text": "O MY GOD",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "Habib's Shariya",
+          "label": "Text",
+          "region": "middle-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00024",
+      "description": "Continued motion of the mini-truck. Background shops like 'O MY GOD' and 'Habibsha Style Salon' are still visible.",
+      "ocr_detections": [
+        {
+          "text": "O MY GOD",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "Habib's Shirts & Sarees",
+          "label": "Text",
+          "region": "middle-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00025",
+      "description": "The mini-truck moves further left. A pedestrian is seen walking in the background behind the truck.",
+      "ocr_detections": [
+        {
+          "text": "O MY GOD",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "Habib's Super Store",
+          "label": "Text",
+          "region": "middle-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00026",
+      "description": "Truck continues moving. Minor shifts in pedestrians' positions on the sidewalk.",
+      "ocr_detections": [
+        {
+          "text": "O MY GOD",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "Habibatu Sultana",
+          "label": "Text",
+          "region": "middle-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00027",
+      "description": "Similar to previous frame, the truck is moving towards the left edge of the image.",
+      "ocr_detections": [
+        {
+          "text": "O MY GOD",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "Habibah Super Salon",
+          "label": "Text",
+          "region": "middle-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00028",
+      "description": "The truck is almost past the central viewpoint. Background pedestrians remain visible.",
+      "ocr_detections": [
+        {
+          "text": "O MY GOD",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "Habibah Super Store",
+          "label": "Text",
+          "region": "middle-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00029",
+      "description": "Another shot of the truck and the background shops. The scene remains consistent with slight camera or vehicle movement.",
+      "ocr_detections": [
+        {
+          "text": "O MY GOD",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "Habibatu Sultana",
+          "label": "Text",
+          "region": "middle-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00030",
+      "description": "Final frame showing the truck passing by. Shops and people in the background are still visible.",
+      "ocr_detections": [
+        {
+          "text": "O MY GOD",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "Habibah Style Salon",
+          "label": "Text",
+          "region": "middle-right"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "local_id": "frame_00027_det_001",
+    "frame_id": "frame_00027",
+    "text": "DENTAL CARE HOSPITAL",
+    "norm_text": "dental care hospital",
+    "bbox": [
+      766,
+      367,
+      985,
+      403
+    ],
+    "label": "Text",
+    "region": "middle-right"
+  },
+  {
+    "local_id": "frame_00027_det_002",
+    "frame_id": "frame_00027",
+    "text": "UNIQUE FOOT WEAR",
+    "norm_text": "unique foot wear",
+    "bbox": [
+      788,
+      671,
+      878,
+      781
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "local_id": "frame_00007_det_001",
+    "frame_id": "frame_00007",
+    "text": "BMS",
+    "norm_text": "bms",
+    "bbox": [
+      480,
+      123,
+      548,
+      191
+    ],
+    "label": "Text",
+    "region": "upper-center"
+  },
+  {
+    "local_id": "frame_00007_det_002",
+    "frame_id": "frame_00007",
+    "text": "ANANDA FINEST STONE",
+    "norm_text": "ananda finest stone",
+    "bbox": [
+      478,
+      191,
+      584,
+      221
+    ],
+    "label": "Text",
+    "region": "upper-center"
+  },
+  {
+    "local_id": "frame_00007_det_003",
+    "frame_id": "frame_00007",
+    "text": "A.C. VASUDEVAN SON COIR MERCHANT",
+    "norm_text": "a.c. vasudevan son coir merchant",
+    "bbox": [
+      312,
+      407,
+      793,
+      525
+    ],
+    "label": "Section-Header",
+    "region": "middle-center"
+  },
+  {
+    "local_id": "frame_00007_det_004",
+    "frame_id": "frame_00007",
+    "text": "Res: 0491-2500748, SHOP: 2501035, Mob: 9349164821",
+    "norm_text": "res: 0491-2500748, shop: 2501035, mob: 9349164821",
+    "bbox": [
+      403,
+      517,
+      716,
+      561
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "local_id": "frame_00007_det_005",
+    "frame_id": "frame_00007",
+    "text": "Wholesale Dealer Best Quality in Low Price",
+    "norm_text": "wholesale dealer best quality in low price",
+    "bbox": [
+      816,
+      472,
+      899,
+      546
+    ],
+    "label": "Text",
+    "region": "lower-right"
+  }
+]

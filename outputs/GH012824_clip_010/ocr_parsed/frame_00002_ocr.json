@@ -1,0 +1,27 @@
+[
+  {
+    "text": "PREETI BAR& RESTAURANT",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "Blue parking sign with a P and a bicycle icon.",
+    "label": "Image",
+    "region": "lower-left"
+  },
+  {
+    "text": "PREETIBAR",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "PREETIBARRestaurant",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "AS FASHION POINTJewellery & Gifts",
+    "label": "Text",
+    "region": "lower-center"
+  }
+]

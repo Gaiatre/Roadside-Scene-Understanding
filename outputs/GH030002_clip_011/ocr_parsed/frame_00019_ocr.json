@@ -1,0 +1,17 @@
+[
+  {
+    "text": "A large political billboard featuring two men, likely a candidate and a party leader, with the BJP (Bharatiya Janata Party) logo and the slogan 'सत्यमेव जयते' (Truth Alone Triumphs).",
+    "label": "Image",
+    "region": "middle-left"
+  },
+  {
+    "text": "A person wearing a red backpack walking past a blue metal fence and a large garage entrance.",
+    "label": "Image",
+    "region": "lower-center"
+  },
+  {
+    "text": "A person bending over, possibly cleaning or working, near the blue metal fence.",
+    "label": "Image",
+    "region": "lower-right"
+  }
+]

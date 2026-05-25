@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00001_det_001",
+    "frame_id": "frame_00001",
+    "text": "A street scene in an urban area. A white pickup truck with a large, light-colored cargo box is parked on the left side of the road. The truck has 'RML' and 'R.B.' written on the side. In the background, there is a multi-story building with exposed brickwork on the upper floor. Below the building, a yellow structure is visible, featuring a colorful, dense display of posters and advertisements. A blue metal fence runs along the sidewalk in front of the yellow structure. Several trees line the street, and a white car is partially visible on the far right.",
+    "norm_text": "a street scene in an urban area. a white pickup truck with a large, light-colored cargo box is parked on the left side of the road. the truck has 'rml' and 'r.b.' written on the side. in the background, there is a multi-story building with exposed brickwork on the upper floor. below the building, a yellow structure is visible, featuring a colorful, dense display of posters and advertisements. a blue metal fence runs along the sidewalk in front of the yellow structure. several trees line the street, and a white car is partially visible on the far right.",
+    "bbox": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

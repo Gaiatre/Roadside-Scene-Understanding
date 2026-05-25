@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00007_det_001",
+    "frame_id": "frame_00007",
+    "text": "A street scene in a city, likely India, showing a row of buildings and a busy road. On the left is a two-story building with a balcony and a dark entrance. A large tree grows between the buildings. On the right, a building has a ground-floor shop labeled 'AVENUE CAFE'. A light blue car, possibly a Maruti Suzuki Swift, is parked on the right side of the road. The car has text on its side reading 'WESTERN ENGL' and 'THE ORIGINAL SWIFT'. The street is paved, and there is a blue and white striped curb.",
+    "norm_text": "a street scene in a city, likely india, showing a row of buildings and a busy road. on the left is a two-story building with a balcony and a dark entrance. a large tree grows between the buildings. on the right, a building has a ground-floor shop labeled 'avenue cafe'. a light blue car, possibly a maruti suzuki swift, is parked on the right side of the road. the car has text on its side reading 'western engl' and 'the original swift'. the street is paved, and there is a blue and white striped curb.",
+    "bbox": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "local_id": "frame_00005_det_001",
+    "frame_id": "frame_00005",
+    "text": "ZEESCHOOL OF ENGLISH Tata Campus 110, Chembur Contact Us: 80355 81111 - 80355 81111 Behind High Court, Andheri East www.zeeschool.in",
+    "norm_text": "zeeschool of english tata campus 110, chembur contact us: 80355 81111 - 80355 81111 behind high court, andheri east www.zeeschool.in",
+    "bbox": [
+      199,
+      85,
+      390,
+      341
+    ],
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "local_id": "frame_00005_det_002",
+    "frame_id": "frame_00005",
+    "text": "RISE UP BABY!",
+    "norm_text": "rise up baby!",
+    "bbox": [
+      118,
+      269,
+      259,
+      358
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00005_det_003",
+    "frame_id": "frame_00005",
+    "text": "Image of a man holding a baby, part of the RISE UP BABY! advertisement.",
+    "norm_text": "image of a man holding a baby, part of the rise up baby! advertisement.",
+    "bbox": [
+      260,
+      328,
+      348,
+      422
+    ],
+    "label": "Image",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00005_det_004",
+    "frame_id": "frame_00005",
+    "text": "KOMAL CAFE",
+    "norm_text": "komal cafe",
+    "bbox": [
+      357,
+      362,
+      466,
+      439
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  }
+]

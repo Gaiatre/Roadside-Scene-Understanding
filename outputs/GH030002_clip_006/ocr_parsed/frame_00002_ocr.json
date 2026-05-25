@@ -1,0 +1,27 @@
+[
+  {
+    "text": "NKG Diagnostics",
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "text": "• Zone of the city's most trusted• 24/7 Lab Services• 100% Accurate Results",
+    "label": "Text",
+    "region": "upper-center"
+  },
+  {
+    "text": "Phone icon",
+    "label": "Image",
+    "region": "upper-center"
+  },
+  {
+    "text": "24/7 Lab Services & ConsultCall Now",
+    "label": "Text",
+    "region": "upper-center"
+  },
+  {
+    "text": "Phone Number(033) 2595 444199207 27771",
+    "label": "Text",
+    "region": "upper-center"
+  }
+]

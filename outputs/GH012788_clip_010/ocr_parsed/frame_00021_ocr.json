@@ -1,0 +1,44 @@
+[
+  {
+    "local_id": "frame_00021_det_001",
+    "frame_id": "frame_00021",
+    "text": "Image of a storefront sign for \"CN\" (likely Cinnamon) featuring a large image of a cinnamon stick. The sign reads:",
+    "norm_text": "image of a storefront sign for \"cn\" (likely cinnamon) featuring a large image of a cinnamon stick. the sign reads:",
+    "bbox": [
+      550,
+      46,
+      810,
+      326
+    ],
+    "label": "Image",
+    "region": "upper-center"
+  },
+  {
+    "local_id": "frame_00021_det_002",
+    "frame_id": "frame_00021",
+    "text": "Image of an LG air conditioning unit mounted on the wall.",
+    "norm_text": "image of an lg air conditioning unit mounted on the wall.",
+    "bbox": [
+      87,
+      390,
+      240,
+      563
+    ],
+    "label": "Image",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00021_det_003",
+    "frame_id": "frame_00021",
+    "text": "Image of a vertical sign for \"MILK & COCOA\" with the name \"Bhakti BODHAN\" and a mobile number (No. 9473228).",
+    "norm_text": "image of a vertical sign for \"milk & cocoa\" with the name \"bhakti bodhan\" and a mobile number (no. 9473228).",
+    "bbox": [
+      75,
+      589,
+      164,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-left"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "local_id": "frame_00003_det_001",
+    "frame_id": "frame_00003",
+    "text": "KMS logo",
+    "norm_text": "kms logo",
+    "bbox": [
+      384,
+      328,
+      438,
+      396
+    ],
+    "label": "Image",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00003_det_002",
+    "frame_id": "frame_00003",
+    "text": "KMS TRADERS",
+    "norm_text": "kms traders",
+    "bbox": [
+      466,
+      328,
+      659,
+      396
+    ],
+    "label": "Text",
+    "region": "middle-center"
+  },
+  {
+    "local_id": "frame_00003_det_003",
+    "frame_id": "frame_00003",
+    "text": "Indian Drugs Merchant",
+    "norm_text": "indian drugs merchant",
+    "bbox": [
+      466,
+      396,
+      600,
+      408
+    ],
+    "label": "Text",
+    "region": "middle-center"
+  },
+  {
+    "local_id": "frame_00003_det_004",
+    "frame_id": "frame_00003",
+    "text": "KMS logo",
+    "norm_text": "kms logo",
+    "bbox": [
+      368,
+      483,
+      402,
+      555
+    ],
+    "label": "Image",
+    "region": "lower-left"
+  }
+]

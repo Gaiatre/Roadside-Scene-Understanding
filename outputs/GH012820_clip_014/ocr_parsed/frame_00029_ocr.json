@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Yaradaan",
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "text": "Yaradaan",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "Advertisement board for Yaradaan, featuring a portrait of a man and the text:यरदान नगरी(Yaradaan Nagar).",
+    "label": "Complex-Block",
+    "region": "middle-right"
+  },
+  {
+    "text": "YARADAAN",
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "text": "स्वच्छ भारत",
+    "label": "Text",
+    "region": "lower-center"
+  }
+]

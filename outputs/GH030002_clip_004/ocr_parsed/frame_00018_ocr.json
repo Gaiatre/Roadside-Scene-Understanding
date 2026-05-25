@@ -1,0 +1,30 @@
+[
+  {
+    "local_id": "frame_00018_det_001",
+    "frame_id": "frame_00018",
+    "text": "SPREAD THE WORD",
+    "norm_text": "spread the word",
+    "bbox": [
+      287,
+      45,
+      355,
+      58
+    ],
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "local_id": "frame_00018_det_002",
+    "frame_id": "frame_00018",
+    "text": "HEALTHY FUTURE",
+    "norm_text": "healthy future",
+    "bbox": [
+      495,
+      521,
+      560,
+      576
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  }
+]

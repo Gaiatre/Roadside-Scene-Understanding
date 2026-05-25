@@ -1,0 +1,22 @@
+[
+  {
+    "text": "HEART LINE PHARMACEUTICALS",
+    "label": "Section-Header",
+    "region": "lower-center"
+  },
+  {
+    "text": "Medical Road, Nashik, Cuttack - 7",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "Ph. 0671 - 2200000",
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "text": "Madhya'sChoice",
+    "label": "Text",
+    "region": "lower-left"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "local_id": "frame_00024_det_001",
+    "frame_id": "frame_00024",
+    "text": "EDICAL",
+    "norm_text": "edical",
+    "bbox": [
+      0,
+      436,
+      100,
+      482
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00024_det_002",
+    "frame_id": "frame_00024",
+    "text": "S&IB",
+    "norm_text": "s&ib",
+    "bbox": [
+      112,
+      528,
+      763,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  },
+  {
+    "local_id": "frame_00024_det_003",
+    "frame_id": "frame_00024",
+    "text": "SARILAB MEDICO CHEMIST & DRUGGISTS",
+    "norm_text": "sarilab medico chemist & druggists",
+    "bbox": [
+      395,
+      450,
+      626,
+      512
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "local_id": "frame_00024_det_004",
+    "frame_id": "frame_00024",
+    "text": "UP-TO-DATE",
+    "norm_text": "up-to-date",
+    "bbox": [
+      688,
+      405,
+      786,
+      440
+    ],
+    "label": "Text",
+    "region": "middle-center"
+  }
+]

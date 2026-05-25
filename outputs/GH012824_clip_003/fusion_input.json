@@ -1,0 +1,1713 @@
+{
+  "video_summary": {
+    "video_id": "GH012824_clip_003",
+    "model_caption": "This video presents a detailed view of a bustling urban street in India, characterized by its vibrant commercial activity and complex traffic patterns.\n\n### 1. Scene Setting\nThe footage is set in a densely populated commercial area, likely in a city like Kalaburagi, indicated by various local signs and institutional advertisements. The street is lined with multi-story buildings housing a diverse array of businesses, ranging from cafes and bakeries to educational institutions and medical facilities.\n\n### 2. Vehicle Analysis\n*   **Auto-Rickshaws:** These are the most prominent vehicles, frequently appearing throughout the video as both moving and stationary units.\n*   **Motorcycles and Scooters:** Numerous two-wheelers are seen navigating through the traffic and parked along the roadsides.\n*   **Passenger Cars:** Various models of cars are present, contributing to the overall traffic density.\n*   **Commercial Vehicles:** Occasional small trucks or delivery vans are visible, supporting the local business ecosystem.\n\n### 3. Traffic Dynamics\n*   **Flow:** The traffic moves at a relatively slow and cautious pace due to the high density of vehicles and pedestrians.\n*   **Congestion:** Significant congestion is observed at intersections and near major commercial hubs.\n*   **Behavior:** Drivers exhibit typical urban navigation skills, frequently merging and adjusting to the movements of others. Honking is a common auditory feature, used for signaling presence and intentions.\n\n### 4. Temporal Progression\n*   **00:00 - 00:20:** The journey begins near major landmarks like Komal Cafe and advertisements for Mount Litera Zee School. The camera captures a variety of storefronts including Asian Bakery and Hotel Lotus Park.\n*   **00:21 - 00:45:** The vehicle moves past Alfeeme Public School and several medical and specialized shops like S.B. Medical Hall and R.K. Aquarium & Pet Shop.\n*   **00:46 - 01:10:** The drive continues past more retail outlets such as Balaji Sweets, Apollo Pharmacy, and Poornima Wines.\n*   **01:11 - 01:30:** The video concludes near Mohan Lodge and a prominent intersection featuring a Dental Care Hospital and several footwear shops.\n\n### 5. Safety Observations\n*   **Traffic Management:** While some traffic lights are visible, much of the movement appears self-regulated by drivers.\n*   **Pedestrian Presence:** Pedestrians are seen walking close to the flow of traffic, requiring constant vigilance from drivers.\n*   **Infrastructure:** The presence of numerous overhead power lines and narrow road sections adds to the complexity of safe navigation.\n\n### 6. Environmental Context\n*   **Weather:** The sky is heavily overcast with dark clouds, suggesting an impending storm or recent rain, which affects visibility and road conditions.\n*   **Urban Infrastructure:** The buildings are a mix of older and newer constructions, many adorned with large, colorful signage and advertisements. The streets are paved but show signs of heavy use.\n\n### 7. Alleyways and Pathways\nNumerous narrow alleyways and pedestrian pathways are visible between the closely packed buildings. These gaps serve as access points to residential areas behind the main commercial strip or as shortcuts for pedestrians and two-wheelers. Examples can be seen near the Asian Bakery and adjacent to the various medical halls, highlighting the dense urban fabric of the area."
+  },
+  "frames": [
+    {
+      "frame_name": "frame_00001",
+      "description": "The camera is positioned at a busy urban street corner. To the left is a building with multiple large advertisements. A prominent banner for 'Mount Litera Zee School' advertises admissions, with address details for Kalaburagi. Below it is 'KOMAL CAFE' with its name also in Kannada (ಕೋಮಲ್ ಕೆಫೆ). Several Pepsi posters featuring actor Yash with the tagline 'RISE UP BABY!' are visible. A yellow school bus and traffic lights are present.",
+      "ocr_detections": []
+    },
+    {
+      "frame_name": "frame_00002",
+      "description": "The scene is nearly identical to the previous frame, with a slight forward movement. The 'KOMAL CAFE' and Pepsi advertisements remain the primary focus. Traffic and parked auto-rickshaws are visible at the street level.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00001_det_001",
+          "frame_id": "frame_00001",
+          "text": "WROOM REEM SONS NTS 5 101",
+          "norm_text": "wroom reem sons nts 5 101",
+          "bbox": [
+            0,
+            146,
+            122,
+            460
+          ],
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "local_id": "frame_00001_det_002",
+          "frame_id": "frame_00001",
+          "text": "RISE UP BABY!",
+          "norm_text": "rise up baby!",
+          "bbox": [
+            144,
+            273,
+            281,
+            362
+          ],
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "local_id": "frame_00001_det_003",
+          "frame_id": "frame_00001",
+          "text": "MISSION SCHOOL Contact Us: 80955 81111 - 80955 Behind High Court www.zeeschool.in",
+          "norm_text": "mission school contact us: 80955 81111 - 80955 behind high court www.zeeschool.in",
+          "bbox": [
+            219,
+            91,
+            408,
+            341
+          ],
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "local_id": "frame_00001_det_004",
+          "frame_id": "frame_00001",
+          "text": "KOMAL CAFE",
+          "norm_text": "komal cafe",
+          "bbox": [
+            378,
+            364,
+            484,
+            445
+          ],
+          "label": "Text",
+          "region": "middle-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00003",
+      "description": "Continued slight movement along the street. The 'KOMAL CAFE' building facade is still dominant. The cloudy sky provides even, flat lighting.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00002_det_001",
+          "frame_id": "frame_00002",
+          "text": "WROOM REEM SONS NTS 5 101",
+          "norm_text": "wroom reem sons nts 5 101",
+          "bbox": [
+            0,
+            146,
+            122,
+            540
+          ],
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "local_id": "frame_00002_det_002",
+          "frame_id": "frame_00002",
+          "text": "MISSION OF GOD 1430 Campania St, Unit 100 Contact Us: 80955 8111 - 80955 Behind High Court, Agra www.zeeschool.com",
+          "norm_text": "mission of god 1430 campania st, unit 100 contact us: 80955 8111 - 80955 behind high court, agra www.zeeschool.com",
+          "bbox": [
+            224,
+            88,
+            399,
+            345
+          ],
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "local_id": "frame_00002_det_003",
+          "frame_id": "frame_00002",
+          "text": "RISE UP BABY!",
+          "norm_text": "rise up baby!",
+          "bbox": [
+            145,
+            274,
+            282,
+            362
+          ],
+          "label": "Text",
+          "region": "middle-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00004",
+      "description": "Steady movement forward. More detail of the street level reveals pedestrians and the base of the traffic signal pole.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00003_det_001",
+          "frame_id": "frame_00003",
+          "text": "WROOM REEM SONS NTS 5 101",
+          "norm_text": "wroom reem sons nts 5 101",
+          "bbox": [
+            0,
+            146,
+            120,
+            459
+          ],
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "local_id": "frame_00003_det_002",
+          "frame_id": "frame_00003",
+          "text": "ADMISSION OPEN 1430, Kamalpur, 1100, Delhi Contact Us: 8955 8111 - 801658 8888 Behind High Court www.zeeschool.com",
+          "norm_text": "admission open 1430, kamalpur, 1100, delhi contact us: 8955 8111 - 801658 8888 behind high court www.zeeschool.com",
+          "bbox": [
+            215,
+            0,
+            400,
+            231
+          ],
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "local_id": "frame_00003_det_003",
+          "frame_id": "frame_00003",
+          "text": "RISE UP BABY!",
+          "norm_text": "rise up baby!",
+          "bbox": [
+            144,
+            273,
+            281,
+            362
+          ],
+          "label": "Text",
+          "region": "middle-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00005",
+      "description": "The camera continues to pan slowly. The Pepsi advertisements featuring Yash are very clear. The local Kannada script for 'KOMAL CAFE' is prominently displayed.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00004_det_001",
+          "frame_id": "frame_00004",
+          "text": "WROOM",
+          "norm_text": "wroom",
+          "bbox": [
+            0,
+            146,
+            124,
+            204
+          ],
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "local_id": "frame_00004_det_002",
+          "frame_id": "frame_00004",
+          "text": "REEM SONS",
+          "norm_text": "reem sons",
+          "bbox": [
+            0,
+            214,
+            124,
+            316
+          ],
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "local_id": "frame_00004_det_003",
+          "frame_id": "frame_00004",
+          "text": "NTS",
+          "norm_text": "nts",
+          "bbox": [
+            0,
+            356,
+            61,
+            402
+          ],
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "local_id": "frame_00004_det_004",
+          "frame_id": "frame_00004",
+          "text": "IT EXCEL CAMPUS",
+          "norm_text": "it excel campus",
+          "bbox": [
+            218,
+            0,
+            402,
+            221
+          ],
+          "label": "Text",
+          "region": "upper-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00006",
+      "description": "Passing the corner of the building. The 'KOMAL CAFE' sign is still visible, along with its descriptor: 'SOUTH INDIAN & NORTH INDIAN FAMILY RESTAURANT'.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00005_det_001",
+          "frame_id": "frame_00005",
+          "text": "ZEESCHOOL OF ENGLISH Tata Campus 110, Chembur Contact Us: 80355 81111 - 80355 81111 Behind High Court, Andheri East www.zeeschool.in",
+          "norm_text": "zeeschool of english tata campus 110, chembur contact us: 80355 81111 - 80355 81111 behind high court, andheri east www.zeeschool.in",
+          "bbox": [
+            199,
+            85,
+            390,
+            341
+          ],
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "local_id": "frame_00005_det_002",
+          "frame_id": "frame_00005",
+          "text": "RISE UP BABY!",
+          "norm_text": "rise up baby!",
+          "bbox": [
+            118,
+            269,
+            259,
+            358
+          ],
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "local_id": "frame_00005_det_003",
+          "frame_id": "frame_00005",
+          "text": "Image of a man holding a baby, part of the RISE UP BABY! advertisement.",
+          "norm_text": "image of a man holding a baby, part of the rise up baby! advertisement.",
+          "bbox": [
+            260,
+            328,
+            348,
+            422
+          ],
+          "label": "Image",
+          "region": "middle-left"
+        },
+        {
+          "local_id": "frame_00005_det_004",
+          "frame_id": "frame_00005",
+          "text": "KOMAL CAFE",
+          "norm_text": "komal cafe",
+          "bbox": [
+            357,
+            362,
+            466,
+            439
+          ],
+          "label": "Text",
+          "region": "middle-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00007",
+      "description": "New shop signs come into view. To the right of Komal Cafe, a sign for 'ASIAN SHAKES & ROLL'S' appears. In the background, a large billboard for 'Mount Litera Zee School' shows a student's face.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00006_det_001",
+          "frame_id": "frame_00006",
+          "text": "Admissions Open 1430 Campus 1100 Class Contact Us: 80955 81111 - 80955 8",
+          "norm_text": "admissions open 1430 campus 1100 class contact us: 80955 81111 - 80955 8",
+          "bbox": [
+            170,
+            0,
+            385,
+            201
+          ],
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "local_id": "frame_00006_det_002",
+          "frame_id": "frame_00006",
+          "text": "Behind High Court, Allahabad www.zeeschools.in",
+          "norm_text": "behind high court, allahabad www.zeeschools.in",
+          "bbox": [
+            170,
+            178,
+            385,
+            364
+          ],
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "local_id": "frame_00006_det_003",
+          "frame_id": "frame_00006",
+          "text": "Rise UP BABY!",
+          "norm_text": "rise up baby!",
+          "bbox": [
+            74,
+            286,
+            220,
+            374
+          ],
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "local_id": "frame_00006_det_004",
+          "frame_id": "frame_00006",
+          "text": "Image of a man and a woman smiling, part of the 'Rise UP BABY!' advertisement.",
+          "norm_text": "image of a man and a woman smiling, part of the 'rise up baby!' advertisement.",
+          "bbox": [
+            220,
+            328,
+            310,
+            436
+          ],
+          "label": "Image",
+          "region": "middle-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00008",
+      "description": "Movement past the next building. A large sign for 'ASIAN BAKERY' (Bakers & Confectionery) is visible. Above it is a billboard for 'SRN MEHTA PU COLLEGE'.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00007_det_001",
+          "frame_id": "frame_00007",
+          "text": "Mount Litera SCHOOL AFFILIATED",
+          "norm_text": "mount litera school affiliated",
+          "bbox": [
+            140,
+            0,
+            381,
+            180
+          ],
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "local_id": "frame_00007_det_002",
+          "frame_id": "frame_00007",
+          "text": "ADMISSIONS OPEN 14+2 Campuses | 110+ Cities",
+          "norm_text": "admissions open 14+2 campuses | 110+ cities",
+          "bbox": [
+            170,
+            83,
+            359,
+            235
+          ],
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "local_id": "frame_00007_det_003",
+          "frame_id": "frame_00007",
+          "text": "Contact Us: 80955 81111 - 80955 8 Behind High Court, Alzapuri www.zeceschoolkalab",
+          "norm_text": "contact us: 80955 81111 - 80955 8 behind high court, alzapuri www.zeceschoolkalab",
+          "bbox": [
+            145,
+            193,
+            385,
+            407
+          ],
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "local_id": "frame_00007_det_004",
+          "frame_id": "frame_00007",
+          "text": "Ze School",
+          "norm_text": "ze school",
+          "bbox": [
+            402,
+            170,
+            500,
+            286
+          ],
+          "label": "Text",
+          "region": "upper-center"
+        },
+        {
+          "local_id": "frame_00007_det_005",
+          "frame_id": "frame_00007",
+          "text": "DO YOU CHILD STUDY AT ANY",
+          "norm_text": "do you child study at any",
+          "bbox": [
+            402,
+            263,
+            497,
+            407
+          ],
+          "label": "Text",
+          "region": "middle-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00009",
+      "description": "Closer view of 'ASIAN BAKERY' with its name in Kannada (ಏಷಿಯನ್ ಬೇಕರಿ). A bright red Coca-Cola banner with the 'Real Magic' slogan sits above the bakery entrance.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00008_det_001",
+          "frame_id": "frame_00008",
+          "text": "Mount Litera",
+          "norm_text": "mount litera",
+          "bbox": [
+            196,
+            87,
+            386,
+            208
+          ],
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "local_id": "frame_00008_det_002",
+          "frame_id": "frame_00008",
+          "text": "CBSE Affiliation",
+          "norm_text": "cbse affiliation",
+          "bbox": [
+            292,
+            170,
+            386,
+            208
+          ],
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "local_id": "frame_00008_det_003",
+          "frame_id": "frame_00008",
+          "text": "ADMISSIONS OPEN",
+          "norm_text": "admissions open",
+          "bbox": [
+            180,
+            191,
+            357,
+            261
+          ],
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "local_id": "frame_00008_det_004",
+          "frame_id": "frame_00008",
+          "text": "145+ Campuses 1100+ Cities",
+          "norm_text": "145+ campuses 1100+ cities",
+          "bbox": [
+            180,
+            223,
+            363,
+            305
+          ],
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "local_id": "frame_00008_det_005",
+          "frame_id": "frame_00008",
+          "text": "Contact Us:",
+          "norm_text": "contact us:",
+          "bbox": [
+            169,
+            280,
+            260,
+            316
+          ],
+          "label": "Text",
+          "region": "middle-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00010",
+      "description": "Passing 'ASIAN BAKERY'. A new sign for 'HOTEL LOTUS PARK' (LUXURY & COMFORT LIVING) appears on the right, along with 'JP Residency LODGE'.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00009_det_001",
+          "frame_id": "frame_00009",
+          "text": "Mount Litera",
+          "norm_text": "mount litera",
+          "bbox": [
+            225,
+            199,
+            387,
+            252
+          ],
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "local_id": "frame_00009_det_002",
+          "frame_id": "frame_00009",
+          "text": "De School",
+          "norm_text": "de school",
+          "bbox": [
+            410,
+            199,
+            538,
+            242
+          ],
+          "label": "Text",
+          "region": "upper-center"
+        },
+        {
+          "local_id": "frame_00009_det_003",
+          "frame_id": "frame_00009",
+          "text": "ADMISSIONS OPEN",
+          "norm_text": "admissions open",
+          "bbox": [
+            214,
+            297,
+            356,
+            333
+          ],
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "local_id": "frame_00009_det_004",
+          "frame_id": "frame_00009",
+          "text": "140+ Campuses | 110+ Cities",
+          "norm_text": "140+ campuses | 110+ cities",
+          "bbox": [
+            214,
+            329,
+            364,
+            359
+          ],
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "local_id": "frame_00009_det_005",
+          "frame_id": "frame_00009",
+          "text": "Contact Us: 80955 81111 - 80955 8",
+          "norm_text": "contact us: 80955 81111 - 80955 8",
+          "bbox": [
+            202,
+            371,
+            387,
+            430
+          ],
+          "label": "Text",
+          "region": "middle-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00011",
+      "description": "The camera moves past a sequence of shops. Signs for 'JANATA CREAM PARLOUR' and a large 'ALEEMEE PUBLIC SCHOOL' billboard are visible. Below the school sign is 'DAGA ELECTRICALS'.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00010_det_001",
+          "frame_id": "frame_00010",
+          "text": "Mount Litera School ADMISSIONS OPEN 100+ Cities",
+          "norm_text": "mount litera school admissions open 100+ cities",
+          "bbox": [
+            115,
+            95,
+            592,
+            412
+          ],
+          "label": "Complex-Block",
+          "region": "middle-left"
+        },
+        {
+          "local_id": "frame_00010_det_002",
+          "frame_id": "frame_00010",
+          "text": "Rise UP BABY!",
+          "norm_text": "rise up baby!",
+          "bbox": [
+            159,
+            429,
+            261,
+            479
+          ],
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "local_id": "frame_00010_det_003",
+          "frame_id": "frame_00010",
+          "text": "ASIAN BAKERY",
+          "norm_text": "asian bakery",
+          "bbox": [
+            159,
+            479,
+            212,
+            496
+          ],
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "local_id": "frame_00010_det_004",
+          "frame_id": "frame_00010",
+          "text": "Rise UP BABY!",
+          "norm_text": "rise up baby!",
+          "bbox": [
+            174,
+            546,
+            275,
+            596
+          ],
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "local_id": "frame_00010_det_005",
+          "frame_id": "frame_00010",
+          "text": "ASIAN BAKERY",
+          "norm_text": "asian bakery",
+          "bbox": [
+            174,
+            623,
+            247,
+            644
+          ],
+          "label": "Text",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00012",
+      "description": "Clear view of 'RAJESH MEDICAL HALL' with its name in Kannada (ರಾಜೇಶ ಮೆಡಿಕಲ್ ಹಾಲ್). Above it is a modern building with blue glass windows. 'DAGA ELECTRICALS' is still partially visible.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00011_det_001",
+          "frame_id": "frame_00011",
+          "text": "Advertisement for a school featuring a woman and a child, with text: \"YOUR CHILD'S FUTURE BEGINS HERE!\" and \"LITERACY SCHOOL\".",
+          "norm_text": "advertisement for a school featuring a woman and a child, with text: \"your child's future begins here!\" and \"literacy school\".",
+          "bbox": [
+            0,
+            38,
+            380,
+            386
+          ],
+          "label": "Image",
+          "region": "upper-left"
+        },
+        {
+          "local_id": "frame_00011_det_002",
+          "frame_id": "frame_00011",
+          "text": "Coca-Cola Real Magic advertisement featuring a woman.",
+          "norm_text": "coca-cola real magic advertisement featuring a woman.",
+          "bbox": [
+            0,
+            386,
+            334,
+            632
+          ],
+          "label": "Image",
+          "region": "lower-left"
+        },
+        {
+          "local_id": "frame_00011_det_003",
+          "frame_id": "frame_00011",
+          "text": "ASIAN BAKERY s & Confectionery",
+          "norm_text": "asian bakery s & confectionery",
+          "bbox": [
+            0,
+            654,
+            300,
+            809
+          ],
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "local_id": "frame_00011_det_004",
+          "frame_id": "frame_00011",
+          "text": "HOTEL LOTUS PARK LUXURY & COMFORT LIVING",
+          "norm_text": "hotel lotus park luxury & comfort living",
+          "bbox": [
+            334,
+            487,
+            560,
+            599
+          ],
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "local_id": "frame_00011_det_005",
+          "frame_id": "frame_00011",
+          "text": "JP Residency HOMES & PARTY HALL",
+          "norm_text": "jp residency homes & party hall",
+          "bbox": [
+            327,
+            692,
+            542,
+            779
+          ],
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00013",
+      "description": "Passing 'HOTEL GULBARGA RESIDENCY'. Below it is a sign for the 'AAM AADMI PARTY' (ಆಮ್ ಆದ್ಮಿ ಪಾರ್ಟಿ) Kalaburagi South Assembly Office. Pedestrians and auto-rickshaws are visible on the street.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00012_det_001",
+          "frame_id": "frame_00012",
+          "text": "MAATRICE & CO. PVT. LTD. ALEEMEE PUBLIC SCHOOL AN ICSE SCHOOL",
+          "norm_text": "maatrice & co. pvt. ltd. aleemee public school an icse school",
+          "bbox": [
+            207,
+            178,
+            366,
+            280
+          ],
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "local_id": "frame_00012_det_002",
+          "frame_id": "frame_00012",
+          "text": "AFFILIATION No. KA276",
+          "norm_text": "affiliation no. ka276",
+          "bbox": [
+            207,
+            299,
+            351,
+            329
+          ],
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "local_id": "frame_00012_det_003",
+          "frame_id": "frame_00012",
+          "text": "100% RESULT IN THE ICSE 10TH STD BOARD EXAMS OF MARCH 2023",
+          "norm_text": "100% result in the icse 10th std board exams of march 2023",
+          "bbox": [
+            272,
+            333,
+            474,
+            388
+          ],
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "local_id": "frame_00012_det_004",
+          "frame_id": "frame_00012",
+          "text": "ADMISSION OPEN FOR CLASSES LKG - UKG - 1Std. to 1XStd.",
+          "norm_text": "admission open for classes lkg - ukg - 1std. to 1xstd.",
+          "bbox": [
+            175,
+            395,
+            478,
+            546
+          ],
+          "label": "Text",
+          "region": "middle-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00014",
+      "description": "The camera captures an older, unfinished brick building. At the ground level, there are signs for 'Praveen Footwear' (ಪ್ರವೀಣ ಫುಟವೇರ) and a 'MEALS & TIFFIN CENTRE'.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00013_det_001",
+          "frame_id": "frame_00013",
+          "text": "CA HOTEL GULSHAN RESIDENCY",
+          "norm_text": "ca hotel gulshan residency",
+          "bbox": [
+            360,
+            58,
+            670,
+            141
+          ],
+          "label": "Text",
+          "region": "upper-center"
+        },
+        {
+          "local_id": "frame_00013_det_002",
+          "frame_id": "frame_00013",
+          "text": "WELCOME TO GULSHAN RESIDENCY",
+          "norm_text": "welcome to gulshan residency",
+          "bbox": [
+            256,
+            134,
+            348,
+            168
+          ],
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "local_id": "frame_00013_det_003",
+          "frame_id": "frame_00013",
+          "text": "Portrait of a political leader",
+          "norm_text": "portrait of a political leader",
+          "bbox": [
+            256,
+            603,
+            274,
+            660
+          ],
+          "label": "Image",
+          "region": "lower-left"
+        },
+        {
+          "local_id": "frame_00013_det_004",
+          "frame_id": "frame_00013",
+          "text": "అమిత్ షా అండ్ కోటి",
+          "norm_text": "అమిత్ షా అండ్ కోటి",
+          "bbox": [
+            274,
+            603,
+            450,
+            650
+          ],
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "local_id": "frame_00013_det_005",
+          "frame_id": "frame_00013",
+          "text": "AAM ADMI PARTY",
+          "norm_text": "aam admi party",
+          "bbox": [
+            522,
+            582,
+            717,
+            627
+          ],
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00015",
+      "description": "The camera moves past 'AKBAR TOWER'. Signs for 'S.B. MEDICAL HALL' (ಎಸ್. ಬಿ. ಮೆಡಿಕಲ್ ಹಾಲ್), 'SHAH DENTAL CARE', and 'R.K. AQUARIUM & PET SHOP' (ಶ್ರೀ ಆರ್.ಕೆ ಅಕ್ವೇರಿಯಂ & ಪೆಟ್ ಶಾಪ್) are clustered together.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00014_det_001",
+          "frame_id": "frame_00014",
+          "text": "Advertisement board showing a man's portrait and text 'SUNRISE' and 'POWERFUL FERTILIZERS'.",
+          "norm_text": "advertisement board showing a man's portrait and text 'sunrise' and 'powerful fertilizers'.",
+          "bbox": [
+            432,
+            634,
+            580,
+            736
+          ],
+          "label": "Image",
+          "region": "lower-center"
+        },
+        {
+          "local_id": "frame_00014_det_002",
+          "frame_id": "frame_00014",
+          "text": "Blue parking sign with 'P' symbol and text 'LADIES PARKING' and 'From 36 AM'.",
+          "norm_text": "blue parking sign with 'p' symbol and text 'ladies parking' and 'from 36 am'.",
+          "bbox": [
+            299,
+            738,
+            374,
+            881
+          ],
+          "label": "Image",
+          "region": "lower-left"
+        },
+        {
+          "local_id": "frame_00014_det_003",
+          "frame_id": "frame_00014",
+          "text": "Yellow sign for 'SUNRISE POWERFUL FERTILIZERS'.",
+          "norm_text": "yellow sign for 'sunrise powerful fertilizers'.",
+          "bbox": [
+            618,
+            738,
+            695,
+            819
+          ],
+          "label": "Image",
+          "region": "lower-center"
+        },
+        {
+          "local_id": "frame_00014_det_004",
+          "frame_id": "frame_00014",
+          "text": "SHALL & LIFTER CENTRE",
+          "norm_text": "shall & lifter centre",
+          "bbox": [
+            736,
+            738,
+            887,
+            762
+          ],
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00016",
+      "description": "A green building on the left houses 'Jai Bhavani Maratha Khandavali'. To its right is the red 'Dr. S. S. PATIL COMPLEX'. A tea shop named 'Amruthulya' (ಅಮೃತತುಲ್ಯ) is at the ground level.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00015_det_001",
+          "frame_id": "frame_00015",
+          "text": "AKBAR TOWER",
+          "norm_text": "akbar tower",
+          "bbox": [
+            571,
+            68,
+            646,
+            108
+          ],
+          "label": "Text",
+          "region": "upper-center"
+        },
+        {
+          "local_id": "frame_00015_det_002",
+          "frame_id": "frame_00015",
+          "text": "AKBAR TOWER",
+          "norm_text": "akbar tower",
+          "bbox": [
+            517,
+            115,
+            706,
+            151
+          ],
+          "label": "Text",
+          "region": "upper-center"
+        },
+        {
+          "local_id": "frame_00015_det_003",
+          "frame_id": "frame_00015",
+          "text": "Home square",
+          "norm_text": "home square",
+          "bbox": [
+            487,
+            256,
+            612,
+            290
+          ],
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "local_id": "frame_00015_det_004",
+          "frame_id": "frame_00015",
+          "text": "Home square logo",
+          "norm_text": "home square logo",
+          "bbox": [
+            612,
+            256,
+            650,
+            305
+          ],
+          "label": "Image",
+          "region": "middle-center"
+        },
+        {
+          "local_id": "frame_00015_det_005",
+          "frame_id": "frame_00015",
+          "text": "మీ ఇంటిలో మీ సమయంలో మీ ప్రాణాలు",
+          "norm_text": "మీ ఇంటిలో మీ సమయంలో మీ ప్రాణాలు",
+          "bbox": [
+            650,
+            256,
+            784,
+            305
+          ],
+          "label": "Text",
+          "region": "middle-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00017",
+      "description": "The camera continues down the street. Signs for 'BALAJI sweets' and 'Apollo Pharmacy' (ಅಪೋಲೋ ಫಾರ್ಮಸಿ) are visible. Overhead wires are dense in this section.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00016_det_001",
+          "frame_id": "frame_00016",
+          "text": "DR. S. S. PATIL COMPLEX",
+          "norm_text": "dr. s. s. patil complex",
+          "bbox": [
+            523,
+            151,
+            631,
+            214
+          ],
+          "label": "Text",
+          "region": "upper-center"
+        },
+        {
+          "local_id": "frame_00016_det_002",
+          "frame_id": "frame_00016",
+          "text": "Advertisement poster featuring two figures, possibly religious or cultural figures, displayed on the building facade.",
+          "norm_text": "advertisement poster featuring two figures, possibly religious or cultural figures, displayed on the building facade.",
+          "bbox": [
+            532,
+            369,
+            672,
+            442
+          ],
+          "label": "Image",
+          "region": "middle-center"
+        },
+        {
+          "local_id": "frame_00016_det_003",
+          "frame_id": "frame_00016",
+          "text": "Jai Bhavani Maratha Khanayali",
+          "norm_text": "jai bhavani maratha khanayali",
+          "bbox": [
+            37,
+            616,
+            394,
+            671
+          ],
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "local_id": "frame_00016_det_004",
+          "frame_id": "frame_00016",
+          "text": "CHADDI HOTEL",
+          "norm_text": "chaddi hotel",
+          "bbox": [
+            172,
+            671,
+            256,
+            695
+          ],
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "local_id": "frame_00016_det_005",
+          "frame_id": "frame_00016",
+          "text": "Logo featuring a stylized 'J' or 'U' shape, possibly representing a deity or symbol.",
+          "norm_text": "logo featuring a stylized 'j' or 'u' shape, possibly representing a deity or symbol.",
+          "bbox": [
+            468,
+            591,
+            523,
+            722
+          ],
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00018",
+      "description": "Passing 'DBG POORNIMA WINES' (ಡಿ ಬಿ ಜಿ ಪೂರ್ಣಿಮಾ ವೈನ್ಸ್). Next to it is 'Kumar SHIRTS'. The street is busy with people and vehicles.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00017_det_001",
+          "frame_id": "frame_00017",
+          "text": "BALAJI SWEETS",
+          "norm_text": "balaji sweets",
+          "bbox": [
+            0,
+            748,
+            274,
+            867
+          ],
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "local_id": "frame_00017_det_002",
+          "frame_id": "frame_00017",
+          "text": "Apollo General & Organic",
+          "norm_text": "apollo general & organic",
+          "bbox": [
+            310,
+            662,
+            388,
+            768
+          ],
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "local_id": "frame_00017_det_003",
+          "frame_id": "frame_00017",
+          "text": "ಆpollo ApolloPharmacy",
+          "norm_text": "ಆpollo apollopharmacy",
+          "bbox": [
+            393,
+            642,
+            530,
+            748
+          ],
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "local_id": "frame_00017_det_004",
+          "frame_id": "frame_00017",
+          "text": "ಆpollo ApolloPharmacy",
+          "norm_text": "ಆpollo apollopharmacy",
+          "bbox": [
+            924,
+            730,
+            971,
+            821
+          ],
+          "label": "Text",
+          "region": "lower-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00019",
+      "description": "Signs for 'Basava Door's & Hardware's' (ಬಸವ ಡೋರ್ಸ್ & ಹಾರ್ಡ್ವೇರ್), 'R.G. PADSHETTY', and 'ALFA COMMUNICATION' (airtel 5G Plus) are visible on this block.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00018_det_001",
+          "frame_id": "frame_00018",
+          "text": "REDDY'S",
+          "norm_text": "reddy's",
+          "bbox": [
+            204,
+            58,
+            244,
+            81
+          ],
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "local_id": "frame_00018_det_002",
+          "frame_id": "frame_00018",
+          "text": "D.R.C. POORNIMA WINES",
+          "norm_text": "d.r.c. poornima wines",
+          "bbox": [
+            463,
+            449,
+            587,
+            530
+          ],
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "local_id": "frame_00018_det_003",
+          "frame_id": "frame_00018",
+          "text": "POORNIMA WINES",
+          "norm_text": "poornima wines",
+          "bbox": [
+            501,
+            646,
+            634,
+            676
+          ],
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "local_id": "frame_00018_det_004",
+          "frame_id": "frame_00018",
+          "text": "Ruma-T SHATS",
+          "norm_text": "ruma-t shats",
+          "bbox": [
+            751,
+            589,
+            885,
+            660
+          ],
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "local_id": "frame_00018_det_005",
+          "frame_id": "frame_00018",
+          "text": "Ruma-T",
+          "norm_text": "ruma-t",
+          "bbox": [
+            807,
+            940,
+            885,
+            1018
+          ],
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00020",
+      "description": "The camera reaches another street corner. Signs for 'BHARAT FOOT WEAR' and 'JANATA' lodge are seen. Dense overhead utility wires crisscross the scene.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00019_det_001",
+          "frame_id": "frame_00019",
+          "text": "YXO PRIDE STYLISH AND WISE STYLE FOOTWEAR",
+          "norm_text": "yxo pride stylish and wise style footwear",
+          "bbox": [
+            0,
+            621,
+            148,
+            771
+          ],
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "local_id": "frame_00019_det_002",
+          "frame_id": "frame_00019",
+          "text": "BAJAJ Doors & Hardware",
+          "norm_text": "bajaj doors & hardware",
+          "bbox": [
+            217,
+            635,
+            453,
+            781
+          ],
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "local_id": "frame_00019_det_003",
+          "frame_id": "frame_00019",
+          "text": "R. G. PADSHETTY Sri Ram Deen Temple & Haveli",
+          "norm_text": "r. g. padshetty sri ram deen temple & haveli",
+          "bbox": [
+            478,
+            644,
+            712,
+            800
+          ],
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "local_id": "frame_00019_det_004",
+          "frame_id": "frame_00019",
+          "text": "AT&T COMMUNICATION service to you",
+          "norm_text": "at&t communication service to you",
+          "bbox": [
+            722,
+            578,
+            937,
+            644
+          ],
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "local_id": "frame_00019_det_005",
+          "frame_id": "frame_00019",
+          "text": "airtel 5G Plus",
+          "norm_text": "airtel 5g plus",
+          "bbox": [
+            780,
+            649,
+            886,
+            703
+          ],
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00021",
+      "description": "Looking down a slightly wider section of the road. On the right, signs for 'VIJAYANAND TRAVELS' (ವಿಜಯಾನಂದ ಟ್ರಾವೆಲ್ಸ್) and 'MOHAN RESTAURANT' (ಮೋಹನ ರೆಸ್ಟೋರೆಂಟ್) are visible.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00020_det_001",
+          "frame_id": "frame_00020",
+          "text": "FOOT WEAR",
+          "norm_text": "foot wear",
+          "bbox": [
+            0,
+            621,
+            210,
+            745
+          ],
+          "label": "Text",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00022",
+      "description": "Close up view of 'MOHAN LODGE' (ಮೋಹನ ಲಾಡ್ಜ್) entrance and the adjacent 'MOHAN RESTAURANT'. Pedestrians are walking on the sidewalk.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00021_det_001",
+          "frame_id": "frame_00021",
+          "text": "Advertisement for Coca-Cola (San Diego) and KUHAN RESTAURANT.",
+          "norm_text": "advertisement for coca-cola (san diego) and kuhan restaurant.",
+          "bbox": [
+            636,
+            548,
+            955,
+            660
+          ],
+          "label": "Image",
+          "region": "lower-center"
+        },
+        {
+          "local_id": "frame_00021_det_002",
+          "frame_id": "frame_00021",
+          "text": "VILAYANAND TRAVELS MARIKANDI GATEWAY TO HOMES COFFEE",
+          "norm_text": "vilayanand travels marikandi gateway to homes coffee",
+          "bbox": [
+            485,
+            686,
+            632,
+            768
+          ],
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "local_id": "frame_00021_det_003",
+          "frame_id": "frame_00021",
+          "text": "Coca-Cola NEW WOMAN'S COFFEE",
+          "norm_text": "coca-cola new woman's coffee",
+          "bbox": [
+            528,
+            809,
+            675,
+            847
+          ],
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00023",
+      "description": "The camera pans to the right, showing a multi-story building with decorative lattice patterns on its side. More utility poles and wires are prominent.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00022_det_001",
+          "frame_id": "frame_00022",
+          "text": "మోహన్ లోడ్జ్",
+          "norm_text": "మోహన్ లోడ్జ్",
+          "bbox": [
+            340,
+            612,
+            596,
+            728
+          ],
+          "label": "Image",
+          "region": "lower-center"
+        },
+        {
+          "local_id": "frame_00022_det_002",
+          "frame_id": "frame_00022",
+          "text": "మోహన్ రెస్టోరెంట్",
+          "norm_text": "మోహన్ రెస్టోరెంట్",
+          "bbox": [
+            87,
+            745,
+            348,
+            1024
+          ],
+          "label": "Image",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00024",
+      "description": "The camera is looking forward down the main road. Traffic including auto-rickshaws and a red car is visible. To the left, there's a cluster of blue flags.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00023_det_001",
+          "frame_id": "frame_00023",
+          "text": "A street scene in a city, likely South America, featuring a tall, light-colored building with red decorative panels on the facade. The street is busy with vendors selling goods under colorful umbrellas (red, green, and blue). Overhead, numerous utility wires and wooden utility poles crisscross the sky, which is cloudy with patches of blue. Other buildings and vehicles are visible in the background.",
+          "norm_text": "a street scene in a city, likely south america, featuring a tall, light-colored building with red decorative panels on the facade. the street is busy with vendors selling goods under colorful umbrellas (red, green, and blue). overhead, numerous utility wires and wooden utility poles crisscross the sky, which is cloudy with patches of blue. other buildings and vehicles are visible in the background.",
+          "bbox": [
+            0,
+            0,
+            1024,
+            1024
+          ],
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00025",
+      "description": "A large blue billboard on the right catches the eye. It features the word 'GOLD' in English and Kannada script, likely for a jewelry or textile shop.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00024_det_001",
+          "frame_id": "frame_00024",
+          "text": "A wide-angle photograph of a busy street scene in a town or city. The sky is heavily overcast with dark clouds. On the left, a long, multi-story building with light-colored walls and dark window frames dominates the view. Several blue flags are hanging from the facade. The street is lined with utility poles and crisscrossed by numerous overhead power lines. Traffic, including cars and motorcycles, is visible on the road. Buildings of various colors line the street, and commercial signs are visible near the ground level.",
+          "norm_text": "a wide-angle photograph of a busy street scene in a town or city. the sky is heavily overcast with dark clouds. on the left, a long, multi-story building with light-colored walls and dark window frames dominates the view. several blue flags are hanging from the facade. the street is lined with utility poles and crisscrossed by numerous overhead power lines. traffic, including cars and motorcycles, is visible on the road. buildings of various colors line the street, and commercial signs are visible near the ground level.",
+          "bbox": [
+            0,
+            0,
+            1024,
+            1024
+          ],
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00026",
+      "description": "Moving closer to a large building on the right. The blue 'GOLD' billboard is still visible. A sign for 'DENTAL CARE HOSPITAL' appears further ahead.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00025_det_001",
+          "frame_id": "frame_00025",
+          "text": "A wide-angle photograph of a busy street scene in a city, likely in India, under a cloudy sky. The street is lined with multi-story buildings, utility poles, and overhead wires. Several cars are visible in the foreground and middle ground. A large blue and white billboard advertising 'G' (likely for Gionee) is prominent on the right side. Blue flags are hanging from the buildings on the left.",
+          "norm_text": "a wide-angle photograph of a busy street scene in a city, likely in india, under a cloudy sky. the street is lined with multi-story buildings, utility poles, and overhead wires. several cars are visible in the foreground and middle ground. a large blue and white billboard advertising 'g' (likely for gionee) is prominent on the right side. blue flags are hanging from the buildings on the left.",
+          "bbox": [
+            0,
+            0,
+            1024,
+            1024
+          ],
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00027",
+      "description": "Passing the 'DENTAL CARE HOSPITAL' (ದಂತ ಚಿಕಿತ್ಸಾಲಯ). Below it are shops like 'UNIQUE FOOT WEAR'. The street scene is crowded.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00026_det_001",
+          "frame_id": "frame_00026",
+          "text": "A large billboard advertising 'GOLD' jewelry, featuring a woman's face and the text 'GOLD JEWELLERY' and 'GOLDEN JEWELLERY'.",
+          "norm_text": "a large billboard advertising 'gold' jewelry, featuring a woman's face and the text 'gold jewellery' and 'golden jewellery'.",
+          "bbox": [
+            822,
+            0,
+            1024,
+            521
+          ],
+          "label": "Image",
+          "region": "middle-right"
+        },
+        {
+          "local_id": "frame_00026_det_002",
+          "frame_id": "frame_00026",
+          "text": "MOHANLAL GEMS HOSPITAL",
+          "norm_text": "mohanlal gems hospital",
+          "bbox": [
+            874,
+            439,
+            1024,
+            521
+          ],
+          "label": "Text",
+          "region": "middle-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00028",
+      "description": "Clear view of 'Dinesh FOOT WEAR' (ದಿನೇಶ ಫುಟವೇರ) and 'SAPTAGIRI OPTICAL' (EYE SPECIALIST). The building above has several levels of commercial space.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00027_det_001",
+          "frame_id": "frame_00027",
+          "text": "DENTAL CARE HOSPITAL",
+          "norm_text": "dental care hospital",
+          "bbox": [
+            766,
+            367,
+            985,
+            403
+          ],
+          "label": "Text",
+          "region": "middle-right"
+        },
+        {
+          "local_id": "frame_00027_det_002",
+          "frame_id": "frame_00027",
+          "text": "UNIQUE FOOT WEAR",
+          "norm_text": "unique foot wear",
+          "bbox": [
+            788,
+            671,
+            878,
+            781
+          ],
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00029",
+      "description": "Continuing past 'SAPTAGIRI OPTICAL'. Signs for 'EXIDE' batteries, 'TVS EUROGRIP' tires, and 'SAMAY TIME CENTRE' are visible.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00028_det_001",
+          "frame_id": "frame_00028",
+          "text": "DENTAL CARE HOSPITAL",
+          "norm_text": "dental care hospital",
+          "bbox": [
+            286,
+            368,
+            512,
+            400
+          ],
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "local_id": "frame_00028_det_002",
+          "frame_id": "frame_00028",
+          "text": "UNIQUE",
+          "norm_text": "unique",
+          "bbox": [
+            226,
+            684,
+            313,
+            720
+          ],
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "local_id": "frame_00028_det_003",
+          "frame_id": "frame_00028",
+          "text": "FOOT WEAR",
+          "norm_text": "foot wear",
+          "bbox": [
+            226,
+            720,
+            313,
+            745
+          ],
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "local_id": "frame_00028_det_004",
+          "frame_id": "frame_00028",
+          "text": "GERMANY",
+          "norm_text": "germany",
+          "bbox": [
+            226,
+            745,
+            313,
+            771
+          ],
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "local_id": "frame_00028_det_005",
+          "frame_id": "frame_00028",
+          "text": "BRACE",
+          "norm_text": "brace",
+          "bbox": [
+            226,
+            771,
+            313,
+            796
+          ],
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "local_id": "frame_00028_det_006",
+          "frame_id": "frame_00028",
+          "text": "Dr. S. S. SINGH",
+          "norm_text": "dr. s. s. singh",
+          "bbox": [
+            323,
+            684,
+            400,
+            711
+          ],
+          "label": "Text",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00030",
+      "description": "The final frame shows 'SAMAY TIME CENTRE' (ಸಮಯ ಟೈಮ್ ಸೆಂಟರ್) and 'Dr. KALE'S CLINIC'. A shop named 'VAZIR ELECTRICALS' is at ground level. The cloudy sky persists.",
+      "ocr_detections": [
+        {
+          "local_id": "frame_00029_det_001",
+          "frame_id": "frame_00029",
+          "text": "Large billboard advertisement featuring two women in swimwear, possibly for a brand like Geisha.",
+          "norm_text": "large billboard advertisement featuring two women in swimwear, possibly for a brand like geisha.",
+          "bbox": [
+            0,
+            0,
+            222,
+            305
+          ],
+          "label": "Image",
+          "region": "upper-left"
+        },
+        {
+          "local_id": "frame_00029_det_002",
+          "frame_id": "frame_00029",
+          "text": "EAR SAPTAGIRI OPTICAL EYE SPECIALIST",
+          "norm_text": "ear saptagiri optical eye specialist",
+          "bbox": [
+            0,
+            660,
+            352,
+            855
+          ],
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "local_id": "frame_00029_det_003",
+          "frame_id": "frame_00029",
+          "text": "EXIDE",
+          "norm_text": "exide",
+          "bbox": [
+            364,
+            654,
+            568,
+            807
+          ],
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "local_id": "frame_00029_det_004",
+          "frame_id": "frame_00029",
+          "text": "EUROGRIP",
+          "norm_text": "eurogrip",
+          "bbox": [
+            586,
+            637,
+            782,
+            788
+          ],
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "local_id": "frame_00029_det_005",
+          "frame_id": "frame_00029",
+          "text": "AMAY ELECTRICALS",
+          "norm_text": "amay electricals",
+          "bbox": [
+            785,
+            697,
+            897,
+            790
+          ],
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "local_id": "frame_00029_det_006",
+          "frame_id": "frame_00029",
+          "text": "SAM",
+          "norm_text": "sam",
+          "bbox": [
+            809,
+            836,
+            924,
+            910
+          ],
+          "label": "Text",
+          "region": "lower-right"
+        }
+      ]
+    }
+  ]
+}

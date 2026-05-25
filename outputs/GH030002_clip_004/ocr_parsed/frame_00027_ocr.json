@@ -1,0 +1,44 @@
+[
+  {
+    "local_id": "frame_00027_det_001",
+    "frame_id": "frame_00027",
+    "text": "NOVO D'NOVO CLINICS",
+    "norm_text": "novo d'novo clinics",
+    "bbox": [
+      0,
+      182,
+      288,
+      333
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00027_det_002",
+    "frame_id": "frame_00027",
+    "text": "ARIHAN AAWAS",
+    "norm_text": "arihan aawas",
+    "bbox": [
+      0,
+      430,
+      288,
+      493
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00027_det_003",
+    "frame_id": "frame_00027",
+    "text": "जय जिनेद",
+    "norm_text": "जय जिनेद",
+    "bbox": [
+      712,
+      480,
+      784,
+      530
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  }
+]

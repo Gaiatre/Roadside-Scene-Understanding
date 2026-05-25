@@ -1,0 +1,86 @@
+[
+  {
+    "local_id": "frame_00009_det_001",
+    "frame_id": "frame_00009",
+    "text": "Portrait of a woman smiling, part of the UMA GOLD store signage.",
+    "norm_text": "portrait of a woman smiling, part of the uma gold store signage.",
+    "bbox": [
+      714,
+      348,
+      775,
+      468
+    ],
+    "label": "Image",
+    "region": "middle-center"
+  },
+  {
+    "local_id": "frame_00009_det_002",
+    "frame_id": "frame_00009",
+    "text": "UMA GOLD",
+    "norm_text": "uma gold",
+    "bbox": [
+      795,
+      348,
+      1024,
+      422
+    ],
+    "label": "Text",
+    "region": "middle-right"
+  },
+  {
+    "local_id": "frame_00009_det_003",
+    "frame_id": "frame_00009",
+    "text": "GOLD COVERING & LADIES FA",
+    "norm_text": "gold covering & ladies fa",
+    "bbox": [
+      840,
+      436,
+      1024,
+      468
+    ],
+    "label": "Text",
+    "region": "middle-right"
+  },
+  {
+    "local_id": "frame_00009_det_004",
+    "frame_id": "frame_00009",
+    "text": "UMA GOLD",
+    "norm_text": "uma gold",
+    "bbox": [
+      976,
+      640,
+      1024,
+      733
+    ],
+    "label": "Text",
+    "region": "lower-right"
+  },
+  {
+    "local_id": "frame_00009_det_005",
+    "frame_id": "frame_00009",
+    "text": "OLD JEWELLERY",
+    "norm_text": "old jewellery",
+    "bbox": [
+      991,
+      778,
+      1024,
+      816
+    ],
+    "label": "Text",
+    "region": "lower-right"
+  },
+  {
+    "local_id": "frame_00009_det_006",
+    "frame_id": "frame_00009",
+    "text": "LADIES",
+    "norm_text": "ladies",
+    "bbox": [
+      991,
+      821,
+      1024,
+      859
+    ],
+    "label": "Text",
+    "region": "lower-right"
+  }
+]

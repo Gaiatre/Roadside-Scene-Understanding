@@ -1,0 +1,86 @@
+[
+  {
+    "local_id": "frame_00029_det_001",
+    "frame_id": "frame_00029",
+    "text": "Large billboard advertisement featuring two women in swimwear, possibly for a brand like Geisha.",
+    "norm_text": "large billboard advertisement featuring two women in swimwear, possibly for a brand like geisha.",
+    "bbox": [
+      0,
+      0,
+      222,
+      305
+    ],
+    "label": "Image",
+    "region": "upper-left"
+  },
+  {
+    "local_id": "frame_00029_det_002",
+    "frame_id": "frame_00029",
+    "text": "EAR SAPTAGIRI OPTICAL EYE SPECIALIST",
+    "norm_text": "ear saptagiri optical eye specialist",
+    "bbox": [
+      0,
+      660,
+      352,
+      855
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00029_det_003",
+    "frame_id": "frame_00029",
+    "text": "EXIDE",
+    "norm_text": "exide",
+    "bbox": [
+      364,
+      654,
+      568,
+      807
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "local_id": "frame_00029_det_004",
+    "frame_id": "frame_00029",
+    "text": "EUROGRIP",
+    "norm_text": "eurogrip",
+    "bbox": [
+      586,
+      637,
+      782,
+      788
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "local_id": "frame_00029_det_005",
+    "frame_id": "frame_00029",
+    "text": "AMAY ELECTRICALS",
+    "norm_text": "amay electricals",
+    "bbox": [
+      785,
+      697,
+      897,
+      790
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "local_id": "frame_00029_det_006",
+    "frame_id": "frame_00029",
+    "text": "SAM",
+    "norm_text": "sam",
+    "bbox": [
+      809,
+      836,
+      924,
+      910
+    ],
+    "label": "Text",
+    "region": "lower-right"
+  }
+]

@@ -1,0 +1,108 @@
+{
+  "video_id": "GL052834_clip_006",
+  "global_scene_summary": {
+    "environment": "Semi-urban commercial street in India",
+    "primary_activity": "Slow driving past a variety of retail and service establishments",
+    "atmospheric_conditions": "Daylight, clear and sunny with slight haze",
+    "infrastructure_type": "Mixed-use commercial buildings, narrow road with unpaved shoulders"
+  },
+  "text_detections": [
+    {
+      "text": "SOCH SANITARYWARE",
+      "region": "middle-right",
+      "frame_context": "frame_1, frame_2"
+    },
+    {
+      "text": "उत्तम हॉस्पीटल (Uttam Hospital)",
+      "region": "middle-center",
+      "frame_context": "frame_6, frame_7"
+    },
+    {
+      "text": "hindware",
+      "region": "middle-center",
+      "frame_context": "frame_8"
+    },
+    {
+      "text": "BENELAVE",
+      "region": "middle-right",
+      "frame_context": "frame_8, frame_9"
+    },
+    {
+      "text": "S.K. Marble & Tiles",
+      "region": "middle-right",
+      "frame_context": "frame_8"
+    },
+    {
+      "text": "asianpaints colourworld",
+      "region": "not_specified",
+      "frame_context": "frame_9"
+    },
+    {
+      "text": "देव मोटर्स (Dev Motors)",
+      "region": "lower-left",
+      "frame_context": "frame_10"
+    },
+    {
+      "text": "ब्रज मेडिकल स्टोर (Braj Medical Store)",
+      "region": "lower-left",
+      "frame_context": "frame_10"
+    }
+  ],
+  "temporal_text_events": {
+    "00:00_00:03": [
+      "SOCH Sanitaryware",
+      "Admirable Range of Products"
+    ],
+    "00:04_00:05": [
+      "Uttam Hospital (Hindi: उत्तम हॉस्पीटल)"
+    ],
+    "00:06_00:08": [
+      "Hindware",
+      "BENELAVE",
+      "S.K. Marble & Tiles",
+      "Asian Paints",
+      "S.S. Traders"
+    ],
+    "00:09_00:10": [
+      "Dev Motors",
+      "Braj Medical Store"
+    ]
+  },
+  "objects_and_motion": {
+    "camera_vehicle": "Forward motion at a slow, steady pace",
+    "parked_vehicles": [
+      "Motorcycle in front of Uttam Hospital (00:04)",
+      "Blue car parked on side street (00:08)",
+      "Two black motorcycles near hardware shops (frame_9)",
+      "Black motorcycle near medical store (frame_10)"
+    ],
+    "pedestrians": [
+      "Man talking on mobile phone near bricks (00:01)",
+      "Person inside a street kiosk (frame_7)",
+      "Person at pharmacy counter (frame_10)"
+    ],
+    "static_objects": [
+      "Large stacks of red clay bricks",
+      "Rusty metal and wire fence",
+      "Corrugated metal sliding gate",
+      "Ceramic sinks and pedestals on sidewalk"
+    ]
+  },
+  "scene_text_integration": {
+    "industrial_zone": "Text like 'SOCH SANITARYWARE' and 'S.K. Marble & Tiles' alongside physical piles of bricks confirms a construction/hardware hub.",
+    "healthcare_zone": "The transition to 'Uttam Hospital' and later 'Braj Medical Store' indicates a central services district within the commercial area.",
+    "brand_identification": "Global and local brands (Hindware, Asian Paints, Benelave) characterize the retail nature of the buildings."
+  },
+  "counts": {
+    "hospitals": 1,
+    "medical_stores": 1,
+    "motorcycles": 4,
+    "brick_piles": 2,
+    "commercial_blocks": 3
+  },
+  "navigation_reasoning": {
+    "road_conditions": "Narrow street with unpaved shoulders and encroachment by construction materials.",
+    "hazards": "Parked motorcycles and brick stacks reduce effective road width; pedestrians on the shoulder require driver vigilance.",
+    "visibility": "High visibility due to bright daylight, though solar glare is a minor factor."
+  }
+}

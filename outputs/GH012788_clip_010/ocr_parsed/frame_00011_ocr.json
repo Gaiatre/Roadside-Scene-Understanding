@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00011_det_001",
+    "frame_id": "frame_00011",
+    "text": "Interior view of a store, likely a sweet shop or grocery store, featuring shelves stocked with various goods, including jars and packaged items. A large glass display case in the foreground holds fresh fruits and vegetables. A person is visible standing near the center aisle.",
+    "norm_text": "interior view of a store, likely a sweet shop or grocery store, featuring shelves stocked with various goods, including jars and packaged items. a large glass display case in the foreground holds fresh fruits and vegetables. a person is visible standing near the center aisle.",
+    "bbox": [
+      0,
+      588,
+      1024,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

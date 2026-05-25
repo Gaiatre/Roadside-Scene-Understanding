@@ -1,0 +1,72 @@
+[
+  {
+    "local_id": "frame_00019_det_001",
+    "frame_id": "frame_00019",
+    "text": "YXO PRIDE STYLISH AND WISE STYLE FOOTWEAR",
+    "norm_text": "yxo pride stylish and wise style footwear",
+    "bbox": [
+      0,
+      621,
+      148,
+      771
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00019_det_002",
+    "frame_id": "frame_00019",
+    "text": "BAJAJ Doors & Hardware",
+    "norm_text": "bajaj doors & hardware",
+    "bbox": [
+      217,
+      635,
+      453,
+      781
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00019_det_003",
+    "frame_id": "frame_00019",
+    "text": "R. G. PADSHETTY Sri Ram Deen Temple & Haveli",
+    "norm_text": "r. g. padshetty sri ram deen temple & haveli",
+    "bbox": [
+      478,
+      644,
+      712,
+      800
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "local_id": "frame_00019_det_004",
+    "frame_id": "frame_00019",
+    "text": "AT&T COMMUNICATION service to you",
+    "norm_text": "at&t communication service to you",
+    "bbox": [
+      722,
+      578,
+      937,
+      644
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "local_id": "frame_00019_det_005",
+    "frame_id": "frame_00019",
+    "text": "airtel 5G Plus",
+    "norm_text": "airtel 5g plus",
+    "bbox": [
+      780,
+      649,
+      886,
+      703
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  }
+]

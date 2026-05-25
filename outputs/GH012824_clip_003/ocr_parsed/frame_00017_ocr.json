@@ -1,0 +1,58 @@
+[
+  {
+    "local_id": "frame_00017_det_001",
+    "frame_id": "frame_00017",
+    "text": "BALAJI SWEETS",
+    "norm_text": "balaji sweets",
+    "bbox": [
+      0,
+      748,
+      274,
+      867
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00017_det_002",
+    "frame_id": "frame_00017",
+    "text": "Apollo General & Organic",
+    "norm_text": "apollo general & organic",
+    "bbox": [
+      310,
+      662,
+      388,
+      768
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00017_det_003",
+    "frame_id": "frame_00017",
+    "text": "ಆpollo ApolloPharmacy",
+    "norm_text": "ಆpollo apollopharmacy",
+    "bbox": [
+      393,
+      642,
+      530,
+      748
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "local_id": "frame_00017_det_004",
+    "frame_id": "frame_00017",
+    "text": "ಆpollo ApolloPharmacy",
+    "norm_text": "ಆpollo apollopharmacy",
+    "bbox": [
+      924,
+      730,
+      971,
+      821
+    ],
+    "label": "Text",
+    "region": "lower-right"
+  }
+]

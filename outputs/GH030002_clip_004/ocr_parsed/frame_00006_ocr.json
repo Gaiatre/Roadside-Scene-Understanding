@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00006_det_001",
+    "frame_id": "frame_00006",
+    "text": "A street scene in a city, likely Bangkok, featuring a wide road shaded by large trees. On the left, a blue tuk-tuk is parked near a small roadside stall. A person in a blue shirt is sitting nearby. In the center, a temporary structure covered by a yellow tarp is enclosed by a blue metal fence. In the background, a large, multi-story building with a pink facade and decorative balconies dominates the right side of the frame. Other buildings and greenery are visible further down the street.",
+    "norm_text": "a street scene in a city, likely bangkok, featuring a wide road shaded by large trees. on the left, a blue tuk-tuk is parked near a small roadside stall. a person in a blue shirt is sitting nearby. in the center, a temporary structure covered by a yellow tarp is enclosed by a blue metal fence. in the background, a large, multi-story building with a pink facade and decorative balconies dominates the right side of the frame. other buildings and greenery are visible further down the street.",
+    "bbox": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

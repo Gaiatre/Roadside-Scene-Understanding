@@ -1,0 +1,58 @@
+[
+  {
+    "local_id": "frame_00014_det_001",
+    "frame_id": "frame_00014",
+    "text": "A blue public bus (number 101) is visible on the left side of the street, partially obscuring the view of the road ahead.",
+    "norm_text": "a blue public bus (number 101) is visible on the left side of the street, partially obscuring the view of the road ahead.",
+    "bbox": [
+      0,
+      375,
+      301,
+      961
+    ],
+    "label": "Image",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00014_det_002",
+    "frame_id": "frame_00014",
+    "text": "A white car is parked on the side of the road, visible between the bus and the pedestrians.",
+    "norm_text": "a white car is parked on the side of the road, visible between the bus and the pedestrians.",
+    "bbox": [
+      386,
+      610,
+      470,
+      768
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  },
+  {
+    "local_id": "frame_00014_det_003",
+    "frame_id": "frame_00014",
+    "text": "A person riding a rickshaw or cart is visible in the middle of the road.",
+    "norm_text": "a person riding a rickshaw or cart is visible in the middle of the road.",
+    "bbox": [
+      432,
+      682,
+      492,
+      768
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  },
+  {
+    "local_id": "frame_00014_det_004",
+    "frame_id": "frame_00014",
+    "text": "A pedestrian crossing painted on the road surface is visible in the foreground.",
+    "norm_text": "a pedestrian crossing painted on the road surface is visible in the foreground.",
+    "bbox": [
+      386,
+      610,
+      422,
+      811
+    ],
+    "label": "Image",
+    "region": "lower-left"
+  }
+]

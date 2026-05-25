@@ -1,0 +1,32 @@
+[
+  {
+    "text": "VOLU E",
+    "label": "Text",
+    "region": "middle-center"
+  },
+  {
+    "text": "VOLU E L'ORÉAL",
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "text": "METRO HOSPITAL",
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "text": "ಮೈದ ಕಾಲು",
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "text": "PHARMACY",
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "text": "24 HOURSEMERGENCY",
+    "label": "Text",
+    "region": "lower-center"
+  }
+]

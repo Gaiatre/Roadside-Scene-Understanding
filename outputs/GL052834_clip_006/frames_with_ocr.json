@@ -1,0 +1,331 @@
+{
+  "frames": [
+    {
+      "frame_name": "frame_1",
+      "description": "The scene shows a street-side view of a property enclosed by a rusty metal and wire fence. A long blue banner stretches across the top. To the right, a sign for a sanitaryware brand is partially visible.",
+      "signs": [
+        "Admirable Range of Products",
+        "SOCH SANITARYWARE",
+        "गोदाम (partially legible Hindi on fence sign)"
+      ],
+      "infrastructure": "Metal and wire fencing, structural poles, and lush trees in the background.",
+      "motion": "The camera is beginning to pan or move to the right along the property line.",
+      "ocr_detections": [
+        {
+          "text": "Admirable Range of Products",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "SOCHSANITARYWARE",
+          "label": "Text",
+          "region": "middle-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_2",
+      "description": "The camera continues moving right, revealing more of the industrial area. A large stack of red clay bricks is piled neatly in front of a weathered brick wall.",
+      "signs": [
+        "SOCH SANITARYWARE"
+      ],
+      "infrastructure": "Stack of bricks, brick wall, metal fence continuation.",
+      "motion": "Continued movement to the right, showing more of the brick stack.",
+      "ocr_detections": [
+        {
+          "text": "SOCH",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "SANITARYWARE",
+          "label": "Text",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_3",
+      "description": "The frame centers on a large pile of bricks and a brick wall with faded Hindi writing. In the background, a multi-story brick building is under construction under a cloudy sky.",
+      "signs": [
+        "बचाओ... (faded Hindi text on wall)"
+      ],
+      "infrastructure": "Large brick piles, aged brick wall, building under construction.",
+      "motion": "The camera moves past the brick storage area towards a gated section.",
+      "ocr_detections": [
+        {
+          "text": "बराजी",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "सुख देवनाथ",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "नेकरे रे बला,",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "मिले रे सारे व",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "तमाम",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_4",
+      "description": "A long brick wall is covered with large hand-painted Hindi advertisements. To the right is a large, grey, corrugated metal sliding gate. The construction building is still visible on the far right.",
+      "signs": [
+        "गुप्त रोगी डा. शेख शाहगंज आगरा",
+        "मो. 9568172911 (phone number)"
+      ],
+      "infrastructure": "Brick wall with graffiti, large metal sliding gate, construction site.",
+      "motion": "Movement past the advertisement wall towards the gate and adjacent building.",
+      "ocr_detections": [
+        {
+          "text": "गुरुत रंगे दाश्तप सेगिरे रुकाव राजाजी राजगढ़",
+          "label": "Text",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_5",
+      "description": "The camera passes the metal gate and shows a small, shuttered concrete building with a sign above the door. Next to it, a modern building with a pink facade and glass windows begins.",
+      "signs": [
+        "शुभ गर्भाणी के मालिश श्री निवास गुप्ता",
+        "मो. 9837057051, 7055444644"
+      ],
+      "infrastructure": "Small shop with closed shutters, concrete wall, modern building with pink trim.",
+      "motion": "Transitioning from a construction/industrial zone to a more commercial area.",
+      "ocr_detections": [
+        {
+          "text": "श्री निवास गुप्ता",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "माता शांति देवी",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "माता शांति देवी",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_6",
+      "description": "The view is focused on the front of a modern hospital building. It has wide stone steps leading up to an entrance and a green horizontal sign. The building features blue-tinted glass panels and red-pink vertical accents.",
+      "signs": [
+        "उत्तम हॉस्पीटल (Uttam Hospital)"
+      ],
+      "infrastructure": "Hospital building, wide stone staircase, glass facade.",
+      "motion": "The camera is now passing directly in front of the hospital.",
+      "ocr_detections": [
+        {
+          "text": "उत्तम होस्पीटल",
+          "label": "Text",
+          "region": "middle-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_7",
+      "description": "A narrow alleyway sits between the hospital and the next set of commercial buildings. A small street kiosk is visible on the sidewalk. A metal ladder is propped up against the wall of the neighboring building.",
+      "signs": [
+        "उत्तम हॉस्पीटल",
+        "S.K. Marble & Tiles (partially visible in distance)"
+      ],
+      "pedestrians": "A person is sitting inside the small street kiosk.",
+      "infrastructure": "Hospital building side, narrow alley, street kiosk, metal ladder.",
+      "motion": "Moving past the hospital into a dense commercial storefront area.",
+      "ocr_detections": [
+        {
+          "text": "उत्तम हॉस्पिटल",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "राजकुमार नगरद्वारा द बिल्डिंग",
+          "label": "Text",
+          "region": "lower-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_8",
+      "description": "The scene shows several hardware and sanitaryware shops. Multiple signs for well-known brands are visible. Various ceramic sinks and pedestals are displayed on the sidewalk outside.",
+      "signs": [
+        "hindware",
+        "BENELAVE",
+        "S.K. Marble & Tiles",
+        "यश इण्टरप्राइजेज (Yash Enterprises)"
+      ],
+      "infrastructure": "Commercial storefronts, sidewalk displays of sanitaryware.",
+      "motion": "Continuing at a steady pace past retail shops.",
+      "ocr_detections": [
+        {
+          "text": "hindware",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "Hindware logo featuring a stylized 'H' and a small boat icon.",
+          "label": "Image",
+          "region": "middle-center"
+        },
+        {
+          "text": "Hindware logo featuring a stylized 'H' and a small boat icon.",
+          "label": "Image",
+          "region": "middle-center"
+        },
+        {
+          "text": "BENELAVE",
+          "label": "Text",
+          "region": "middle-right"
+        },
+        {
+          "text": "S.K. Marble & Tile Co. (Pvt.) Ltd.",
+          "label": "Text",
+          "region": "middle-right"
+        },
+        {
+          "text": "Benelave logo featuring a stylized 'F' and a small boat icon.",
+          "label": "Image",
+          "region": "lower-center"
+        },
+        {
+          "text": "BENELAVE",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "Best Quality Marble & Granite",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "S.N. Marble & Tiles",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "SK",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_9",
+      "description": "Further storefronts are shown, including a paint shop and a general trade shop. Two motorcycles are parked on the unpaved road shoulder in front of the stores.",
+      "signs": [
+        "BENELAVE",
+        "asianpaints colourworld",
+        "S.S. TRADERS",
+        "PERFECT PLUS CEMENT"
+      ],
+      "vehicles": "Two black motorcycles parked on the roadside.",
+      "infrastructure": "Commercial buildings, unpaved roadside, parked motorcycles.",
+      "motion": "Moving past the row of hardware and paint stores.",
+      "ocr_detections": [
+        {
+          "text": "श्री नारायण दास",
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "text": "श्री नारायण दास",
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "text": "BENELAVESuper Radiance, Better Radiance.",
+          "label": "Complex-Block",
+          "region": "middle-left"
+        },
+        {
+          "text": "Portrait of a woman next to the SK logo.",
+          "label": "Image",
+          "region": "lower-left"
+        },
+        {
+          "text": "S K",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "S.S. TRADERS",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "PERFECT PLUS",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "1518-SHREECHARIES",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "SK",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "PERFECT PLUS",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "cent",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "श्रीव गोरखपुर",
+          "label": "Text",
+          "region": "lower-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_10",
+      "description": "The final frame shows a corner medical store and a motor shop. A man in a white shirt stands at the counter of the pharmacy. A motorcycle is parked in the foreground, and the street turns into a dirt path on the right.",
+      "signs": [
+        "देव मोटर्स (Dev Motors)",
+        "ब्रज मेडिकल स्टोर (Braj Medical Store)",
+        "मेडिकल स्टोर (Medical Store)"
+      ],
+      "pedestrians": "One person standing at the pharmacy counter.",
+      "vehicles": "One black motorcycle parked near the store entrance.",
+      "infrastructure": "Corner shop building, pharmacy counter, dirt road.",
+      "motion": "The camera is nearing the end of the building block or turning a corner.",
+      "ocr_detections": [
+        {
+          "text": "देव गाउत्स बुज़ महीकल स्टोर",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "द वाइंड यो",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    }
+  ]
+}

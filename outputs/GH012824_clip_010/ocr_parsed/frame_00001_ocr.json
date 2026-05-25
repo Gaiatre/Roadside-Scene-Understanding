@@ -1,0 +1,17 @@
+[
+  {
+    "text": "HOTELPREETAM",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "PREETAM BAR",
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "text": "PREETAM BAR& RESTAURANT",
+    "label": "Text",
+    "region": "lower-center"
+  }
+]

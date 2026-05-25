@@ -1,0 +1,507 @@
+{
+  "frames": [
+    {
+      "frame_name": "frame_00000",
+      "description": "The scene shows a street-side shop with many plastic buckets and woven baskets on display. A yellow and blue three-wheeled vehicle is partially visible on the right.",
+      "signs": [
+        {
+          "transcription": "DURA",
+          "language": "English"
+        }
+      ],
+      "vehicles": "Yellow and blue three-wheeled vehicle partially visible.",
+      "pedestrians": "A person is partially visible inside the shop.",
+      "traffic_signals": "None",
+      "infrastructure": "Building with shop front and overhead power lines.",
+      "scene_changes": "Initial frame of the sequence."
+    },
+    {
+      "frame_name": "frame_00001",
+      "description": "Moving forward, a large red transport truck filled with green banana leaves dominates the foreground, obscuring much of the shop behind it.",
+      "signs": [
+        {
+          "transcription": "ഫർണിച്ചർ ഹൗസ് (Furniture House)",
+          "language": "Malayalam"
+        },
+        {
+          "transcription": "Karnataka, Kerala, Pondy",
+          "language": "English"
+        },
+        {
+          "transcription": "TN 36 AD 0...",
+          "language": "English"
+        }
+      ],
+      "vehicles": "A large red transport truck.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None",
+      "infrastructure": "Buildings and utility lines.",
+      "scene_changes": "Moving past the previous shop, view blocked by a large truck."
+    },
+    {
+      "frame_name": "frame_00002",
+      "description": "The camera passes a two-story building featuring 'KMS TRADERS', an Indian drugs merchant. Several motorbikes are parked in front of the shop.",
+      "signs": [
+        {
+          "transcription": "KMS TRADERS Indian Drugs Merchant",
+          "language": "English"
+        },
+        {
+          "transcription": "പൂജാ സാധനങ്ങളും പച്ച മരുന്നുകളും ഇവിടെ ലഭിക്കും (Puja items and raw medicines available here)",
+          "language": "Malayalam"
+        },
+        {
+          "transcription": "Melamuri, Palakkad",
+          "language": "English"
+        }
+      ],
+      "vehicles": "Multiple motorbikes/scooters parked on the street.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None",
+      "infrastructure": "Commercial building with shutters.",
+      "scene_changes": "Moved further down the street to a new storefront."
+    },
+    {
+      "frame_name": "frame_00003",
+      "description": "The frame captures 'B.N. FRUITS', a fruit shop with a wide variety of fruits displayed at the entrance. People are walking by or standing near the shop.",
+      "signs": [
+        {
+          "transcription": "B.N. FRUITS",
+          "language": "English"
+        },
+        {
+          "transcription": "Big Bazaar, Melamuri, Palakkad",
+          "language": "English"
+        }
+      ],
+      "vehicles": "A motorbike is partially visible on the left.",
+      "pedestrians": "Two men are visible, one walking past and one inside the shop.",
+      "traffic_signals": "None",
+      "infrastructure": "Storefront with fruit displays.",
+      "scene_changes": "Continuing down the street to a fruit shop."
+    },
+    {
+      "frame_name": "frame_00004",
+      "description": "Moving past an old building with a tiled roof and closed blue metal shutters. A pedestrian in a hat is seen on the left.",
+      "signs": [],
+      "vehicles": "None visible.",
+      "pedestrians": "One person wearing a hat and light-colored shirt.",
+      "traffic_signals": "None",
+      "infrastructure": "Old street-side buildings with metal and tiled roofs.",
+      "scene_changes": "Passing by a closed storefront."
+    },
+    {
+      "frame_name": "frame_00005",
+      "description": "The view is partially blocked by a blue structure covered in tarpaulin. A utility pole with markings is in the foreground.",
+      "signs": [
+        {
+          "transcription": "V M SNACKS",
+          "language": "English"
+        },
+        {
+          "transcription": "SMP CT 55",
+          "language": "English"
+        }
+      ],
+      "vehicles": "None visible.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None",
+      "infrastructure": "Utility pole and buildings with traditional roofs.",
+      "scene_changes": "Moving along the roadside, past a snack shop."
+    },
+    {
+      "frame_name": "frame_00006",
+      "description": "The camera shows 'A.C. VASUDEVAN & SON', a coir merchant shop. Coir mats and ropes are displayed in the shop.",
+      "signs": [
+        {
+          "transcription": "A.C. VASUDEVAN & SON COIR MERCHANT",
+          "language": "English"
+        },
+        {
+          "transcription": "BMS പാലക്കാട് മേഖലാ ഓഫീസ് (BMS Palakkad Regional Office)",
+          "language": "Malayalam"
+        },
+        {
+          "transcription": "Wholesale Dealer Best Quality in Low Price",
+          "language": "English"
+        }
+      ],
+      "vehicles": "None visible.",
+      "pedestrians": "A person is dimly visible inside the shop.",
+      "traffic_signals": "None",
+      "infrastructure": "A shop within a yellow painted building.",
+      "scene_changes": "Moving further down the street."
+    },
+    {
+      "frame_name": "frame_00007",
+      "description": "The view shifts down a narrow alleyway lined with buildings. Several motorbikes are parked along the left wall, and a white truck is seen in the distance.",
+      "signs": [
+        {
+          "transcription": "മെലാമുറിയിൽ (In Melamuri)",
+          "language": "Malayalam"
+        }
+      ],
+      "vehicles": "Parked motorbikes and a white truck in the distance.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None",
+      "infrastructure": "Narrow paved alley with old buildings.",
+      "scene_changes": "Entering or passing a narrow side street."
+    },
+    {
+      "frame_name": "frame_00008",
+      "description": "A small flower stall sits beside 'UMA GOLD', a gold covering and fancy shop. A man is seated at the flower stall.",
+      "signs": [
+        {
+          "transcription": "UMA GOLD GOLD COVERING & LADIES FANCY",
+          "language": "English"
+        },
+        {
+          "transcription": "ഉമ ഗോൾഡ് (Uma Gold)",
+          "language": "Malayalam"
+        }
+      ],
+      "vehicles": "Part of a scooter is visible at the bottom.",
+      "pedestrians": "A man is sitting in the flower stall.",
+      "traffic_signals": "None",
+      "infrastructure": "Commercial storefronts.",
+      "scene_changes": "Moving past another set of shops."
+    },
+    {
+      "frame_name": "frame_00009",
+      "description": "The camera passes 'UMA GIFT HOUSE' and a sweet shop. A woman in a saree and mask walks across the scene.",
+      "signs": [
+        {
+          "transcription": "UMA Gift House",
+          "language": "English"
+        },
+        {
+          "transcription": "ഉമ ഗിഫ്റ്റ് ഹൗസ് (Uma Gift House)",
+          "language": "Malayalam"
+        },
+        {
+          "transcription": "മെലാമുറി, പാലക്കാട് (Melamuri, Palakkad)",
+          "language": "Malayalam"
+        }
+      ],
+      "vehicles": "None visible.",
+      "pedestrians": "A woman walking and a man sitting on the left.",
+      "traffic_signals": "None",
+      "infrastructure": "Commercial street buildings.",
+      "scene_changes": "Moving along the commercial area."
+    },
+    {
+      "frame_name": "frame_00010",
+      "description": "A close view of the interior and storefront of a shop selling dates and sweets. Glass counters are filled with traditional sweets.",
+      "signs": [
+        {
+          "transcription": "DATES",
+          "language": "English"
+        }
+      ],
+      "vehicles": "None visible.",
+      "pedestrians": "A person is inside the shop behind the counter.",
+      "traffic_signals": "None",
+      "infrastructure": "Sweet shop interior with shelves and glass displays.",
+      "scene_changes": "Briefly showing a shop interior."
+    },
+    {
+      "frame_name": "frame_00011",
+      "description": "A glass display window showing various cosmetics and perfume bottles. Large advertisements for 'FOGG' and 'DISH GOLD' are visible.",
+      "signs": [
+        {
+          "transcription": "FOGG, DISH GOLD",
+          "language": "English"
+        }
+      ],
+      "vehicles": "None visible.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None",
+      "infrastructure": "Storefront glass display window.",
+      "scene_changes": "Moving past a cosmetic shop."
+    },
+    {
+      "frame_name": "frame_00012",
+      "description": "The camera moves past 'P.M. FLOWERS', where a man is standing at the entrance. The shop features various flower garlands.",
+      "signs": [
+        {
+          "transcription": "P.M. FLOWERS Market Road, Palakkad-14",
+          "language": "English"
+        },
+        {
+          "transcription": "അരളി, താമര, പനിനീർ പൂക്കൾ... (Oleander, Lotus, Rose flowers...)",
+          "language": "Malayalam"
+        }
+      ],
+      "vehicles": "None visible.",
+      "pedestrians": "A man in a red shirt standing in the shop.",
+      "traffic_signals": "None",
+      "infrastructure": "Flower shop storefront.",
+      "scene_changes": "Continuing past flower shops."
+    },
+    {
+      "frame_name": "frame_00013",
+      "description": "An ornate entrance to a temple is shown, featuring golden statues and a carved wooden door behind a decorative metal arch.",
+      "signs": [
+        {
+          "transcription": "നായകൻ ക്ഷേത്രം (Nayankan Temple)",
+          "language": "Malayalam"
+        },
+        {
+          "transcription": "കാണിക്കപ്പെട്ട വഞ്ചി (Offering box)",
+          "language": "Malayalam"
+        }
+      ],
+      "vehicles": "None visible.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None",
+      "infrastructure": "Temple entrance with stone walls and a red roof.",
+      "scene_changes": "Passing a religious building."
+    },
+    {
+      "frame_name": "frame_00014",
+      "description": "Moving along the side wall of the temple complex. A large bell is visible beneath the roof structure.",
+      "signs": [],
+      "vehicles": "None visible.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None",
+      "infrastructure": "Temple boundary wall and roof.",
+      "scene_changes": "Continuing along the temple boundary."
+    },
+    {
+      "frame_name": "frame_00015",
+      "description": "The temple wall ends, revealing a red metal fence and trees in the background. A motorbike mirror is visible at the bottom.",
+      "signs": [],
+      "vehicles": "A motorbike mirror is visible.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None",
+      "infrastructure": "Stone wall and metal fence.",
+      "scene_changes": "Leaving the temple area."
+    },
+    {
+      "frame_name": "frame_00016",
+      "description": "The camera moves past a dark corrugated metal fence. Part of a blue and black auto-rickshaw is visible on the left.",
+      "signs": [],
+      "vehicles": "A blue and black auto-rickshaw.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None",
+      "infrastructure": "Metal boundary fence and trees.",
+      "scene_changes": "Moving past a long fence."
+    },
+    {
+      "frame_name": "frame_00017",
+      "description": "Continuing along the dark metal fence under a clear sky. A man's head is partially visible at the bottom of the frame.",
+      "signs": [],
+      "vehicles": "Part of an auto-rickshaw.",
+      "pedestrians": "A man's head is visible.",
+      "traffic_signals": "None",
+      "infrastructure": "Metal fence and lush green trees.",
+      "scene_changes": "Same scene, slightly further ahead."
+    },
+    {
+      "frame_name": "frame_00018",
+      "description": "Passing a shop with a sign for 'GUBI REXINE', selling upholstery and furnishing fabrics.",
+      "signs": [
+        {
+          "transcription": "GUBI REXINE Upholstery Materials & Furnishing Fabric",
+          "language": "English"
+        }
+      ],
+      "vehicles": "None visible.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None",
+      "infrastructure": "Building with tiled roof and shop front.",
+      "scene_changes": "Approaching new businesses."
+    },
+    {
+      "frame_name": "frame_00019",
+      "description": "The camera passes 'THILAKAM PHARMA', a chemists and druggists shop. A man is entering the shop.",
+      "signs": [
+        {
+          "transcription": "THILAKAM PHARMA CHEMISTS & DRUGGISTS",
+          "language": "English"
+        },
+        {
+          "transcription": "BIG BAZAR, MELAMURI, PALAKKAD",
+          "language": "English"
+        }
+      ],
+      "vehicles": "None visible.",
+      "pedestrians": "A man in a green/grey shirt entering the pharmacy.",
+      "traffic_signals": "None",
+      "infrastructure": "Pharmacy storefront with wooden doors.",
+      "scene_changes": "Moving past a pharmacy."
+    },
+    {
+      "frame_name": "frame_00020",
+      "description": "Next to the pharmacy is 'CN BANANA MERCHANT', with bunches of bananas hanging inside the shop.",
+      "signs": [
+        {
+          "transcription": "CN BANANA MERCHANT WHOLESALE & RETAIL",
+          "language": "English"
+        },
+        {
+          "transcription": "തിലകം ഫാർമ (Thilakam Pharma)",
+          "language": "Malayalam"
+        }
+      ],
+      "vehicles": "None visible.",
+      "pedestrians": "A man is sitting inside the shop.",
+      "traffic_signals": "None",
+      "infrastructure": "Shop with a metal shutter and signage.",
+      "scene_changes": "Passing a banana wholesale shop."
+    },
+    {
+      "frame_name": "frame_00021",
+      "description": "The camera passes 'DAS TEA SHOP', a small establishment in Melamuri.",
+      "signs": [
+        {
+          "transcription": "Das TEA SHOP MELAMURI",
+          "language": "English"
+        },
+        {
+          "transcription": "ചായ കോഫി ഹീറ്റിൽസ് (Tea Coffee Horlicks)",
+          "language": "Malayalam"
+        }
+      ],
+      "vehicles": "Part of a bicycle is visible.",
+      "pedestrians": "A man sitting inside the shop.",
+      "traffic_signals": "None",
+      "infrastructure": "Small roadside tea shop.",
+      "scene_changes": "Moving further along the commercial street."
+    },
+    {
+      "frame_name": "frame_00022",
+      "description": "Passing by buildings with closed metal shutters.",
+      "signs": [],
+      "vehicles": "Motorbike handlebars are visible.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None",
+      "infrastructure": "Commercial buildings with shutters and traditional roofs.",
+      "scene_changes": "Passing closed shops."
+    },
+    {
+      "frame_name": "frame_00023",
+      "description": "The camera shows 'ANAND FLOUR MILL', with lists of ground items like chili, coriander, and turmeric.",
+      "signs": [
+        {
+          "transcription": "ANAND FLOUR MILL",
+          "language": "English"
+        },
+        {
+          "transcription": "ആനന്ദ് ഫ്ലോർ മില്ല് (Anand Flour Mill)",
+          "language": "Malayalam"
+        },
+        {
+          "transcription": "മെലാമുറി, പാലക്കാട്-14 (Melamuri, Palakkad-14)",
+          "language": "Malayalam"
+        },
+        {
+          "transcription": "JOB WORKS",
+          "language": "English"
+        }
+      ],
+      "vehicles": "Motorbike front is visible.",
+      "pedestrians": "People are visible inside the shop.",
+      "traffic_signals": "None",
+      "infrastructure": "Flour mill storefront.",
+      "scene_changes": "Moving past a flour mill."
+    },
+    {
+      "frame_name": "frame_00024",
+      "description": "Next is 'INDRAN', a shop with numerous bottled products, likely oils or juices, on display outside.",
+      "signs": [
+        {
+          "transcription": "INDRAN",
+          "language": "English"
+        }
+      ],
+      "vehicles": "None visible.",
+      "pedestrians": "A person with back to the camera.",
+      "traffic_signals": "None",
+      "infrastructure": "Shopfront with various goods on display.",
+      "scene_changes": "Passing another wholesale shop."
+    },
+    {
+      "frame_name": "frame_00025",
+      "description": "A yellow building with a 'Shop for Rent' sign hanging from its overhang. Two motorbikes are parked in front.",
+      "signs": [
+        {
+          "transcription": "കട വാടകയ്ക്ക് (Shop for Rent)",
+          "language": "Malayalam"
+        }
+      ],
+      "vehicles": "Two scooters/motorbikes parked.",
+      "pedestrians": "A man is sitting at a desk in the adjacent shop.",
+      "traffic_signals": "None",
+      "infrastructure": "Commercial building and utility pole.",
+      "scene_changes": "Passing a shop for rent."
+    },
+    {
+      "frame_name": "frame_00026",
+      "description": "The camera moves past a bright pink building with a closed shutter and a spiral staircase visible behind it.",
+      "signs": [],
+      "vehicles": "A white scooter is parked.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None",
+      "infrastructure": "Pink building and external spiral staircase.",
+      "scene_changes": "Passing a colorful building."
+    },
+    {
+      "frame_name": "frame_00027",
+      "description": "Passing a general store where various garments and bags are hanging outside.",
+      "signs": [
+        {
+          "transcription": "ശബരിമല അയ്യപ്പന്മാർക്കുള്ള... (For Sabarimala pilgrims...)",
+          "language": "Malayalam"
+        }
+      ],
+      "vehicles": "None visible.",
+      "pedestrians": "A person is visible inside the store.",
+      "traffic_signals": "None",
+      "infrastructure": "Shopfront filled with goods.",
+      "scene_changes": "Continuing past general stores."
+    },
+    {
+      "frame_name": "frame_00028",
+      "description": "Passing a shop with a large 'AVT PREMIUM' tea advertisement. The shop is stocked with large bags of grains.",
+      "signs": [
+        {
+          "transcription": "AVT PREMIUM CTC DUST TEA",
+          "language": "English"
+        },
+        {
+          "transcription": "ഏറ്റവും കടുപ്പമുള്ള ചായ. സ്ഥിരമായി. (Strongest tea. Always.)",
+          "language": "Malayalam"
+        }
+      ],
+      "vehicles": "None visible.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None",
+      "infrastructure": "Grocery/grain store storefront.",
+      "scene_changes": "Passing a grain shop."
+    },
+    {
+      "frame_name": "frame_00029",
+      "description": "The final frame shows 'SKM COCONUT POINT' and 'Sri Mookambika Lottery Agency' side-by-side.",
+      "signs": [
+        {
+          "transcription": "SKM COCONUT POINT",
+          "language": "English"
+        },
+        {
+          "transcription": "ശ്രീ മൂകാംബിക ലോട്ടറി ഏജൻസി (Sri Mookambika Lottery Agency)",
+          "language": "Malayalam"
+        },
+        {
+          "transcription": "മെലാമുറി പാലക്കാട് (Melamuri Palakkad)",
+          "language": "Malayalam"
+        }
+      ],
+      "vehicles": "None visible.",
+      "pedestrians": "A man with a red helmet in the foreground.",
+      "traffic_signals": "None",
+      "infrastructure": "Small shop stalls.",
+      "scene_changes": "End of the sequence."
+    }
+  ]
+}

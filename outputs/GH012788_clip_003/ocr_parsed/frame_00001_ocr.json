@@ -1,0 +1,32 @@
+[
+  {
+    "text": "S.S.SURGICAL",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "B.M. LOCK CENTRE",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "Retail & Wholesale",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "SHREE GANESH ALUMINIUM",
+    "label": "Text",
+    "region": "middle-center"
+  },
+  {
+    "text": "Dealers in Aluminium",
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "text": "ACR, C.C. Sheet & P.V.C. Sheet",
+    "label": "Text",
+    "region": "lower-center"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "text": "A large billboard featuring several people, likely promoting a political or social cause.",
+    "label": "Image",
+    "region": "middle-center"
+  },
+  {
+    "text": "काशिना L.I.C विकल्प चला",
+    "label": "Text",
+    "region": "middle-center"
+  },
+  {
+    "text": "Courtesy : Ward 22 INTUC",
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "text": "KP",
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "text": "KP",
+    "label": "Text",
+    "region": "lower-center"
+  }
+]

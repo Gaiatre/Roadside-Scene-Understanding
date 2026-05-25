@@ -1,0 +1,32 @@
+[
+  {
+    "text": "9) 9641-9037 20.21",
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "text": "সাওন",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "Punjab National Bank (PNB) logo",
+    "label": "Image",
+    "region": "upper-center"
+  },
+  {
+    "text": "Finance",
+    "label": "Text",
+    "region": "upper-center"
+  },
+  {
+    "text": "Punjab National Bank (PNB) logo",
+    "label": "Image",
+    "region": "upper-center"
+  },
+  {
+    "text": "মু",
+    "label": "Text",
+    "region": "upper-right"
+  }
+]

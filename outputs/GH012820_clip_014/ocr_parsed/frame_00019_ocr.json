@@ -1,0 +1,32 @@
+[
+  {
+    "text": "RATOR",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "HEALTHCARE PVT LTD",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "DIGITALX-RAY",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "CHILD CARE CLINIC",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "Portrait of a man, likely a doctor or clinic staff member.",
+    "label": "Image",
+    "region": "lower-left"
+  },
+  {
+    "text": "ASIAN HOSPITAL",
+    "label": "Text",
+    "region": "lower-center"
+  }
+]

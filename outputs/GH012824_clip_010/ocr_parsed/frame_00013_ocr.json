@@ -1,0 +1,32 @@
+[
+  {
+    "text": "POOR ORCHID",
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "text": "महादेव भवन",
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "text": "AXIS BANK",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "dl se open",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "dl se open AXIS BANK",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "dl se open",
+    "label": "Text",
+    "region": "lower-left"
+  }
+]

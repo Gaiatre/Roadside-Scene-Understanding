@@ -1,0 +1,12 @@
+[
+  {
+    "text": "Left side of the image shows a street scene with several parked motorcycles. A man is sitting on a motorcycle in the foreground. Above, a sign reads \"IDFC FIRST Bharat\" and another sign reads \"apollo tyres & tubes CEAT MRF\".",
+    "label": "Image",
+    "region": "lower-left"
+  },
+  {
+    "text": "Right side of the image shows a row of motorcycles parked in front of a large, corrugated metal garage door. A man in a red shirt is standing next to one of the motorcycles. A dark car is partially visible on the far right.",
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

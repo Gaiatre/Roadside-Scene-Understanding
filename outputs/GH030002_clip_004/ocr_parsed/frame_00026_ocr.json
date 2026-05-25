@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00026_det_001",
+    "frame_id": "frame_00026",
+    "text": "A street scene in a densely populated urban area, likely South America. Two people are walking on the sidewalk: a man in a plaid shirt and light pants carrying a yellow bag, and a woman in a dark blue dress. A large tree stands in the center, partially obscuring a small, makeshift structure with a corrugated roof. A blue metal fence runs along the sidewalk. Buildings line the street, and a banner reading 'NOVO' is visible on the right.",
+    "norm_text": "a street scene in a densely populated urban area, likely south america. two people are walking on the sidewalk: a man in a plaid shirt and light pants carrying a yellow bag, and a woman in a dark blue dress. a large tree stands in the center, partially obscuring a small, makeshift structure with a corrugated roof. a blue metal fence runs along the sidewalk. buildings line the street, and a banner reading 'novo' is visible on the right.",
+    "bbox": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

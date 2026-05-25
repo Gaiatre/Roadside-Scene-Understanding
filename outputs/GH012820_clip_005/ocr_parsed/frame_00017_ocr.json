@@ -1,0 +1,22 @@
+[
+  {
+    "text": "TOILET",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "ॐ नमो भगवते वासुदेवायSREE MAHALAXMI MEDICINE STOREDR. DEBASIS BEHERAMEDICAL HOME, RAMNATH DUTT ROAD, GANDHIDHAM, DISTRICT KALAHANDI, ODISHA",
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "text": "DR DEBASIS BEHERA",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "ॐ नमो भगवते वासुदेवाय",
+    "label": "Text",
+    "region": "lower-right"
+  }
+]

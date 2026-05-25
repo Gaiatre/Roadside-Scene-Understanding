@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00001_det_001",
+    "frame_id": "frame_00001",
+    "text": "FOR ALL YOUR NEEDS",
+    "norm_text": "for all your needs",
+    "bbox": [
+      612,
+      269,
+      705,
+      297
+    ],
+    "label": "Text",
+    "region": "middle-center"
+  }
+]

@@ -1,0 +1,292 @@
+{
+  "frames": [
+    {
+      "frame_name": "frame_00001",
+      "description": "Initial frame showing a street scene in front of a large institutional building with a light green upper facade and brick-red lower facade. The building has dark dome-like structures on top. Several pedestrians are walking along the sidewalk or sitting on the building's front steps.",
+      "signs": "None clearly legible in this frame.",
+      "vehicles": "Partial view of a white car on the bottom left.",
+      "pedestrians": "A man in a grey shirt and another in a pink outfit are walking left; others are sitting near the building entrance.",
+      "infrastructure": "A tall street light pole is on the right. institutional building with traditional architecture elements.",
+      "motion": "The camera is moving forward, panned slightly towards the right side of the street."
+    },
+    {
+      "frame_name": "frame_00002",
+      "description": "The camera continues moving past the same building. A motorcycle enters the frame from the bottom right corner.",
+      "signs": "None.",
+      "vehicles": "A motorcycle with two riders is entering from the right foreground.",
+      "pedestrians": "People continue walking and sitting on the sidewalk.",
+      "infrastructure": "Street light, institutional building.",
+      "motion": "Continuous forward motion."
+    },
+    {
+      "frame_name": "frame_00003",
+      "description": "The motorcycle from the previous frame has moved further left. A man in a white shirt and pants is walking across the road from right to left.",
+      "signs": "None.",
+      "vehicles": "The motorcycle with two riders continues moving across the frame to the left.",
+      "pedestrians": "Man in white walking across the road; others on the sidewalk.",
+      "infrastructure": "Building facade remains visible.",
+      "motion": "Forward motion."
+    },
+    {
+      "frame_name": "frame_00004",
+      "description": "The man in white is now center-frame. More pedestrians are visible on the sidewalk in the background.",
+      "signs": "None.",
+      "vehicles": "Motorcycle has moved out of view to the left.",
+      "pedestrians": "Man in white continues his walk across the road.",
+      "infrastructure": "Institutional building facade.",
+      "motion": "Forward motion."
+    },
+    {
+      "frame_name": "frame_00005",
+      "description": "The man in white is now towards the left side of the frame. The camera is still passing the long building.",
+      "signs": "None.",
+      "vehicles": "None.",
+      "pedestrians": "The man in white walking left; group of people near the entrance in the distance.",
+      "infrastructure": "Building facade.",
+      "motion": "Forward motion."
+    },
+    {
+      "frame_name": "frame_00006",
+      "description": "An auto-rickshaw enters the frame from the right. The man in white has moved further left.",
+      "signs": "The auto-rickshaw's windshield has Odia text: 'ଭୁବନେଶ୍ୱର' (Bhubaneswar). Its license plate is 'OD 02 AE 3662'.",
+      "vehicles": "Yellow and black auto-rickshaw.",
+      "pedestrians": "Man in white continues walking; people sitting on building steps.",
+      "infrastructure": "Building facade.",
+      "motion": "The auto-rickshaw is moving left across the frame."
+    },
+    {
+      "frame_name": "frame_00007",
+      "description": "The auto-rickshaw is now center-left. The camera maintains its forward trajectory.",
+      "signs": "None.",
+      "vehicles": "Auto-rickshaw moving left.",
+      "pedestrians": "Man in white is near the left edge of the frame.",
+      "infrastructure": "Institutional building.",
+      "motion": "Forward motion."
+    },
+    {
+      "frame_name": "frame_00008",
+      "description": "A man on a bicycle enters from the left foreground. The auto-rickshaw is moving out of the frame on the left.",
+      "signs": "None.",
+      "vehicles": "Man on a bicycle; auto-rickshaw exiting.",
+      "pedestrians": "A man in a grey shirt and others on the sidewalk.",
+      "infrastructure": "Building facade.",
+      "motion": "Cyclist moving right; camera moving forward."
+    },
+    {
+      "frame_name": "frame_00009",
+      "description": "The bicyclist is now center-frame. Pedestrians on the sidewalk are more clearly visible.",
+      "signs": "None.",
+      "vehicles": "Bicycle moving right.",
+      "pedestrians": "People walking on the sidewalk in the background.",
+      "infrastructure": "Institutional building.",
+      "motion": "Forward motion."
+    },
+    {
+      "frame_name": "frame_00010",
+      "description": "The bicyclist has moved to the right. A motorcycle with a rider in a red shirt enters from the left background.",
+      "signs": "None.",
+      "vehicles": "Bicycle moving right; motorcycle in background.",
+      "pedestrians": "People sitting and walking on the sidewalk.",
+      "infrastructure": "Building facade.",
+      "motion": "Forward motion."
+    },
+    {
+      "frame_name": "frame_00011",
+      "description": "A scooter with two riders enters from the bottom left foreground. Pedestrians are scattered along the building's frontage.",
+      "signs": "None.",
+      "vehicles": "Scooter moving right.",
+      "pedestrians": "Two women on the scooter; others on the sidewalk.",
+      "infrastructure": "Building facade.",
+      "motion": "Forward motion."
+    },
+    {
+      "frame_name": "frame_00012",
+      "description": "The scooter riders are moving past the camera's view. More pedestrians are visible further down the street.",
+      "signs": "None.",
+      "vehicles": "Scooter continues right.",
+      "pedestrians": "People walking on the sidewalk.",
+      "infrastructure": "Building facade.",
+      "motion": "Forward motion."
+    },
+    {
+      "frame_name": "frame_00013",
+      "description": "Another bicyclist enters from the left foreground. The building facade continues on the right.",
+      "signs": "None.",
+      "vehicles": "Man on a bicycle moving right.",
+      "pedestrians": "People walking on the sidewalk.",
+      "infrastructure": "Building facade.",
+      "motion": "Forward motion."
+    },
+    {
+      "frame_name": "frame_00014",
+      "description": "The bicyclist is crossing the frame. The camera is approaching a section of the building with more activity.",
+      "signs": "None.",
+      "vehicles": "Bicycle moving right.",
+      "pedestrians": "Several people walking or standing near the building entrance.",
+      "infrastructure": "Institutional building.",
+      "motion": "Forward motion."
+    },
+    {
+      "frame_name": "frame_00015",
+      "description": "A motorcycle with three riders (including a woman in a pink saree) enters from the bottom right corner.",
+      "signs": "None.",
+      "vehicles": "Motorcycle moving left.",
+      "pedestrians": "Riders on the motorcycle; others on the sidewalk.",
+      "infrastructure": "Building facade.",
+      "motion": "Forward motion."
+    },
+    {
+      "frame_name": "frame_00016",
+      "description": "The motorcycle with the woman in pink is now center-left. The institutional building facade remains constant on the right.",
+      "signs": "None.",
+      "vehicles": "Motorcycle continues left.",
+      "pedestrians": "People on the sidewalk.",
+      "infrastructure": "Building facade.",
+      "motion": "Forward motion."
+    },
+    {
+      "frame_name": "frame_00017",
+      "description": "The motorcycle from before has exited. A man in a checkered shirt enters from the bottom left, walking towards the right.",
+      "signs": "None.",
+      "vehicles": "None visible.",
+      "pedestrians": "Man in a checkered shirt walking right; others in background.",
+      "infrastructure": "Building facade.",
+      "motion": "Forward motion."
+    },
+    {
+      "frame_name": "frame_00018",
+      "description": "The man in the checkered shirt is center-frame. The scene remains focused on the street in front of the building.",
+      "signs": "None.",
+      "vehicles": "None.",
+      "pedestrians": "Man in checkered shirt; pedestrians on the sidewalk.",
+      "infrastructure": "Building facade.",
+      "motion": "Forward motion."
+    },
+    {
+      "frame_name": "frame_00019",
+      "description": "A man in a blue shirt enters from the bottom center, walking left. Other pedestrians are visible on the sidewalk.",
+      "signs": "None.",
+      "vehicles": "None.",
+      "pedestrians": "Man in blue shirt walking left; woman on sidewalk.",
+      "infrastructure": "Building facade.",
+      "motion": "Forward motion."
+    },
+    {
+      "frame_name": "frame_00020",
+      "description": "The man in the blue shirt is moving across the road. The camera is passing another entrance point of the building.",
+      "signs": "None.",
+      "vehicles": "None.",
+      "pedestrians": "Man in blue shirt; several people sitting on the building steps.",
+      "infrastructure": "Institutional building facade.",
+      "motion": "Forward motion."
+    },
+    {
+      "frame_name": "frame_00021",
+      "description": "The man in the blue shirt is towards the left. The scene shows the consistent architecture of the long building.",
+      "signs": "None.",
+      "vehicles": "None.",
+      "pedestrians": "Man in blue shirt; people on the sidewalk.",
+      "infrastructure": "Building facade.",
+      "motion": "Forward motion."
+    },
+    {
+      "frame_name": "frame_00022",
+      "description": "Multiple pedestrians are walking in different directions. The green and brown building continues on the right.",
+      "signs": "None.",
+      "vehicles": "None.",
+      "pedestrians": "Two men walking left; people on the sidewalk.",
+      "infrastructure": "Building facade.",
+      "motion": "Forward motion."
+    },
+    {
+      "frame_name": "frame_00023",
+      "description": "The camera is nearing the end of the long building block. Pedestrians continue their movement.",
+      "signs": "None.",
+      "vehicles": "None.",
+      "pedestrians": "Men in blue shirts walking; others in background.",
+      "infrastructure": "Building facade.",
+      "motion": "Forward motion."
+    },
+    {
+      "frame_name": "frame_00024",
+      "description": "A man in a blue shirt on a motorcycle enters from the bottom right. The sidewalk activity remains high.",
+      "signs": "None.",
+      "vehicles": "Motorcycle moving left.",
+      "pedestrians": "Rider on motorcycle; people walking and sitting on sidewalk.",
+      "infrastructure": "Building facade.",
+      "motion": "Forward motion."
+    },
+    {
+      "frame_name": "frame_00025",
+      "description": "A white car is parked on the left side of the street. Text is now visible on the upper part of the building facade.",
+      "signs": "Building facade text: 'GURU NANAK EYE BANK'.",
+      "vehicles": "White Maruti Swift car parked on the left.",
+      "pedestrians": "A man in a blue shirt crossing left; people on the sidewalk.",
+      "infrastructure": "Institutional building (Guru Nanak Eye Bank).",
+      "motion": "Forward motion, passing the parked car."
+    },
+    {
+      "frame_name": "frame_00026",
+      "description": "The camera passes the parked white car. A motorcyclist is visible in the distance. The eye bank building dominates the right view.",
+      "signs": "Building facade: 'GURU NANAK EYE BANK'.",
+      "vehicles": "White car on left; motorcycle in distance.",
+      "pedestrians": "People walking on the sidewalk.",
+      "infrastructure": "Eye bank building.",
+      "motion": "Forward motion."
+    },
+    {
+      "frame_name": "frame_00027",
+      "description": "The camera moves towards a junction. The building facade starts to recede. More vehicles are visible further ahead.",
+      "signs": "None clearly legible.",
+      "vehicles": "White car in the distance; motorcycle on the left.",
+      "pedestrians": "People scattered along the road and sidewalk.",
+      "infrastructure": "Road junction approaching.",
+      "motion": "Forward motion, panning slightly left."
+    },
+    {
+      "frame_name": "frame_00028",
+      "description": "A signboard is visible on the right. The road opens up into a wider intersection area with trees and more infrastructure.",
+      "signs": "Signboard on the right: 'GURU NANAK EYE BANK' in English and 'ଗୁରୁ ନାନକ ଆଖି ବ୍ୟାଙ୍କ' in Odia (Guru Nanak Akhi Bank).",
+      "vehicles": "White car ahead; motorcycle on the left.",
+      "pedestrians": "People walking across the intersection area.",
+      "infrastructure": "Signboards, street lights, trees, road junction.",
+      "motion": "Forward motion."
+    },
+    {
+      "frame_name": "frame_00029",
+      "description": "The camera is now in a more open area, possibly a circle or major intersection. A statue under a pavilion is visible on the left. A red car is parked nearby.",
+      "signs": "Yellow sign on a post on the left: Circular 'No Parking' symbol with Odia text 'ନୋ ପାର୍କିଂ' (No Parking). Blue directional sign in the background.",
+      "vehicles": "Red car; motorcycle moving forward.",
+      "pedestrians": "Several people standing or walking near the park/statue area.",
+      "infrastructure": "Statue under a white canopy pavilion, park fence, intersection.",
+      "motion": "Forward motion, approaching a park area."
+    },
+    {
+      "frame_name": "frame_00030",
+      "description": "The camera moves closer to the statue pavilion. A motorcyclist in a white shirt passes the camera.",
+      "signs": "Signboard in distance, not legible.",
+      "vehicles": "Motorcycle moving right; red car parked.",
+      "pedestrians": "People walking on the sidewalk and in the park.",
+      "infrastructure": "Statue pavilion, street light poles, park greenery.",
+      "motion": "Forward motion."
+    },
+    {
+      "frame_name": "frame_00031",
+      "description": "Clearer view of the statue pavilion and the surrounding park. Another 'No Parking' sign is visible.",
+      "signs": "Sign on the left: 'NO PARKING' in English and 'ନୋ ପାର୍କିଂ' in Odia.",
+      "vehicles": "Red car parked on the right edge of the road.",
+      "pedestrians": "People walking along the park fence.",
+      "infrastructure": "Park with statue under pavilion, sidewalk with striped curb.",
+      "motion": "Forward motion along the park."
+    },
+    {
+      "frame_name": "frame_00032",
+      "description": "Final frame showing the park and statue on the left. The pavilion is white with traditional tiered-roof elements. Some people are resting near its base.",
+      "signs": "None clearly visible.",
+      "vehicles": "Part of a red car is visible on the right.",
+      "pedestrians": "People near the statue; man walking in foreground.",
+      "infrastructure": "Park, statue pavilion, electric poles with multiple wires.",
+      "motion": "Forward motion past the park."
+    }
+  ]
+}

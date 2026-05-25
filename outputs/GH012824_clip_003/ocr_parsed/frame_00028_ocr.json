@@ -1,0 +1,86 @@
+[
+  {
+    "local_id": "frame_00028_det_001",
+    "frame_id": "frame_00028",
+    "text": "DENTAL CARE HOSPITAL",
+    "norm_text": "dental care hospital",
+    "bbox": [
+      286,
+      368,
+      512,
+      400
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00028_det_002",
+    "frame_id": "frame_00028",
+    "text": "UNIQUE",
+    "norm_text": "unique",
+    "bbox": [
+      226,
+      684,
+      313,
+      720
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00028_det_003",
+    "frame_id": "frame_00028",
+    "text": "FOOT WEAR",
+    "norm_text": "foot wear",
+    "bbox": [
+      226,
+      720,
+      313,
+      745
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00028_det_004",
+    "frame_id": "frame_00028",
+    "text": "GERMANY",
+    "norm_text": "germany",
+    "bbox": [
+      226,
+      745,
+      313,
+      771
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00028_det_005",
+    "frame_id": "frame_00028",
+    "text": "BRACE",
+    "norm_text": "brace",
+    "bbox": [
+      226,
+      771,
+      313,
+      796
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00028_det_006",
+    "frame_id": "frame_00028",
+    "text": "Dr. S. S. SINGH",
+    "norm_text": "dr. s. s. singh",
+    "bbox": [
+      323,
+      684,
+      400,
+      711
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  }
+]

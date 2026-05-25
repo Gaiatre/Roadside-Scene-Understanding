@@ -1,0 +1,72 @@
+[
+  {
+    "local_id": "frame_00018_det_001",
+    "frame_id": "frame_00018",
+    "text": "REDDY'S",
+    "norm_text": "reddy's",
+    "bbox": [
+      204,
+      58,
+      244,
+      81
+    ],
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "local_id": "frame_00018_det_002",
+    "frame_id": "frame_00018",
+    "text": "D.R.C. POORNIMA WINES",
+    "norm_text": "d.r.c. poornima wines",
+    "bbox": [
+      463,
+      449,
+      587,
+      530
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "local_id": "frame_00018_det_003",
+    "frame_id": "frame_00018",
+    "text": "POORNIMA WINES",
+    "norm_text": "poornima wines",
+    "bbox": [
+      501,
+      646,
+      634,
+      676
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "local_id": "frame_00018_det_004",
+    "frame_id": "frame_00018",
+    "text": "Ruma-T SHATS",
+    "norm_text": "ruma-t shats",
+    "bbox": [
+      751,
+      589,
+      885,
+      660
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "local_id": "frame_00018_det_005",
+    "frame_id": "frame_00018",
+    "text": "Ruma-T",
+    "norm_text": "ruma-t",
+    "bbox": [
+      807,
+      940,
+      885,
+      1018
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "local_id": "frame_00021_det_001",
+    "frame_id": "frame_00021",
+    "text": "Advertisement for Coca-Cola (San Diego) and KUHAN RESTAURANT.",
+    "norm_text": "advertisement for coca-cola (san diego) and kuhan restaurant.",
+    "bbox": [
+      636,
+      548,
+      955,
+      660
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  },
+  {
+    "local_id": "frame_00021_det_002",
+    "frame_id": "frame_00021",
+    "text": "VILAYANAND TRAVELS MARIKANDI GATEWAY TO HOMES COFFEE",
+    "norm_text": "vilayanand travels marikandi gateway to homes coffee",
+    "bbox": [
+      485,
+      686,
+      632,
+      768
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "local_id": "frame_00021_det_003",
+    "frame_id": "frame_00021",
+    "text": "Coca-Cola NEW WOMAN'S COFFEE",
+    "norm_text": "coca-cola new woman's coffee",
+    "bbox": [
+      528,
+      809,
+      675,
+      847
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  }
+]

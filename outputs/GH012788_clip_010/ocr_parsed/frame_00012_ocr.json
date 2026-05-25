@@ -1,0 +1,30 @@
+[
+  {
+    "local_id": "frame_00012_det_001",
+    "frame_id": "frame_00012",
+    "text": "Interior view of a small shop or kiosk with glass display cases filled with various products, including bottles and packaged goods. The shop has a corrugated metal roof and a corrugated metal wall on the left.",
+    "norm_text": "interior view of a small shop or kiosk with glass display cases filled with various products, including bottles and packaged goods. the shop has a corrugated metal roof and a corrugated metal wall on the left.",
+    "bbox": [
+      220,
+      341,
+      716,
+      836
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  },
+  {
+    "local_id": "frame_00012_det_002",
+    "frame_id": "frame_00012",
+    "text": "Close-up view of the shop's exterior facade, showing a large display window filled with products. Below the window, there is a colorful collage of product packaging and advertisements, including text like 'EGGS', 'FOOD', 'DISGOLD', and 'SHG.LB'.",
+    "norm_text": "close-up view of the shop's exterior facade, showing a large display window filled with products. below the window, there is a colorful collage of product packaging and advertisements, including text like 'eggs', 'food', 'disgold', and 'shg.lb'.",
+    "bbox": [
+      225,
+      836,
+      716,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

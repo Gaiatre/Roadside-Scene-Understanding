@@ -1,0 +1,32 @@
+[
+  {
+    "text": "LABORATORY",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "VIDYUT PRAVA HEALTHCARE PVT. LTD.",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "मर्यादा",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "DIGITALX-RAY",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "Medical symbol (Caduceus)",
+    "label": "Image",
+    "region": "lower-left"
+  },
+  {
+    "text": "981-1423884 / 981-",
+    "label": "Text",
+    "region": "lower-left"
+  }
+]

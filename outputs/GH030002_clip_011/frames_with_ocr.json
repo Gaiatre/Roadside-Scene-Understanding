@@ -1,0 +1,611 @@
+{
+  "frames": [
+    {
+      "frame_name": "frame_00000",
+      "description": "Street level view in Kolkata. In the foreground, the front portion of a yellow Hindustan Ambassador taxi is visible. To the right, there's a weathered concrete wall topped with a decorative metal fence. A large campaign banner is fixed to the fence. A blue and white metal police barrier stands on the brick-paved sidewalk. Trees and buildings are visible behind the fence. Overhead utility wires crisscross the sky.",
+      "ocr_detections": []
+    },
+    {
+      "frame_name": "frame_00001",
+      "description": "The yellow taxi has moved further into the frame, obscuring more of the wall. The camera appears to be tracking the movement or panning right. The banner on the wall is clearly visible, showing portraits of several political figures and Bengali text. The police barrier remains in place.",
+      "ocr_detections": []
+    },
+    {
+      "frame_name": "frame_00002",
+      "description": "The yellow taxi is now on the right side of the frame, moving out of view. The camera focus remains on the wall and the barrier. The banner transcriptions are: Bengali: 'ধর্মতলা L.I.C বিল্ডিং চলো' (English: 'Dharmatala L.I.C Building Let's go'). Small text at the bottom says 'Courtesy : Ward 44 INTTUC'.",
+      "ocr_detections": [
+        {
+          "text": "A billboard featuring four people (two men and two women) smiling, likely promoting the L.I.C. insurance scheme.",
+          "label": "Image",
+          "region": "middle-center"
+        },
+        {
+          "text": "सरकारी प्रणयात्मक एकलीकरण योजना लागू अधिकार अधिकार अधिकार अधिकार अधिकार अधिकार अधिकार अधिकार अधिकार अधिकार अधिकार अधिकार अधिकार अधिकार अधिकार अधिकार अधिकार अधिकार अधिक",
+          "label": "Text",
+          "region": "middle-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00003",
+      "description": "The taxi has completely exited the frame. The scene is centered on the wall and the large banner. The blue and white barrier is prominently displayed, marked with 'KP' (Kolkata Police) in blue on the white center section.",
+      "ocr_detections": [
+        {
+          "text": "A billboard featuring a group of people, likely a political or social campaign poster.",
+          "label": "Image",
+          "region": "middle-center"
+        },
+        {
+          "text": "कर्ज़ाला L.I.C. विकल्प चलाओ",
+          "label": "Text",
+          "region": "middle-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00004",
+      "description": "A slight change in perspective as the camera continues to pan right. The wall and fence continue into the distance. The lighting suggests a bright, sunny day with some haze.",
+      "ocr_detections": [
+        {
+          "text": "Advertisement banner featuring four people and text in Bengali.",
+          "label": "Image",
+          "region": "middle-center"
+        },
+        {
+          "text": "কার্জিন L.I.C. বিক্রি চলছে",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "Courtesy : Ward 44 INTUC",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "KP",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "KP",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00005",
+      "description": "Continuing the pan along the wall. More of the decorative fence pattern is visible. Lush green trees are growing behind the fence, partially obscuring the buildings in the background.",
+      "ocr_detections": [
+        {
+          "text": "A billboard featuring four people (two men and two women) smiling, likely promoting a campaign or organization.",
+          "label": "Image",
+          "region": "middle-center"
+        },
+        {
+          "text": "कर्ज़गला L.I.C. विकल्प चला",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "Courtesy: Ward 44 INTUC",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "KP",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "KP",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00006",
+      "description": "The camera continues its rightward movement along the wall. The banner on the fence remains visible in the upper right. The brick-paved sidewalk is empty of pedestrians so far.",
+      "ocr_detections": [
+        {
+          "text": "A billboard advertisement for LIC (Life Insurance Corporation) featuring four people and the text 'कर्ज़ीला LIC बिक्री घराला'.",
+          "label": "Image",
+          "region": "middle-center"
+        },
+        {
+          "text": "Courtesy : Ward 44 INTUC",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "A blue and white traffic barrier or sign in the foreground, marked 'KP' on both sides.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00007",
+      "description": "A man wearing a white shirt and dark pants enters the frame from the left, walking on the sidewalk. The camera continues to move right.",
+      "ocr_detections": [
+        {
+          "text": "A billboard featuring four people (two men and two women) smiling, likely promoting a campaign or service.",
+          "label": "Image",
+          "region": "middle-center"
+        },
+        {
+          "text": "कर्ज़गज़ा L.I.C बिल्कुल छाला",
+          "label": "Section-Header",
+          "region": "middle-center"
+        },
+        {
+          "text": "Courtesy : Ward 44 INTUC",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "KP",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "KP",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00008",
+      "description": "The man in the white shirt is now walking past the center of the frame. The wall and fence are still the main background features.",
+      "ocr_detections": [
+        {
+          "text": "A billboard featuring four people (two men and two women) smiling, likely an advertisement or public service announcement.",
+          "label": "Image",
+          "region": "middle-center"
+        },
+        {
+          "text": "सरकारी अनुसंधान एवं विकास विभाग द्वारा विकसित एवं वितरित गर्म एवं ठंडे दिनों के लिए उपयोगी एक नया एवं आरामदायक वायु शोथ एवं ठंडा दिया गया है।",
+          "label": "Text",
+          "region": "middle-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00009",
+      "description": "The pedestrian continues walking to the right. The perspective shifts further along the wall, showing more of the sidewalk and the base of the wall.",
+      "ocr_detections": [
+        {
+          "text": "A large billboard featuring several people, likely promoting a political or social cause.",
+          "label": "Image",
+          "region": "middle-center"
+        },
+        {
+          "text": "काशिना L.I.C विकल्प चला",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "Courtesy : Ward 22 INTUC",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "KP",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "KP",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00010",
+      "description": "The man in white is still visible on the right. A second person, a man in a light blue shirt, enters from the left on a bicycle. The camera is approaching a corner or intersection.",
+      "ocr_detections": [
+        {
+          "text": "Advertisement banner featuring four people and text in Hindi.",
+          "label": "Image",
+          "region": "middle-center"
+        },
+        {
+          "text": "वर्जन L.I.C. बिल्डिंग बना",
+          "label": "Section-Header",
+          "region": "middle-center"
+        },
+        {
+          "text": "Courtesy: V. Vaid & S. S. T. C.",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "Blue and white traffic sign barrier with 'KP' markings.",
+          "label": "Image",
+          "region": "lower-center"
+        },
+        {
+          "text": "A man in a white shirt and dark pants walking on a sidewalk.",
+          "label": "Image",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00011",
+      "description": "The camera is turning the corner. A traffic light pole with a red signal is visible. On the right, a narrow side street opens up. A man on a bicycle is riding toward the intersection. A blue sign on a pole says 'NO LEFT TURN'.",
+      "ocr_detections": [
+        {
+          "text": "Advertisement poster for LIC Life Insurance showing four people.",
+          "label": "Image",
+          "region": "middle-center"
+        },
+        {
+          "text": "दूरभाष: 1800-180-1111",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "KP",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "KP",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00012",
+      "description": "The camera has turned right, looking down a narrow street lined with tall, older buildings. A man in a light blue shirt is riding a bicycle in the foreground. A truck is parked further down the street. Various signs and posters are attached to buildings and poles.",
+      "ocr_detections": []
+    },
+    {
+      "frame_name": "frame_00013",
+      "description": "A rapid turn to the right shows a traffic light with a red lamp glowing. Lush trees are clustered around the intersection. A man on a bicycle is passing through the bottom of the frame.",
+      "ocr_detections": [
+        {
+          "text": "A large billboard advertisement featuring several people, likely promoting a product or service. The text 'WELCOME TO THE NEW CENTURY' is visible on the billboard.",
+          "label": "Image",
+          "region": "middle-center"
+        },
+        {
+          "text": "A blue and white traffic barrier or temporary fence structure in the foreground, marked with 'RP'.",
+          "label": "Image",
+          "region": "lower-left"
+        },
+        {
+          "text": "A person walking past the billboard, wearing a white shirt and dark pants.",
+          "label": "Image",
+          "region": "lower-center"
+        },
+        {
+          "text": "Two men standing on the right side of the frame, one in a white shirt and one in a light blue shirt, looking towards the billboard.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00014",
+      "description": "The camera pans across a row of shops. A blue sign with white and orange text says 'CEAT'. Next to it is a purple sign for 'apollo'. Further right, a 'Bank of Baroda' sign is visible with its orange logo and name in Hindi 'बैंक ऑफ़ বड़োদা' and English 'Bank of Baroda'. Orange political flags are placed along the railing.",
+      "ocr_detections": [
+        {
+          "text": "A narrow, paved street in an urban area, likely India, viewed from the perspective of a person riding a bicycle. The street is flanked by tall, multi-story buildings. On the left, a high, dark metal fence runs along the sidewalk, with utility poles and signs attached. On the right, a large building facade is visible, with a blue and white striped temporary sign attached to a pole. A person in a light blue shirt is riding a bicycle in the foreground, facing away from the camera. Further down the street, a dark pickup truck is parked, and a person is standing near the curb. The scene is brightly lit by daylight.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00015",
+      "description": "More shop fronts are revealed. A blue 'IndiGo' banner is seen above 'GAYATRI TRAVELS'. Below is 'PHARMA PRO - Professional Chemist Store'. The address '12 C. R. AVENUE KOLKATA - 700013' is visible. A pedestrian woman in a pink and white saree is walking right. A red motorcycle is parked on the sidewalk.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in an urban area. A man wearing a light blue shirt and shorts is riding a bicycle in the foreground, moving from right to left. The background features a building partially obscured by dense green foliage. A traffic light is visible, showing a red light. A blue and white striped temporary barrier runs across the street in the middle ground. A person is walking on the sidewalk in the distance on the left.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00016",
+      "description": "A black SUV is passing in front of several shop fronts. Orange political flags (BJP) are visible. A blue metal railing separates the sidewalk from the road. Various small circular brand logos are on a signboard.",
+      "ocr_detections": [
+        {
+          "text": "AUTO PARTS PVT. LTD",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "स्वच्छ भारत अभियान",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "GOVT.",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "CEAT",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "JB AUTO PARTS",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "apollo",
+          "label": "Text",
+          "region": "middle-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00017",
+      "description": "A yellow mobile mechanical hoist or engine is positioned on the sidewalk. Two men are standing near it. A black motorcycle is parked nearby. An 'Airtel' sign in green and orange is visible in the background.",
+      "ocr_detections": [
+        {
+          "text": "InGo",
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "text": "GAYATRI TRAVELS",
+          "label": "Text",
+          "region": "upper-center"
+        },
+        {
+          "text": "Auro Group",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "RMA PRO",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "Official Channel Store",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "DOW",
+          "label": "Text",
+          "region": "middle-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00018",
+      "description": "The focus is on large political banners. One bright green and orange banner features Narendra Modi and other BJP leaders with the slogan in Hindi 'सबকা সাথ, সবকা বিকাশ' (English: 'Everyone's support, everyone's development'). Pedestrians are walking by, and some are sitting at a small stall on the left.",
+      "ocr_detections": [
+        {
+          "text": "A black SUV is parked on a city street in front of a row of buildings. The buildings have closed metal shutters and signs, including one reading 'PRICE' and 'SURYA'. A small tree is visible between the buildings, and a blue metal fence runs along the sidewalk.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00019",
+      "description": "A shop named 'FIRE SHIELD ENGINEERING EQUIPMENTS' is visible. The sign lists the address as '113A, CHITTARANJAN AVENUE, KOLKATA-700073'. A maroon scooter and a dark car are parked on the street. A man in a red shirt is walking past.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in an urban area. A black motorcycle is parked on the left side of the road, near a blue metal fence. Two men are crouching near the motorcycle, possibly performing maintenance or repair. On the right side of the road, a large yellow crane or lifting mechanism is parked, with a man standing nearby. The background features multi-story buildings, including one with a large tree growing in front of a closed metal shutter. A small vendor cart is visible on the far left.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00020",
+      "description": "A health-related business named 'Naturopath HEALTH WORLD' is shown. A red Mahindra Thar SUV and a white Mahindra Scorpio are parked in front. A banner for 'Zilax ADVANCED' is also visible.",
+      "ocr_detections": [
+        {
+          "text": "A large political billboard featuring two men, likely a candidate and a party leader, with the BJP (Bharatiya Janata Party) logo and the slogan 'सत्यमेव जयते' (Truth Alone Triumphs).",
+          "label": "Image",
+          "region": "middle-left"
+        },
+        {
+          "text": "A person wearing a red backpack walking past a blue metal fence and a large garage entrance.",
+          "label": "Image",
+          "region": "lower-center"
+        },
+        {
+          "text": "A person bending over, possibly cleaning or working, near the blue metal fence.",
+          "label": "Image",
+          "region": "lower-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00021",
+      "description": "An entrance to a narrow lane is framed by a green fabric gateway. Several cycle trolleys are loaded with large yellow and white packaged bundles. A large BJP campaign banner is on the right. A white car is partially visible.",
+      "ocr_detections": [
+        {
+          "text": "FIRE SHIELD",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "ENGINEERING EQUIPMENTS",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "19A, THEOSAGARIA AVENUE, KOLKATA - 700017TEL: 033-22811111, 033-22811112, 033-22811113",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "FIRE SHIELD",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "F",
+          "label": "Text",
+          "region": "middle-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00022",
+      "description": "Moving along the main road, the side of a brown delivery truck is in view. Behind it, shops are visible, including 'AVENUE SCIENTIFIC HOUSE'. A blue sign with white Bengali text 'আই সি আই সি আই ব্যাঙ্ক' and English 'ICICI Bank' logo is partially seen.",
+      "ocr_detections": [
+        {
+          "text": "st the F...Trust the Best...",
+          "label": "Text",
+          "region": "upper-center"
+        },
+        {
+          "text": "ServicesToll Free091-66666666",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "Be HealthyAlways",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "NaturopathHEALTH POWER",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "Specialist in The Natural Medications EnvironmentsFor Treating Liking of Patients RespectfullyBy Certified Naturopath (State of India)",
+          "label": "Text",
+          "region": "middle-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00023",
+      "description": "A clear view of an 'ICICI Bank' branch. The sign says 'আই সি আই সি আই ব্যাঙ্ক' (Bengali for ICICI Bank) and 'ICICI Bank C. R. Avenue Branch'. Other nearby shops include 'DEB SCIENTIFIC' and 'RITA MEDICAL SUPPLY AGENCY'. A black sedan and a white hatchback are parked along the curb.",
+      "ocr_detections": [
+        {
+          "text": "A tall, vertical political poster featuring a portrait of Narendra Modi, with the number 2 and the text '2019' visible at the bottom.",
+          "label": "Image",
+          "region": "lower-left"
+        },
+        {
+          "text": "A large political poster featuring a portrait of a man (likely a BJP candidate) and the party symbol (swastika). Text visible includes 'सत्यमेव जयते' (Satyameva Jayate) and 'सत्यमेव जयते' (Satyameva Jayate).",
+          "label": "Image",
+          "region": "middle-center"
+        },
+        {
+          "text": "A political poster featuring a portrait of a man (likely a BJP candidate) and the party symbol (swastika).",
+          "label": "Image",
+          "region": "middle-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00024",
+      "description": "The camera pans past a pink building with large windows protected by iron grills. Barbed wire runs along the top of a black metal fence in front. A white sedan is parked on the street. A man in white traditional attire is walking toward an entrance.",
+      "ocr_detections": [
+        {
+          "text": "आई सी आई",
+          "label": "Text",
+          "region": "middle-right"
+        },
+        {
+          "text": "For all your banking",
+          "label": "Text",
+          "region": "middle-right"
+        },
+        {
+          "text": "AVENUE SCIENTIFIC HOUSE",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "NO. C-1, AVENUE, KOLKATA - 700014",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00025",
+      "description": "A wide shot of the pink building's facade. It has multiple windows with decorative grills and several external air conditioning units. The blue and white city railing continues along the sidewalk. A small yellow sign is attached to the fence.",
+      "ocr_detections": [
+        {
+          "text": "इ सि आइ बांकing needs, call 1800 1080",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "ICICI BankC. R. Avenue Branch",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "VITA MEDICAL SUPPLY RESEARCH171, G. B. Avenue, Kolar, 563001Gumeshwar, 9820041111, 98200112301800 1080 1080",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "DEB SCIENTIFIC</",
+          "label": "Text",
+          "region": "middle-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00026",
+      "description": "Continuing past the same pink building. The pattern of the window grills is repetitive. Tall street lamps with multiple globes are placed periodically. Some clothing is hanging on the fence to dry.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in an urban area, likely India. A white sedan is parked on the right side of the road. The background features a mix of buildings: a tall, light-colored building on the left with scaffolding and a large poster, and a pink building on the right with decorative metal grilles on the windows and two air conditioning units. Several people are visible near the entrance of the pink building, and a person is sitting on the ground near the left building.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00027",
+      "description": "A man on a motorcycle, wearing a red shirt and blue helmet, crosses the frame from right to left. The pink building remains the primary background. A blue and white poster is stuck to a lamp post.",
+      "ocr_detections": [
+        {
+          "text": "A photograph of a pink, two-story building, likely a school, with white shutters on the upper windows. The ground floor features large windows covered by decorative metal grilles. The building is enclosed by a black metal fence topped with barbed wire. Several air conditioning units are visible on the facade. The entrance is secured by a black metal gate. The foreground shows a blue and white striped curb and temporary blue and white metal barricades, suggesting a restricted area. A yellow sign is visible on the barricade.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00028",
+      "description": "The roof of a white car passes through the foreground, partially obscuring the view of the sidewalk and the lower part of the pink building. A person in a pink shirt is on a motorcycle on the right.",
+      "ocr_detections": [
+        {
+          "text": "A photograph of a two-story building with a pink facade and red trim. The ground floor features large windows with decorative metal grilles and air conditioning units. The building is enclosed by a black metal fence topped with barbed wire. A blue metal railing runs along the sidewalk in the foreground, which is marked with blue and white striped paint. A person wearing a red shirt is visible near the right side of the fence.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00029",
+      "description": "The camera movement continues past the pink building. The roof of the white car is still visible in the foreground. Pedestrians and motorcycles are seen in the distance on the sidewalk.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in front of a pink building with red trim. The building has multiple windows with white shutters and air conditioning units. The ground floor features large windows covered by decorative metal grilles. A black metal fence runs along the sidewalk, and a blue metal railing separates the sidewalk from the road. A person wearing a red shirt and a blue helmet is riding a motorcycle in the foreground.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    }
+  ]
+}

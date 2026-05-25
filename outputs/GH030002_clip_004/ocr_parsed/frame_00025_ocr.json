@@ -1,0 +1,58 @@
+[
+  {
+    "local_id": "frame_00025_det_001",
+    "frame_id": "frame_00025",
+    "text": "इंडियन ओवरसीज बैंक Indian Overseas Bank (एक राज्य सरकार द्वारा नियंत्रित) जी.एम. अरेनु बिल्डिंग J.M. Avenue Branch",
+    "norm_text": "इंडियन ओवरसीज बैंक indian overseas bank (एक राज्य सरकार द्वारा नियंत्रित) जी.एम. अरेनु बिल्डिंग j.m. avenue branch",
+    "bbox": [
+      480,
+      204,
+      952,
+      333
+    ],
+    "label": "Text",
+    "region": "middle-center"
+  },
+  {
+    "local_id": "frame_00025_det_002",
+    "frame_id": "frame_00025",
+    "text": "P-TO-DATE",
+    "norm_text": "p-to-date",
+    "bbox": [
+      0,
+      462,
+      133,
+      512
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00025_det_003",
+    "frame_id": "frame_00025",
+    "text": "AVENS MACHINE WORKS, MUMBAI",
+    "norm_text": "avens machine works, mumbai",
+    "bbox": [
+      0,
+      512,
+      133,
+      540
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00025_det_004",
+    "frame_id": "frame_00025",
+    "text": "100% Export Oriented Unit",
+    "norm_text": "100% export oriented unit",
+    "bbox": [
+      0,
+      540,
+      133,
+      568
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  }
+]

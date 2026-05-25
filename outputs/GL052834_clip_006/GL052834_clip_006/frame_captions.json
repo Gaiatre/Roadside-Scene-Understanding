@@ -1,0 +1,128 @@
+```json
+{
+  "frames": [
+    {
+      "frame_name": "frame 1",
+      "description": "The scene shows a roadside view of a property enclosed by a metal fence and corrugated sheets. A large blue banner sits atop the fence. Behind the fence, some greenery is visible under a clear sky.",
+      "signs": [
+        "Admirable Range of Products",
+        "SOCH SANITARYWARE",
+        "गौतम एण्ड सन्स लोहा (partially legible Hindi on a small sign)"
+      ],
+      "infrastructure": "Metal fence, corrugated metal panels, gated entrance.",
+      "vehicles": "None",
+      "pedestrians": "None",
+      "motion_or_scene_changes": "The camera is moving to the right, beginning to reveal more of the roadside."
+    },
+    {
+      "frame_name": "frame 2",
+      "description": "The camera continues moving past the fenced property. A large stack of red bricks is now visible in the foreground next to a brick wall.",
+      "signs": [
+        "SOCH SANITARYWARE"
+      ],
+      "infrastructure": "Metal fence, stack of red bricks, brick wall, trees in the background.",
+      "vehicles": "None",
+      "pedestrians": "None",
+      "motion_or_scene_changes": "The 'SOCH' sign moves to the left as the camera advances past the brick stack."
+    },
+    {
+      "frame_name": "frame 3",
+      "description": "The scene transitions to a stretch of brick wall with hand-painted advertisements. More brick stacks are seen along the side of the road, and a building under construction is visible on the right.",
+      "signs": [
+        "खवासापुर... में जडे से खत्म... (Hindi graffiti/advertisement on the wall)"
+      ],
+      "infrastructure": "Brick wall, piles of red bricks, partially constructed brick building.",
+      "vehicles": "None",
+      "pedestrians": "None",
+      "motion_or_scene_changes": "New structures and wall paintings appear as the camera moves further right."
+    },
+    {
+      "frame_name": "frame 4",
+      "description": "Passing a large grey metal gate flanked by brick walls. A large hand-painted medical advertisement is prominent on the wall to the left of the gate.",
+      "signs": [
+        "गुप्त रोगी डा.शेख शाहगंज आगरा मिले शुक्रवार (Hindi advertisement for a doctor)"
+      ],
+      "infrastructure": "Tall metal gate, brick walls, building under construction in the background.",
+      "vehicles": "None",
+      "pedestrians": "None",
+      "motion_or_scene_changes": "The gate and the large graffiti are the focal points of this frame."
+    },
+    {
+      "frame_name": "frame 5",
+      "description": "The camera passes a small, closed commercial structure with metal shutters. A large gate stands to its left, and a more modern-looking building begins to appear on the right.",
+      "signs": [
+        "श्री निवास गुप्ता (Hindi text above the shuttered shop)"
+      ],
+      "infrastructure": "Small building with closed shutters, metal gate, concrete pillar.",
+      "vehicles": "None",
+      "pedestrians": "None",
+      "motion_or_scene_changes": "The scene shifts from raw construction and walls to small commercial units."
+    },
+    {
+      "frame_name": "frame 6",
+      "description": "A multi-story building with blue reflective glass and red accents is shown. It houses a hospital, and concrete steps lead up to its entrance.",
+      "signs": [
+        "उत्तम हॉस्पीटल (Hindi for 'Uttam Hospital')"
+      ],
+      "infrastructure": "Modern building with glass facade, concrete stairs, brick wall on the left.",
+      "vehicles": "Partial view of a motorcycle on the bottom left.",
+      "pedestrians": "None",
+      "motion_or_scene_changes": "The hospital building is the primary focus as the camera passes it."
+    },
+    {
+      "frame_name": "frame 7",
+      "description": "The camera views a narrow alleyway between the hospital and an adjacent building. A small street-side stall is set up in the gap.",
+      "signs": [
+        "उत्तम हॉस्पीटल"
+      ],
+      "infrastructure": "Narrow alley, street-side stall, external metal staircase on the right building.",
+      "vehicles": "None",
+      "pedestrians": "One person is seen sitting inside the small stall.",
+      "motion_or_scene_changes": "The hospital moves to the left, revealing a narrow alley and a vendor stall."
+    },
+    {
+      "frame_name": "frame 8",
+      "description": "Passing a row of shops specializing in tiles and sanitaryware. Signs for various brands are displayed above the storefronts.",
+      "signs": [
+        "hindware",
+        "BENELAVE",
+        "S.K. Marble & Tiles",
+        "यश इण्टरप्राइजेस टाइल्स व सेनेटरी (Hindi text for 'Yash Enterprises Tiles & Sanitary')"
+      ],
+      "infrastructure": "Shopfronts, metal staircase leading to the upper floor, sanitaryware products visible outside.",
+      "vehicles": "None",
+      "pedestrians": "None",
+      "motion_or_scene_changes": "The camera moves past a sequence of retail shops."
+    },
+    {
+      "frame_name": "frame 9",
+      "description": "The camera continues past more shops, including an Asian Paints outlet and a cement store. Several motorcycles are parked in front of the businesses.",
+      "signs": [
+        "BENELAVE",
+        "asianpaints colourworld",
+        "S.S. TRADERS PERFECT PLUS CEMENT",
+        "देव मोटर्स (partially visible on the right)"
+      ],
+      "infrastructure": "Commercial building with various storefront signs.",
+      "vehicles": "Two motorcycles parked in front of the cement shop.",
+      "pedestrians": "None",
+      "motion_or_scene_changes": "The scene shifts from tile shops to paint and cement traders."
+    },
+    {
+      "frame_name": "frame 10",
+      "description": "The final frame shows a medical store and a motor shop. The medical store has several signs and advertisements. A person is visible inside the shop.",
+      "signs": [
+        "देव मोटर्स ब्रिज- मैडीकल स्टोर (Hindi for 'Dev Motors Brij- Medical Store')",
+        "ब्रज मेडिकल स्टोर (Hindi for 'Brij Medical Store')",
+        "दवाईयाँ (Hindi for 'Medicines')",
+        "MANFORCE (advertisement)"
+      ],
+      "infrastructure": "Two-story building with ground-floor shops, parked scooters, narrow side street on the right.",
+      "vehicles": "A motorcycle on the left and a scooter parked on the right.",
+      "pedestrians": "One person is standing at the counter of the medical store.",
+      "motion_or_scene_changes": "The drive concludes passing a busy medical shop at the edge of the captured sequence."
+    }
+  ]
+}
+
+```

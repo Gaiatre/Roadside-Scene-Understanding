@@ -1,0 +1,44 @@
+[
+  {
+    "local_id": "frame_00002_det_001",
+    "frame_id": "frame_00002",
+    "text": "WROOM REEM SONS NTS 5 101",
+    "norm_text": "wroom reem sons nts 5 101",
+    "bbox": [
+      0,
+      146,
+      122,
+      540
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00002_det_002",
+    "frame_id": "frame_00002",
+    "text": "MISSION OF GOD 1430 Campania St, Unit 100 Contact Us: 80955 8111 - 80955 Behind High Court, Agra www.zeeschool.com",
+    "norm_text": "mission of god 1430 campania st, unit 100 contact us: 80955 8111 - 80955 behind high court, agra www.zeeschool.com",
+    "bbox": [
+      224,
+      88,
+      399,
+      345
+    ],
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "local_id": "frame_00002_det_003",
+    "frame_id": "frame_00002",
+    "text": "RISE UP BABY!",
+    "norm_text": "rise up baby!",
+    "bbox": [
+      145,
+      274,
+      282,
+      362
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  }
+]

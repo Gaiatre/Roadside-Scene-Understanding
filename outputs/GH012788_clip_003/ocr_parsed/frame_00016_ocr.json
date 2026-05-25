@@ -1,0 +1,32 @@
+[
+  {
+    "text": "GOODYEAR",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "AUTOCARE",
+    "label": "Text",
+    "region": "middle-center"
+  },
+  {
+    "text": "PEOPLES TYRES",
+    "label": "Text",
+    "region": "upper-right"
+  },
+  {
+    "text": "EST. NO. 13417, DELHI, INDIA",
+    "label": "Text",
+    "region": "middle-right"
+  },
+  {
+    "text": "TYRES",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "WHEEL ALIGNMENT & BALANCING",
+    "label": "Text",
+    "region": "middle-left"
+  }
+]

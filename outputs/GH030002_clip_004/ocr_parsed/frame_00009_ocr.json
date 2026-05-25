@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00009_det_001",
+    "frame_id": "frame_00009",
+    "text": "A street scene in a city, likely Mumbai, featuring a yellow and blue Ambassador taxi driving on the left side of the road. The background shows a multi-story building with balconies, dense foliage, and a large tree. A blue and white metal fence runs along the sidewalk, separating the road from the building.",
+    "norm_text": "a street scene in a city, likely mumbai, featuring a yellow and blue ambassador taxi driving on the left side of the road. the background shows a multi-story building with balconies, dense foliage, and a large tree. a blue and white metal fence runs along the sidewalk, separating the road from the building.",
+    "bbox": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

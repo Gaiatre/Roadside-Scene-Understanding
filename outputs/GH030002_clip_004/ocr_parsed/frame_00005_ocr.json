@@ -1,0 +1,44 @@
+[
+  {
+    "local_id": "frame_00005_det_001",
+    "frame_id": "frame_00005",
+    "text": "SINTHIMORE 30A ESPLANADE",
+    "norm_text": "sinthimore 30a esplanade",
+    "bbox": [
+      0,
+      695,
+      621,
+      816
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00005_det_002",
+    "frame_id": "frame_00005",
+    "text": "ॐ नमः शिवाय",
+    "norm_text": "ॐ नमः शिवाय",
+    "bbox": [
+      174,
+      840,
+      494,
+      1001
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00005_det_003",
+    "frame_id": "frame_00005",
+    "text": "ॐ नमः शिवाय",
+    "norm_text": "ॐ नमः शिवाय",
+    "bbox": [
+      877,
+      711,
+      1024,
+      811
+    ],
+    "label": "Text",
+    "region": "lower-right"
+  }
+]

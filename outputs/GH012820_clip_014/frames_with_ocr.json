@@ -1,0 +1,1319 @@
+{
+  "frames": [
+    {
+      "frame_name": "frame_00001",
+      "description": "Street view in Cuttack. On the left, there's a medical supply store followed by a fruit juice center. A man with a backpack is on the right sidewalk.",
+      "signs": [
+        {
+          "text": "SURGICALS",
+          "language": "English"
+        },
+        {
+          "text": "ସର୍ଜିକାଲ୍‌ସ",
+          "language": "Odia"
+        },
+        {
+          "text": "HIND SURGICAL",
+          "language": "English"
+        },
+        {
+          "text": "OM SAI RAM FRESH FRUIT JUICE CENTER & COLD COFFEE",
+          "language": "English"
+        }
+      ],
+      "objects": [
+        "buildings",
+        "electrical wires",
+        "man with backpack",
+        "pineapples hanging at fruit stall"
+      ],
+      "motion": "Camera is moving forward along the street.",
+      "ocr_detections": []
+    },
+    {
+      "frame_name": "frame_00002",
+      "description": "Moving forward, the scene shows a diagnostic center on the left with several posters on its wall. A person is seen standing on a nearby roof.",
+      "signs": [
+        {
+          "text": "ମଲ୍ଲି ଡାଇଗ୍ନୋଷ୍ଟିକ୍",
+          "language": "Odia"
+        },
+        {
+          "text": "MULTI DIAGNOSTIC",
+          "language": "English"
+        },
+        {
+          "text": "PLOT FOR SALE",
+          "language": "English"
+        }
+      ],
+      "objects": [
+        "diagnostic center building",
+        "posters",
+        "person on rooftop",
+        "blue motorcycle",
+        "utility pole with wires"
+      ],
+      "motion": "Continuous forward driving motion.",
+      "ocr_detections": [
+        {
+          "text": "SURGICALS",
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "text": "ମାନକାଲ",
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "text": "AL ROAD, CUTTACK-753001",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "HIND",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "A fruit vendor's stall with a corrugated roof. Pineapples and other fruits are hanging from strings. A man in a white shirt and dark vest is standing near the stall.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00003",
+      "description": "The view passes a construction site on the left, marked by green fencing and rebars. A mobile communication shop is visible ahead.",
+      "signs": [
+        {
+          "text": "BIMALA MOBILE COMMUNICATION",
+          "language": "English"
+        },
+        {
+          "text": "All type of Mobile Repairing & Accessories Available Here",
+          "language": "English"
+        },
+        {
+          "text": "Mangalabag, Cuttack-1",
+          "language": "English"
+        }
+      ],
+      "objects": [
+        "construction site",
+        "rebars",
+        "green fencing",
+        "parked motorcycles",
+        "mobile shop building"
+      ],
+      "motion": "Approaching the mobile shop.",
+      "ocr_detections": [
+        {
+          "text": "প্রতি অ্যালার্ম",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "OR SALEFOR SALE21",
+          "label": "Image",
+          "region": "lower-left"
+        },
+        {
+          "text": "NO 1",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00004",
+      "description": "Close-up view of the mobile shop entrance. A man wearing a beige cap is in the foreground.",
+      "signs": [
+        {
+          "text": "BIMALA MOBILE COMMUNICATION",
+          "language": "English"
+        },
+        {
+          "text": "MAA BIMALA COMMUNICATION",
+          "language": "English"
+        }
+      ],
+      "objects": [
+        "man in beige cap",
+        "man in checkered shirt",
+        "shop signboards"
+      ],
+      "motion": "Slight forward movement, passing the shop.",
+      "ocr_detections": [
+        {
+          "text": "MEGA BIMALACOMMUNICATION",
+          "label": "Text",
+          "region": "upper-right"
+        },
+        {
+          "text": "MEGA BIMALACOMMUNICATION",
+          "label": "Text",
+          "region": "middle-right"
+        },
+        {
+          "text": "BIMALA MOBILE COMMUNICATION",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "All Types of Mobile Repairs &Accessories Available HereAuthorized Service Center",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "BIO",
+          "label": "Text",
+          "region": "lower-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00005",
+      "description": "Moving past the mobile shop, a small roadside food stall is seen where a woman is preparing snacks.",
+      "signs": [
+        {
+          "text": "₹ 5",
+          "language": "English/Numerical"
+        }
+      ],
+      "objects": [
+        "woman preparing food",
+        "man standing at stall",
+        "food stall infrastructure"
+      ],
+      "motion": "Continuing forward, view shifts to the next building.",
+      "ocr_detections": [
+        {
+          "text": "BIMALA MOBILE COMMUNICATION",
+          "label": "Section-Header",
+          "region": "middle-left"
+        },
+        {
+          "text": "All type of Mobile Repairing &Accessories Available Here",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "Mangalpura, Cuttack, Orissa. Mob: 9333176114",
+          "label": "Text",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00006",
+      "description": "The scene reveals two medical facilities: a dental clinic and a pathology clinic on the right.",
+      "signs": [
+        {
+          "text": "Ekadanta Multispeciality Dental Clinic",
+          "language": "English"
+        },
+        {
+          "text": "ଏକଦନ୍ତ ମଲ୍ଟିସ୍ପେସିଆଲିଟି ଡେଣ୍ଟାଲ କ୍ଲିନିକ",
+          "language": "Odia"
+        },
+        {
+          "text": "VIJAYA PATHOLOGY CLINIC",
+          "language": "English"
+        },
+        {
+          "text": "ବିଜୟା ପାଥୋଲୋଜି କ୍ଲିନିକ",
+          "language": "Odia"
+        }
+      ],
+      "objects": [
+        "medical clinic buildings",
+        "pedestrians",
+        "utility pole"
+      ],
+      "motion": "Approaching the pathology clinic.",
+      "ocr_detections": [
+        {
+          "text": "A large, stylized portrait of a smiling woman's face, part of a sign.",
+          "label": "Image",
+          "region": "lower-left"
+        },
+        {
+          "text": "₹5",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "Two women sitting on the ground outside a shop, engaged in laundry or washing.",
+          "label": "Image",
+          "region": "lower-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00007",
+      "description": "Close up of people standing outside the Vijaya Pathology Clinic. Many motorcycles are parked nearby.",
+      "signs": [
+        {
+          "text": "VIJAYA PATHOLOGY CLINIC",
+          "language": "English"
+        },
+        {
+          "text": "ବିଜୟା ପାଥୋଲୋଜି କ୍ଲିନିକ",
+          "language": "Odia"
+        }
+      ],
+      "objects": [
+        "group of men talking",
+        "parked motorcycles",
+        "clinic entrance"
+      ],
+      "motion": "Slowing down or moving slowly past the clinic.",
+      "ocr_detections": [
+        {
+          "text": "Ekadanta Multispeciality Dental Clinic(स्वास्थ्य एवं दंत चिकित्सा)",
+          "label": "Text",
+          "region": "middle-right"
+        },
+        {
+          "text": "नवी नारायणगाँवविजया पथोलॉजी क्लिनिकVIJAYA PATHOLOGY CLINICBANALAKHADI, CUTTACK",
+          "label": "Text",
+          "region": "middle-right"
+        },
+        {
+          "text": "VJAYAPATHOLOGYCLINIC",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00008",
+      "description": "The view passes a narrow alleyway between the medical clinic buildings. More people are gathered around.",
+      "signs": [
+        {
+          "text": "VIJAYA PATHOLOGY CLINIC",
+          "language": "English"
+        },
+        {
+          "text": "Ekadanta Multispeciality Dental Clinic",
+          "language": "English"
+        }
+      ],
+      "objects": [
+        "alleyway",
+        "pedestrians",
+        "motorcycles"
+      ],
+      "motion": "Forward motion continues.",
+      "ocr_detections": [
+        {
+          "text": "Ekadanta MultispecialityDental ClinicLaxmi Nagar, Delhi",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "BP",
+          "label": "Text",
+          "region": "middle-right"
+        },
+        {
+          "text": "श्री विजया पथोलॉजी क्लिनिकविजया पथोलॉजी क्लिनिकVIJAYA PATHOLOGY CLINICBANGALABE OUTPATIENT",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "Logo featuring two eyes inside a circle, labeled 'Lab'.",
+          "label": "Image",
+          "region": "lower-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00009",
+      "description": "Approaching BP Laboratory. A security guard in a light blue uniform is blowing a whistle and gesturing with his hand to direct traffic.",
+      "signs": [
+        {
+          "text": "BP LABORATORY",
+          "language": "English"
+        },
+        {
+          "text": "ବିପି ଲ୍ୟାବ",
+          "language": "Odia"
+        },
+        {
+          "text": "DIGITAL X-RAY",
+          "language": "English"
+        },
+        {
+          "text": "VIJAYA PATHOLOGY CLINIC",
+          "language": "English"
+        }
+      ],
+      "objects": [
+        "security guard blowing whistle",
+        "pedestrians",
+        "parked motorcycles",
+        "laboratory building"
+      ],
+      "motion": "Moving directly in front of BP Laboratory.",
+      "ocr_detections": [
+        {
+          "text": "Ekodana MultispecialityDental Clinicसंगठन विशेष",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "BPLA",
+          "label": "Text",
+          "region": "middle-right"
+        },
+        {
+          "text": "A UNIT OF",
+          "label": "Text",
+          "region": "middle-right"
+        },
+        {
+          "text": "निजी नागरिक चिकित्सा केन्द्र",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "विजया पाथोलॉजी क्लिनिक",
+          "label": "Text",
+          "region": "middle-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00010",
+      "description": "Close view of the laboratory entrance with many motorcycles parked along the storefront. People are seen entering and exiting.",
+      "signs": [
+        {
+          "text": "BP LABORATORY",
+          "language": "English"
+        },
+        {
+          "text": "ବିପି ଲ୍ୟାବ",
+          "language": "Odia"
+        },
+        {
+          "text": "DIGITAL X-RAY",
+          "language": "English"
+        }
+      ],
+      "objects": [
+        "numerous motorcycles",
+        "people at laboratory entrance",
+        "woman in a mask"
+      ],
+      "motion": "Moving slowly past the parked bikes.",
+      "ocr_detections": [
+        {
+          "text": "श्री राम राज्य एक्सप्रेस वे",
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "text": "Ekadanta logo",
+          "label": "Image",
+          "region": "middle-center"
+        },
+        {
+          "text": "Ekadanta MultispecialityDental Clinic(स्पेशलिटी डेंटल)",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "Cross symbol",
+          "label": "Image",
+          "region": "middle-center"
+        },
+        {
+          "text": "विजया पाथोलॉजी क्लिनिक",
+          "label": "Text",
+          "region": "middle-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00011",
+      "description": "Continuing past the laboratory storefront. The scene remains crowded with people and parked vehicles.",
+      "signs": [
+        {
+          "text": "BP LABORATORY",
+          "language": "English"
+        },
+        {
+          "text": "ବିପି ଲ୍ୟାବ",
+          "language": "Odia"
+        },
+        {
+          "text": "DIGITAL X-RAY",
+          "language": "English"
+        }
+      ],
+      "objects": [
+        "pedestrians",
+        "parked motorcycles"
+      ],
+      "motion": "Steady forward progression.",
+      "ocr_detections": [
+        {
+          "text": "Logo for Eladanta Multispecialty Dental Clinic",
+          "label": "Image",
+          "region": "middle-left"
+        },
+        {
+          "text": "Eladanta MultispecialtyDental Clinic(এলান্তা ডেন্টাল)",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "BP LABORATORY",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "A UNIT OF BIDYUT PRAVA HEALTHCARE PVT LTD",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "श्री विजया पथोलॉजी क्ल",
+          "label": "Text",
+          "region": "middle-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00012",
+      "description": "Similar view of the clinic area. A man in a blue and red cap is prominent in the foreground.",
+      "signs": [
+        {
+          "text": "BP LABORATORY",
+          "language": "English"
+        },
+        {
+          "text": "DIGITAL X-RAY",
+          "language": "English"
+        }
+      ],
+      "objects": [
+        "man in blue cap",
+        "motorcycles",
+        "clinic signs"
+      ],
+      "motion": "Moving past the clinic area.",
+      "ocr_detections": [
+        {
+          "text": "Dental clinic logo",
+          "label": "Image",
+          "region": "middle-left"
+        },
+        {
+          "text": "Ekdanta MultispecialtyDental Clinic",
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "text": "संगठन शुल्क",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "दंत चिकित्सा विभाग",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "विजया पथार्की डिवीVIJAYA PATHOLOGY CLINIC",
+          "label": "Text",
+          "region": "middle-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00013",
+      "description": "Continuing past BP laboratory. More people are visible on the sidewalk.",
+      "signs": [
+        {
+          "text": "BP LABORATORY",
+          "language": "English"
+        },
+        {
+          "text": "DIGITAL X-RAY",
+          "language": "English"
+        }
+      ],
+      "objects": [
+        "pedestrians",
+        "motorcycles"
+      ],
+      "motion": "Forward movement continues.",
+      "ocr_detections": [
+        {
+          "text": "Ekodanta logo",
+          "label": "Image",
+          "region": "middle-left"
+        },
+        {
+          "text": "Ekodanta MultispecialtyDental ClinicSince 1991",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "DR. S. K. SINGH",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "BP LABORATORY",
+          "label": "Text",
+          "region": "upper-center"
+        },
+        {
+          "text": "A UNIT OF E DYUT PRAVA HEALTHCARE PVT. LTD.",
+          "label": "Text",
+          "region": "middle-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00014",
+      "description": "Approaching the end of the laboratory building. A sign for a doctor's clinic is visible on the right.",
+      "signs": [
+        {
+          "text": "BP LABORATORY",
+          "language": "English"
+        },
+        {
+          "text": "DR. KASINATH PODHI",
+          "language": "English"
+        }
+      ],
+      "objects": [
+        "people standing by road",
+        "clinic signage"
+      ],
+      "motion": "Continuing forward along the street.",
+      "ocr_detections": [
+        {
+          "text": "Ekadanta logo",
+          "label": "Image",
+          "region": "middle-left"
+        },
+        {
+          "text": "Ekadanta MultispecialtyDental Clinic(Since 1996)",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "Dr. S. K. SinghDr. S. K. Singh",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "BP LABORATORY",
+          "label": "Section-Header",
+          "region": "middle-center"
+        },
+        {
+          "text": "A UNIT OF SIDYUT PRAVA HEALTHCARE PVT. LTD.",
+          "label": "Text",
+          "region": "middle-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00015",
+      "description": "Passing the medical clinics. The man in the blue cap is looking towards the street.",
+      "signs": [
+        {
+          "text": "BP LABORATORY",
+          "language": "English"
+        }
+      ],
+      "objects": [
+        "man in blue cap",
+        "utility poles",
+        "pedestrians"
+      ],
+      "motion": "Passing the lab building.",
+      "ocr_detections": [
+        {
+          "text": "Ekadanta MultispecialityDental Clinic(00000 0000)",
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "text": "BP LABORATORY",
+          "label": "Section-Header",
+          "region": "middle-center"
+        },
+        {
+          "text": "A UNIT OF BIDVYUT PRAVA HEALTHCARE PVT. LTD.",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "BP Lab logo showing a stylized eye and the text 'lab'",
+          "label": "Image",
+          "region": "middle-left"
+        },
+        {
+          "text": "বিপ্লব প্রাণ",
+          "label": "Text",
+          "region": "middle-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00016",
+      "description": "Moving past a red building wall with clinic advertisements.",
+      "signs": [
+        {
+          "text": "BP LABORATORY DIGITAL X-RAY",
+          "language": "English"
+        }
+      ],
+      "objects": [
+        "red wall with signs",
+        "pedestrians",
+        "utility pole"
+      ],
+      "motion": "Continuous driving motion.",
+      "ocr_detections": [
+        {
+          "text": "Logo of a dental clinic, possibly a dental college.",
+          "label": "Image",
+          "region": "upper-left"
+        },
+        {
+          "text": "Odonto MultispecialityDental Clinic(संगठन गुरु)",
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "text": "डॉ. जिनिकCLINIC",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "JAYAOLOGICNIC",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "BP LABORATORY",
+          "label": "Text",
+          "region": "middle-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00017",
+      "description": "Forward motion past the red structure, showing more pedestrians and motorcycles on the right.",
+      "signs": [
+        {
+          "text": "BP LABORATORY DIGITAL X-RAY",
+          "language": "English"
+        }
+      ],
+      "objects": [
+        "security guard gesturing",
+        "people by the roadside"
+      ],
+      "motion": "Moving further along the road.",
+      "ocr_detections": [
+        {
+          "text": "BP LABORATORY",
+          "label": "Section-Header",
+          "region": "middle-left"
+        },
+        {
+          "text": "A UNIT OF BIDYUT PRAVA HEALTHCARE PVT.LTD",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "BP Lab logo",
+          "label": "Image",
+          "region": "middle-left"
+        },
+        {
+          "text": "বিপ্লব প্রকৌশল",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "DIGITALX-RAY",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00018",
+      "description": "Passing a series of posters and signs on a red wall and utility pole.",
+      "signs": [
+        {
+          "text": "BP LABORATORY DIGITAL X-RAY",
+          "language": "English"
+        }
+      ],
+      "objects": [
+        "utility pole with posters",
+        "pedestrians walking",
+        "trees in background"
+      ],
+      "motion": "Continuous forward motion.",
+      "ocr_detections": [
+        {
+          "text": "BP LABORATORY",
+          "label": "Section-Header",
+          "region": "middle-left"
+        },
+        {
+          "text": "A UNIT OF BIDYUT PRAJA HEALTHCARE PVT. LTD.",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "BP LAB logo with 'ab' text",
+          "label": "Image",
+          "region": "middle-left"
+        },
+        {
+          "text": "বিপ্লব প্রজা",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "DIGITAL",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "X-RAY",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00019",
+      "description": "A large sign for DAV Public School comes into view on the left.",
+      "signs": [
+        {
+          "text": "DAV PUBLIC SCHOOL RAJABAGICHA, CUTTACK Admissions Open for Session 2023-2024",
+          "language": "English"
+        }
+      ],
+      "objects": [
+        "DAV school sign",
+        "utility pole with dense wiring",
+        "man in red striped shirt"
+      ],
+      "motion": "Passing the school advertisement sign.",
+      "ocr_detections": [
+        {
+          "text": "LABORATORY",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "VIDYUT PRAVA HEALTHCARE PVT. LTD.",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "मर्यादा",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "DIGITALX-RAY",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "Medical symbol (Caduceus)",
+          "label": "Image",
+          "region": "lower-left"
+        },
+        {
+          "text": "981-1423884 / 981-",
+          "label": "Text",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00020",
+      "description": "Closer view of the DAV school advertisement sign and a nearby building.",
+      "signs": [
+        {
+          "text": "DAV PUBLIC SCHOOL RAJABAGICHA, CUTTACK",
+          "language": "English"
+        }
+      ],
+      "objects": [
+        "school sign",
+        "man in striped shirt",
+        "old building"
+      ],
+      "motion": "Continuing forward.",
+      "ocr_detections": [
+        {
+          "text": "RATOR",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "HEALTHCARE PVT LTD",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "DIGITALX-RAY",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "CHILD CARE CLINIC",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "Portrait of a man, likely a doctor or clinic staff member.",
+          "label": "Image",
+          "region": "lower-left"
+        },
+        {
+          "text": "ASIAN HOSPITAL",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00021",
+      "description": "Approaching a yellow building with shops. A saree center sign is prominent.",
+      "signs": [
+        {
+          "text": "Sabita SAREE CENTER",
+          "language": "English"
+        },
+        {
+          "text": "ଶ୍ରୀ ସବିତା ଶାଢ଼ୀ ସେଣ୍ଟର",
+          "language": "Odia"
+        }
+      ],
+      "objects": [
+        "yellow building with wavy roofline",
+        "shop signboards",
+        "utility pole"
+      ],
+      "motion": "Moving towards the saree center.",
+      "ocr_detections": [
+        {
+          "text": "A vertical green and yellow signboard, partially obscured by a utility pole and wires, advertising a service.",
+          "label": "Image",
+          "region": "middle-center"
+        },
+        {
+          "text": "Dr. Shyam DasDr. Manisha Mishra",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00022",
+      "description": "Passing Sabita Saree Center. A yellow auto-rickshaw is stopped on the side of the road with several people nearby.",
+      "signs": [
+        {
+          "text": "Sabita SAREE CENTER",
+          "language": "English"
+        },
+        {
+          "text": "PARAM JYOTI LAHARI FASHIONS",
+          "language": "English"
+        },
+        {
+          "text": "ପରମ ଜ୍ୟୋତି ଲହରୀ ଫେସନ",
+          "language": "Odia"
+        }
+      ],
+      "objects": [
+        "yellow auto-rickshaw",
+        "group of men standing",
+        "shops"
+      ],
+      "motion": "Continuing past the shops.",
+      "ocr_detections": [
+        {
+          "text": "DAY PUBLIC SCHOOLRAJABAGICHA, CUTTACK",
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "text": "(LKG to STD. X)",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "Admissions Open",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "for Session 2023-2024",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "PLEASE VISIT:www.davrbctc.org/ SCHOOL OFFICE",
+          "label": "Text",
+          "region": "middle-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00023",
+      "description": "Reaching a corner where a medicine store is located in the same yellow building.",
+      "signs": [
+        {
+          "text": "RAJSHREE MEDICINE CORNER",
+          "language": "English"
+        },
+        {
+          "text": "ରାଜଶ୍ରୀ ମେଡିସିନ କର୍ଣ୍ଣର",
+          "language": "Odia"
+        },
+        {
+          "text": "DR. JEEBANJYOTI MISHRA",
+          "language": "English"
+        }
+      ],
+      "objects": [
+        "medicine store",
+        "people sitting in front",
+        "parked motorcycles"
+      ],
+      "motion": "Turning slightly or following the curve of the road.",
+      "ocr_detections": [
+        {
+          "text": "SabitaSAREE CENTER",
+          "label": "Section-Header",
+          "region": "middle-center"
+        },
+        {
+          "text": "SABITA SABITA",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "साबिता साबिता",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00024",
+      "description": "Moving past the corner medicine shop. A fruit vendor's cart is on the left.",
+      "signs": [
+        {
+          "text": "RAJSHREE MEDICINE CORNER",
+          "language": "English"
+        },
+        {
+          "text": "SAYONI",
+          "language": "English"
+        }
+      ],
+      "objects": [
+        "fruit vendor with bananas",
+        "front of auto-rickshaw",
+        "building entrance"
+      ],
+      "motion": "Continuing forward movement.",
+      "ocr_detections": [
+        {
+          "text": "10% OFF",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "PARAM JYOTI LAHARI*** FASHIONS ***",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "DRUGGISTSANJYOTI MISHRA",
+          "label": "Text",
+          "region": "lower-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00025",
+      "description": "The street opens up slightly. An auto-rickshaw is ahead, and a cell tower is visible in the distance.",
+      "signs": [
+        {
+          "text": "RAJSHREE MEDICINE CORNER",
+          "language": "English"
+        }
+      ],
+      "objects": [
+        "auto-rickshaw in motion",
+        "pedestrians",
+        "cell tower",
+        "red car further ahead"
+      ],
+      "motion": "Steady driving forward.",
+      "ocr_detections": [
+        {
+          "text": "राजश्री दवाखाना",
+          "label": "Section-Header",
+          "region": "lower-left"
+        },
+        {
+          "text": "Green cross symbol",
+          "label": "Image",
+          "region": "lower-left"
+        },
+        {
+          "text": "PHARMIST & DRUGGIST",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "MANGAL BAG, GUTTAD, MOGA, PUNJAB",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "Green cross symbol",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00026",
+      "description": "Driving down a straight section of the street with various small shops on the right.",
+      "signs": [
+        {
+          "text": "SABITA FASHION",
+          "language": "English"
+        }
+      ],
+      "objects": [
+        "pedestrians",
+        "people on bicycles",
+        "motorcycles",
+        "red car"
+      ],
+      "motion": "Continuous forward motion.",
+      "ocr_detections": [
+        {
+          "text": "NER",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "Green cross medical symbol",
+          "label": "Image",
+          "region": "lower-left"
+        },
+        {
+          "text": "DR. FRANCO DUMAR ROY",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "Medicina General",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "Neuro-Cirujano Plastico",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "SAYONI",
+          "label": "Text",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00027",
+      "description": "Continuing forward. A sign for F.A. Trading Co. is visible above a shop with closed shutters.",
+      "signs": [
+        {
+          "text": "F.A. TRADING CO.",
+          "language": "English"
+        },
+        {
+          "text": "KALYANI MOBILE REPAIRING",
+          "language": "English"
+        }
+      ],
+      "objects": [
+        "pedestrians",
+        "motorcyclists",
+        "person on bicycle",
+        "utility pole"
+      ],
+      "motion": "Moving further along the street.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in a town, likely in Indonesia, featuring a large, ornate, yellow and green covered structure on the left, possibly a temple or market entrance. A blue and white banner hangs from the structure. Below, a street vendor pushes a cart covered with a green tarp. A person wearing a pink headscarf walks nearby. In the foreground, the back of a person wearing a black helmet is visible. The street is lined with colorful, multi-story buildings and shops. A yellow and black auto-rickshaw (tuk-tuk) is parked in the middle ground, and a white scooter is parked on the right. The sky is overcast.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00028",
+      "description": "Passing a large building facade with many overhead electrical wires. A fruit vendor with a yellow umbrella is on the sidewalk.",
+      "signs": [
+        {
+          "text": "Vardaan",
+          "language": "English"
+        },
+        {
+          "text": "ବରଦାନ",
+          "language": "Odia"
+        }
+      ],
+      "objects": [
+        "fruit vendor with yellow umbrella",
+        "large building entrance",
+        "dense mass of electrical wires",
+        "pedestrians"
+      ],
+      "motion": "Passing the large building.",
+      "ocr_detections": [
+        {
+          "text": "SABITAFASHION",
+          "label": "Text",
+          "region": "lower-right"
+        },
+        {
+          "text": "SABITAFASHION",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "10% OFF",
+          "label": "Text",
+          "region": "lower-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00029",
+      "description": "Approaching a blue building which houses a machinery and tools shop.",
+      "signs": [
+        {
+          "text": "HINDUSTAN MACHINERY & TOOLS",
+          "language": "English"
+        },
+        {
+          "text": "ହିନ୍ଦୁସ୍ଥାନ ମେସିନାରୀ ଆଣ୍ଡ ଟୁଲ୍ସ",
+          "language": "Odia"
+        }
+      ],
+      "objects": [
+        "blue building",
+        "fruit vendor with umbrella",
+        "people on sidewalk",
+        "electrical wires"
+      ],
+      "motion": "Approaching the machinery shop.",
+      "ocr_detections": [
+        {
+          "text": "Vardaan",
+          "label": "Text",
+          "region": "upper-right"
+        },
+        {
+          "text": "F.A. TRADING CO.",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "SABITAFASHION",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "SABITAFASHION",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "SAATCHI BOMBLE PIZZA",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "A man riding a bicycle on the street.",
+          "label": "Image",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00030",
+      "description": "Final frame shows a close-up of the Hindustan Machinery & Tools sign and the blue building front.",
+      "signs": [
+        {
+          "text": "HINDUSTAN MACHINERY & TOOLS",
+          "language": "English"
+        }
+      ],
+      "objects": [
+        "blue building facade",
+        "people standing near a blue container",
+        "fruit stall",
+        "utility wires"
+      ],
+      "motion": "Continuing past the machinery shop.",
+      "ocr_detections": [
+        {
+          "text": "Yaradaan",
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "text": "Yaradaan",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "Advertisement board for Yaradaan, featuring a portrait of a man and the text:यरदान नगरी(Yaradaan Nagar).",
+          "label": "Complex-Block",
+          "region": "middle-right"
+        },
+        {
+          "text": "YARADAAN",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "स्वच्छ भारत",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    }
+  ]
+}

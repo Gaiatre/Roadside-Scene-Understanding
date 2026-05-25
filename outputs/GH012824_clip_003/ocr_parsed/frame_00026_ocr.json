@@ -1,0 +1,30 @@
+[
+  {
+    "local_id": "frame_00026_det_001",
+    "frame_id": "frame_00026",
+    "text": "A large billboard advertising 'GOLD' jewelry, featuring a woman's face and the text 'GOLD JEWELLERY' and 'GOLDEN JEWELLERY'.",
+    "norm_text": "a large billboard advertising 'gold' jewelry, featuring a woman's face and the text 'gold jewellery' and 'golden jewellery'.",
+    "bbox": [
+      822,
+      0,
+      1024,
+      521
+    ],
+    "label": "Image",
+    "region": "middle-right"
+  },
+  {
+    "local_id": "frame_00026_det_002",
+    "frame_id": "frame_00026",
+    "text": "MOHANLAL GEMS HOSPITAL",
+    "norm_text": "mohanlal gems hospital",
+    "bbox": [
+      874,
+      439,
+      1024,
+      521
+    ],
+    "label": "Text",
+    "region": "middle-right"
+  }
+]

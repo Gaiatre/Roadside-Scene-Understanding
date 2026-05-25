@@ -1,0 +1,30 @@
+[
+  {
+    "local_id": "frame_00025_det_001",
+    "frame_id": "frame_00025",
+    "text": "INDIZENI 9746223533 9037415051",
+    "norm_text": "indizeni 9746223533 9037415051",
+    "bbox": [
+      425,
+      438,
+      486,
+      487
+    ],
+    "label": "Text",
+    "region": "middle-center"
+  },
+  {
+    "local_id": "frame_00025_det_002",
+    "frame_id": "frame_00025",
+    "text": "RAJAN 91984 9746223533",
+    "norm_text": "rajan 91984 9746223533",
+    "bbox": [
+      543,
+      445,
+      587,
+      483
+    ],
+    "label": "Text",
+    "region": "middle-center"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00010_det_001",
+    "frame_id": "frame_00010",
+    "text": "A street scene in front of a multi-story residential building. The building has a light-colored upper floor and a brown lower floor. Laundry is hanging from the upper windows. A blue and white metal fence runs along the sidewalk. Several people are visible near the fence, including one person riding a bicycle on the right side of the frame.",
+    "norm_text": "a street scene in front of a multi-story residential building. the building has a light-colored upper floor and a brown lower floor. laundry is hanging from the upper windows. a blue and white metal fence runs along the sidewalk. several people are visible near the fence, including one person riding a bicycle on the right side of the frame.",
+    "bbox": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

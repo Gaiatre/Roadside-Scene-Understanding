@@ -1,0 +1,58 @@
+[
+  {
+    "local_id": "frame_00004_det_001",
+    "frame_id": "frame_00004",
+    "text": "WROOM",
+    "norm_text": "wroom",
+    "bbox": [
+      0,
+      146,
+      124,
+      204
+    ],
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "local_id": "frame_00004_det_002",
+    "frame_id": "frame_00004",
+    "text": "REEM SONS",
+    "norm_text": "reem sons",
+    "bbox": [
+      0,
+      214,
+      124,
+      316
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00004_det_003",
+    "frame_id": "frame_00004",
+    "text": "NTS",
+    "norm_text": "nts",
+    "bbox": [
+      0,
+      356,
+      61,
+      402
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00004_det_004",
+    "frame_id": "frame_00004",
+    "text": "IT EXCEL CAMPUS",
+    "norm_text": "it excel campus",
+    "bbox": [
+      218,
+      0,
+      402,
+      221
+    ],
+    "label": "Text",
+    "region": "upper-left"
+  }
+]

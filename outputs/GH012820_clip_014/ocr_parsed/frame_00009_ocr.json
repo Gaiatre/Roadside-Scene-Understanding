@@ -1,0 +1,27 @@
+[
+  {
+    "text": "श्री राम राज्य एक्सप्रेस वे",
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "text": "Ekadanta logo",
+    "label": "Image",
+    "region": "middle-center"
+  },
+  {
+    "text": "Ekadanta MultispecialityDental Clinic(स्पेशलिटी डेंटल)",
+    "label": "Text",
+    "region": "middle-center"
+  },
+  {
+    "text": "Cross symbol",
+    "label": "Image",
+    "region": "middle-center"
+  },
+  {
+    "text": "विजया पाथोलॉजी क्लिनिक",
+    "label": "Text",
+    "region": "middle-center"
+  }
+]

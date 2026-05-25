@@ -1,0 +1,27 @@
+[
+  {
+    "text": "W BAZARDRY FRUITS SPICES",
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "text": "Decorative poster featuring a green triangle and a colorful fruit pattern.",
+    "label": "Image",
+    "region": "upper-left"
+  },
+  {
+    "text": "Window with blue metal bars and a balcony above the shop entrance.",
+    "label": "Image",
+    "region": "upper-center"
+  },
+  {
+    "text": "Large billboard advertisement for Dusit brand oil, showing a man holding a bottle, with text in Bengali and English.",
+    "label": "Image",
+    "region": "middle-center"
+  },
+  {
+    "text": "MR STORES OIL MERCHANT",
+    "label": "Text",
+    "region": "middle-center"
+  }
+]

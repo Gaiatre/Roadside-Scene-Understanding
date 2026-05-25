@@ -1,0 +1,32 @@
+[
+  {
+    "text": "Vardaan",
+    "label": "Text",
+    "region": "upper-right"
+  },
+  {
+    "text": "F.A. TRADING CO.",
+    "label": "Text",
+    "region": "middle-center"
+  },
+  {
+    "text": "SABITAFASHION",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "SABITAFASHION",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "SAATCHI BOMBLE PIZZA",
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "text": "A man riding a bicycle on the street.",
+    "label": "Image",
+    "region": "lower-left"
+  }
+]

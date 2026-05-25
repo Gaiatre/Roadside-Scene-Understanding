@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Logo of a dental clinic, possibly a dental college.",
+    "label": "Image",
+    "region": "upper-left"
+  },
+  {
+    "text": "Odonto MultispecialityDental Clinic(संगठन गुरु)",
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "text": "डॉ. जिनिकCLINIC",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "JAYAOLOGICNIC",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "BP LABORATORY",
+    "label": "Text",
+    "region": "middle-center"
+  }
+]

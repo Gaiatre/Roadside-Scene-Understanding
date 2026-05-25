@@ -1,0 +1,72 @@
+[
+  {
+    "local_id": "frame_00024_det_001",
+    "frame_id": "frame_00024",
+    "text": "GSTIN: 32FOPW777H1ZL",
+    "norm_text": "gstin: 32fopw777h1zl",
+    "bbox": [
+      752,
+      85,
+      884,
+      109
+    ],
+    "label": "Text",
+    "region": "upper-center"
+  },
+  {
+    "local_id": "frame_00024_det_002",
+    "frame_id": "frame_00024",
+    "text": "CELL: 914269",
+    "norm_text": "cell: 914269",
+    "bbox": [
+      926,
+      85,
+      1024,
+      111
+    ],
+    "label": "Text",
+    "region": "upper-right"
+  },
+  {
+    "local_id": "frame_00024_det_003",
+    "frame_id": "frame_00024",
+    "text": "ANAND FLOUR MILLS",
+    "norm_text": "anand flour mills",
+    "bbox": [
+      752,
+      118,
+      1024,
+      189
+    ],
+    "label": "Text",
+    "region": "upper-right"
+  },
+  {
+    "local_id": "frame_00024_det_004",
+    "frame_id": "frame_00024",
+    "text": "45/736 Meenmuti Pudukottai - 14",
+    "norm_text": "45/736 meenmuti pudukottai - 14",
+    "bbox": [
+      828,
+      191,
+      979,
+      214
+    ],
+    "label": "Text",
+    "region": "upper-right"
+  },
+  {
+    "local_id": "frame_00024_det_005",
+    "frame_id": "frame_00024",
+    "text": "அனந்த மீல் மீல்",
+    "norm_text": "அனந்த மீல் மீல்",
+    "bbox": [
+      759,
+      221,
+      1024,
+      297
+    ],
+    "label": "Text",
+    "region": "middle-right"
+  }
+]

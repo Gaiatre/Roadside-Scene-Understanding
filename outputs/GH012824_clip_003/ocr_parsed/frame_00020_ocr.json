@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00020_det_001",
+    "frame_id": "frame_00020",
+    "text": "FOOT WEAR",
+    "norm_text": "foot wear",
+    "bbox": [
+      0,
+      621,
+      210,
+      745
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  }
+]

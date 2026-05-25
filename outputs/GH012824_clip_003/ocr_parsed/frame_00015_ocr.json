@@ -1,0 +1,72 @@
+[
+  {
+    "local_id": "frame_00015_det_001",
+    "frame_id": "frame_00015",
+    "text": "AKBAR TOWER",
+    "norm_text": "akbar tower",
+    "bbox": [
+      571,
+      68,
+      646,
+      108
+    ],
+    "label": "Text",
+    "region": "upper-center"
+  },
+  {
+    "local_id": "frame_00015_det_002",
+    "frame_id": "frame_00015",
+    "text": "AKBAR TOWER",
+    "norm_text": "akbar tower",
+    "bbox": [
+      517,
+      115,
+      706,
+      151
+    ],
+    "label": "Text",
+    "region": "upper-center"
+  },
+  {
+    "local_id": "frame_00015_det_003",
+    "frame_id": "frame_00015",
+    "text": "Home square",
+    "norm_text": "home square",
+    "bbox": [
+      487,
+      256,
+      612,
+      290
+    ],
+    "label": "Text",
+    "region": "middle-center"
+  },
+  {
+    "local_id": "frame_00015_det_004",
+    "frame_id": "frame_00015",
+    "text": "Home square logo",
+    "norm_text": "home square logo",
+    "bbox": [
+      612,
+      256,
+      650,
+      305
+    ],
+    "label": "Image",
+    "region": "middle-center"
+  },
+  {
+    "local_id": "frame_00015_det_005",
+    "frame_id": "frame_00015",
+    "text": "మీ ఇంటిలో మీ సమయంలో మీ ప్రాణాలు",
+    "norm_text": "మీ ఇంటిలో మీ సమయంలో మీ ప్రాణాలు",
+    "bbox": [
+      650,
+      256,
+      784,
+      305
+    ],
+    "label": "Text",
+    "region": "middle-center"
+  }
+]

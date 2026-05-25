@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00017_det_001",
+    "frame_id": "frame_00017",
+    "text": "A black and white photograph showing the front of a convertible car (likely a classic Ford Mustang) parked in front of a tall, dark gray corrugated metal fence. The car's soft top is down, revealing a light-colored roll bar or headrest cover. The fence is topped by dense green foliage and trees. The car's blue frame is visible on the left side. The scene is brightly lit by the sun, which is partially obscured by the trees.",
+    "norm_text": "a black and white photograph showing the front of a convertible car (likely a classic ford mustang) parked in front of a tall, dark gray corrugated metal fence. the car's soft top is down, revealing a light-colored roll bar or headrest cover. the fence is topped by dense green foliage and trees. the car's blue frame is visible on the left side. the scene is brightly lit by the sun, which is partially obscured by the trees.",
+    "bbox": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

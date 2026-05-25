@@ -1,0 +1,30 @@
+[
+  {
+    "local_id": "frame_00029_det_001",
+    "frame_id": "frame_00029",
+    "text": "ndiGo INTERIORS",
+    "norm_text": "ndigo interiors",
+    "bbox": [
+      51,
+      428,
+      138,
+      505
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00029_det_002",
+    "frame_id": "frame_00029",
+    "text": "A triangular warning sign indicating a pedestrian crossing.",
+    "norm_text": "a triangular warning sign indicating a pedestrian crossing.",
+    "bbox": [
+      683,
+      348,
+      736,
+      440
+    ],
+    "label": "Image",
+    "region": "middle-center"
+  }
+]

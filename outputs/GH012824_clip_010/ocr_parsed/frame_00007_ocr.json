@@ -1,0 +1,32 @@
+[
+  {
+    "text": "GENIUS ACADEMY",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "DARSHAN",
+    "label": "Text",
+    "region": "upper-center"
+  },
+  {
+    "text": "Ortho",
+    "label": "Text",
+    "region": "middle-center"
+  },
+  {
+    "text": "SRINIVAS WELLNESS CLUB",
+    "label": "Text",
+    "region": "middle-center"
+  },
+  {
+    "text": "DANKUR MULTISPECIALITYDENTAL CLINIC",
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "text": "GreatWhite",
+    "label": "Text",
+    "region": "lower-left"
+  }
+]

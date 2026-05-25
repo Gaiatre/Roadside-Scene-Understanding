@@ -1,0 +1,17 @@
+[
+  {
+    "text": "A tall, vertical political poster featuring a portrait of Narendra Modi, with the number 2 and the text '2019' visible at the bottom.",
+    "label": "Image",
+    "region": "lower-left"
+  },
+  {
+    "text": "A large political poster featuring a portrait of a man (likely a BJP candidate) and the party symbol (swastika). Text visible includes 'सत्यमेव जयते' (Satyameva Jayate) and 'सत्यमेव जयते' (Satyameva Jayate).",
+    "label": "Image",
+    "region": "middle-center"
+  },
+  {
+    "text": "A political poster featuring a portrait of a man (likely a BJP candidate) and the party symbol (swastika).",
+    "label": "Image",
+    "region": "middle-right"
+  }
+]

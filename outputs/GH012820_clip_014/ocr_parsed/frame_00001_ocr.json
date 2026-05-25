@@ -1,0 +1,27 @@
+[
+  {
+    "text": "SURGICALS",
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "text": "ମାନକାଲ",
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "text": "AL ROAD, CUTTACK-753001",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "HIND",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "A fruit vendor's stall with a corrugated roof. Pineapples and other fruits are hanging from strings. A man in a white shirt and dark vest is standing near the stall.",
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

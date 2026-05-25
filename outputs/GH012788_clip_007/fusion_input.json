@@ -1,0 +1,470 @@
+{
+  "video_summary": {
+    "video_id": "GH012788_clip_007",
+    "model_caption": "This analysis provides a detailed look at the driving footage captured on a busy commercial street in Palakkad, Kerala, India.\n\n### 1. Scene Setting\nThe footage is recorded from a motorcycle traveling through a narrow, bustling market street known as Big Bazar in Palakkad. The environment is dense with small retail and wholesale shops, characterized by colorful signage in both English and Malayalam. The architecture consists of older, multi-story buildings, some of which are in a state of disrepair.\n\n### 2. Vehicle Analysis\n*   **Subject Vehicle:** A motorcycle navigating the street at a moderate to slow pace.\n*   **Surrounding Vehicles:**\n    *   Numerous other motorcycles traveling in both directions.\n    *   A black and yellow three-wheeled auto-rickshaw.\n    *   A small yellow delivery truck carrying bunches of bananas.\n    *   Parked motorcycles and scooters along the sides of the road.\n\n### 3. Traffic Dynamics\nTraffic moves at a relatively slow speed due to the narrowness of the road and the high volume of activity. It is a shared space with a high degree of interaction between motorized vehicles, parked transport, and pedestrians. There are no distinct lane markings, requiring drivers to navigate based on real-time proximity to others.\n\n### 4. Temporal Progression\n*   **00:00 - 00:10:** The vehicle passes \"Classic Lottery Agencies,\" a \"Samsung Galaxy\" mobile store, and \"Babu Stationery.\"\n*   **00:11 - 00:22:** The route continues past \"Golden Bazar,\" \"M.R. Stores Oil Merchant,\" \"Vinayaka Bakes,\" and \"KRC Coconut Merchant.\"\n*   **00:23 - 00:45:** The vehicle moves past \"SM Garlic & Onion Merchant.\" On the right side, a significant landmark is a heavily dilapidated, partially collapsed two-story building.\n*   **00:46 - 01:00:** The motorcycle slows down as it approaches an auto-rickshaw and a yellow delivery truck near \"A. Gopalakrishnan Lemon Merchant,\" indicating the end of the segment.\n\n### 5. Safety Observations\n*   **Narrow Roadway:** The limited width of the street increases the risk of collisions between oncoming vehicles and those passing parked transport.\n*   **Structural Hazard:** Between 00:30 and 00:45, a building with a collapsed roof and crumbling walls stands directly adjacent to the road, posing a potential risk to passersby.\n*   **Pedestrian Proximity:** People are seen walking very close to moving traffic, especially near shop entrances.\n*   **Overhead Infrastructure:** There is a dense and somewhat disorganized network of overhead power and communication lines.\n\n### 6. Environmental Context\n*   **Weather:** Clear, sunny day with bright, direct sunlight.\n*   **Economic Activity:** The area is a high-density commercial zone specializing in diverse goods, including electronics, stationery, bakery items, and wholesale produce like coconuts, garlic, and onions.\n*   **Cultural Context:** The signage and the presence of specific vehicle types (like the auto-rickshaw) are indicative of a typical urban market in Southern India."
+  },
+  "frames": [
+    {
+      "frame_name": "frame_00001",
+      "description": "A street view from a moving vehicle in a narrow commercial area. On the left, there's a purple building with a lottery stand. On the right, storefronts are visible including one with a red 'vi DESIGNS MOBILE CARE' sign. Pedestrians and motorcycles are seen further down the road. Infrastructure includes concrete buildings and overhead electrical wires. Signs: 'Lottery' (ലോട്ടറി) and 'vi DESIGNS MOBILE CARE'.",
+      "ocr_detections": []
+    },
+    {
+      "frame_name": "frame_00002",
+      "description": "The camera moves closer to a mobile shop on the right. A prominent blue sign reads 'SAMSUNG Galaxy' and 'DESIGNS MOBILE CARE, PALAKKAD'. The Malayalam text reads 'ഡിസൈൻസ് മൊബൈൽ കെയർ പാലക്കാട്'. A motorcycle is visible on the left edge.",
+      "ocr_detections": [
+        {
+          "text": "903/22 8003",
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "text": "Lottery",
+          "label": "Text",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00003",
+      "description": "The scene shows two shops: 'BABU STATIONARY' on the left with a large 'MEDIMIX' advertisement, and 'GOLDEN BAZAR' on the right. The sign for Golden Bazar states 'ALL VARIETY RICES CANDYS DRY FRUITS SPICES'. A person on a motorcycle is in the foreground. Signs: 'BABU STATIONARY' (ബാബു സ്റ്റേഷനറി) and 'GOLDEN BAZAR'.",
+      "ocr_detections": [
+        {
+          "text": "SAMSUNG Galaxy",
+          "label": "Text",
+          "region": "upper-center"
+        },
+        {
+          "text": "DESIGNS MOBILE CARE, PALAKKAD",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "AA",
+          "label": "Text",
+          "region": "upper-right"
+        },
+        {
+          "text": "Portrait of a woman, likely an advertisement for AA (Airtel) mobile services.",
+          "label": "Image",
+          "region": "middle-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00004",
+      "description": "Continuing down the street, passing 'GOLDEN BAZAR'. The next shop is 'M.R. STORE OIL MERCHANT'. Sacks of goods and fresh vegetables are piled outside. Signs: 'MR STORES OIL MERCHANT' and 'M.R. STORE OIL MERCHANT' (എം ആർ സ്റ്റോഴ്സ് ഓയിൽ മെർച്ചന്റ്).",
+      "ocr_detections": [
+        {
+          "text": "1.1(मोह)",
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "text": "Medimix logo featuring a stylized 'M' and 'X' inside a circle.",
+          "label": "Image",
+          "region": "upper-left"
+        },
+        {
+          "text": "MEDIMIX",
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "text": "SINCE 1989",
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "text": "18",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "मानसिंहस्पो",
+          "label": "Text",
+          "region": "middle-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00005",
+      "description": "A bakery called 'Vinayaka BAKES' is featured, with a sign showing food and drink items. Next to it is 'R. Sivan PLANTAIN LEAF MERCHANT'. The bakery sign mentions 'Big Bazaar, Palakkad'. Signs: 'Vinayaka BAKES' (വിനായക ബേക്സ്, വലിയങ്ങാടി, പാലക്കാട്) and 'R. Sivan PLANTAIN LEAF MERCHANT'.",
+      "ocr_detections": [
+        {
+          "text": "W BAZARDRY FRUITS SPICES",
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "text": "Decorative poster featuring a green triangle and a colorful fruit pattern.",
+          "label": "Image",
+          "region": "upper-left"
+        },
+        {
+          "text": "Window with blue metal bars and a balcony above the shop entrance.",
+          "label": "Image",
+          "region": "upper-center"
+        },
+        {
+          "text": "Large billboard advertisement for Dusit brand oil, showing a man holding a bottle, with text in Bengali and English.",
+          "label": "Image",
+          "region": "middle-center"
+        },
+        {
+          "text": "MR STORES OIL MERCHANT",
+          "label": "Text",
+          "region": "middle-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00006",
+      "description": "A side view as the vehicle passes the plantain leaf shop. Bunches of green bananas are seen hanging inside the shop area next to a yellow pillar.",
+      "ocr_detections": [
+        {
+          "text": "LOP000000000100000000",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "Re. SujanaPLANTAIN LEAF MERCHANT",
+          "label": "Image",
+          "region": "middle-left"
+        },
+        {
+          "text": "PH: 040-27484000 - 17",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "LOP000000000100000000",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "www",
+          "label": "Text",
+          "region": "middle-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00007",
+      "description": "The camera captures 'M.K STATIONARY' with a large signboard displaying various household products. Bananas hang on the left side of the frame. The sign reads 'M.K STATIONARY, Valiyangadi, BigBazaar Road, Palakkad'.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in a city. On the left, a building has a dark, closed metal roller shutter door. Above the shutter, a white tarp covers a construction site with exposed rebar. A scooter is partially visible in the foreground. On the right, a building with a yellow wall and a blue corrugated metal awning is visible. Several bunches of ripe bananas are hanging from the awning structure. The background shows a clear blue sky and utility wires.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00008",
+      "description": "Passing 'KRC COCONUT MERCHANT Wholesale & Retail'. People are visible inside the store. To the right, a red and white 'Eastern' brand sign is partially visible. Sign: 'KRC COCONUT MERCHANT' (വലിയങ്ങാടി പാലക്കാട് - 14).",
+      "ocr_detections": [
+        {
+          "text": "M.KSTATIONERY",
+          "label": "Section-Header",
+          "region": "upper-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00009",
+      "description": "A large 'Eastern' sign for a general merchant is seen on the left. To its right is 'SRI AMMAN VEGETABLES'. Signs: 'Eastern' (കെ. ഷൺമുഖ മൂത്താൻ സൺ ജനറൽ മെർച്ചന്റ്) and 'SRI AMMAN VEGETABLES' (ശ്രീ അമ്മൻ വെജിറ്റബിൾസ്).",
+      "ocr_detections": [
+        {
+          "text": "KRCCOCONUT MERCHANTWholesale & Retail",
+          "label": "Section-Header",
+          "region": "middle-center"
+        },
+        {
+          "text": "Bigbazar, Palakkad-14",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "Mobile: 9947464177",
+          "label": "Text",
+          "region": "upper-center"
+        },
+        {
+          "text": "Eastern",
+          "label": "Text",
+          "region": "middle-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00010",
+      "description": "A focused view of 'SRI AMMAN VEGETABLES' with various produce on display. A motorcycle passes in the foreground. The Malayalam sign reads 'ശ്രീ അമ്മൻ വെജിറ്റബിൾസ്'.",
+      "ocr_detections": [
+        {
+          "text": "Eastern",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "මිණුම්ගාස් වාර්ධකයාගේ අද්වීතා",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "ඔ.ක. අභාර්ගාව දුරුකාරා පුහුණු අනාගත් දිගින්",
+          "label": "Text",
+          "region": "middle-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00011",
+      "description": "The camera passes 'C. SAMOO IYER & SONS', which advertises 'PRINCE ATTA • MAIDA • SOOJI'. Sacks of produce are stacked inside the shop. Sign: 'C. SAMOO IYER & SONS' (സി. സാമു അയ്യർ ആന്റ് സൺസ്, വലിയങ്ങാടി, പാലക്കാട്).",
+      "ocr_detections": [
+        {
+          "text": "SRI A. MALLIKARJUNA CAFETERIA(०८) श्री आम्बादेवी गणपतिस्वामी शंकराचार्य",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "Portrait of a man, likely a religious figure or founder.",
+          "label": "Image",
+          "region": "lower-center"
+        },
+        {
+          "text": "PRINCATTA • MAIDA • SO",
+          "label": "Text",
+          "region": "lower-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00012",
+      "description": "The scene shows 'SM GARLIC & ONION MERCHANT KRISHNA TRADERS'. Baskets of garlic are visible in the foreground. The sign reads 'SM GARLIC & ONION MERCHANT KRISHNA TRADERS' (എസ് എം വെളുത്തുള്ളി ഉള്ളി വ്യാപാരി കൃഷ്ണ ട്രേഡേഴ്സ്, വലിയങ്ങാടി, പാലക്കാട് - 14).",
+      "ocr_detections": [
+        {
+          "text": "PRINCE",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "ATTA • MAIDA • SOOJI",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "C. SAMOO IYER & SONS",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "STAMPER'S MARKET",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "PH 0112-2",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "BIG BAZAR, DALAKK",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00013",
+      "description": "The camera moves past the garlic and onion merchant, showing an adjacent storage space filled with sacks. The building has a traditional tiled roof.",
+      "ocr_detections": [
+        {
+          "text": "SMGARLIC & ONIONMERCHANTKRISHNA TRADERS",
+          "label": "Text",
+          "region": "upper-center"
+        },
+        {
+          "text": "PRINCE",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "Mr. C. SAMOO IVER AND SONS",
+          "label": "Text",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00014",
+      "description": "Passing old, weathered buildings. A blue shuttered shop is visible on the right. A man in a blue checkered shirt appears in the distance.",
+      "ocr_detections": [
+        {
+          "text": "SMGARLIC & ONIONMERCHANT(KRISHNA TRADERS)",
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "text": "Call Today: 7000000000",
+          "label": "Text",
+          "region": "upper-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00015",
+      "description": "A close-up of the street side as the vehicle moves forward. A man in an orange shirt and face mask is visible in the bottom left corner.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in a densely built area, likely a market. On the left, a person wearing an orange garment and a patterned head covering is visible near a dark doorway. The building facade is light-colored with a corrugated roof. On the right, a taller, weathered building with a balcony featuring metal railings and a corrugated roof is visible. The ground floor of the right building has a dark entrance and a blue awning. The scene is characterized by strong sunlight and shadows.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00016",
+      "description": "A man in a blue checkered shirt is standing on the street. Behind him is a dilapidated, partially collapsed building with exposed wooden beams and a tiled roof.",
+      "ocr_detections": [
+        {
+          "text": "A photograph of a two-story building in a residential area. The exterior walls are painted in faded colors (blue, orange, and yellow) and show signs of wear and peeling paint. The ground floor features two open doorways. The left doorway is dark, where a person wearing a red shirt and light shorts is standing. The right doorway is partially covered by a blue awning and reveals a pink interior wall and a framed picture. The second floor has a large window covered by a metal security grille. The roof is corrugated metal, and utility wires are visible across the scene.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00017",
+      "description": "Continuing to pass the man in the blue shirt and the collapsed building. The perspective shifts slightly as the vehicle moves.",
+      "ocr_detections": [
+        {
+          "text": "A photograph of a dilapidated, multi-story building in a residential area. The building on the left has a corrugated metal facade and a blue awning over the ground floor entrance. A man in a blue shirt stands near the entrance. The building on the right is severely damaged, with a collapsed roof and exposed wooden beams and debris. The scene is brightly lit by the sun, which creates a lens flare in the upper left corner.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00018",
+      "description": "A slightly further perspective of the man in the blue shirt and the ruined structure.",
+      "ocr_detections": [
+        {
+          "text": "A photograph showing a man standing in front of a dilapidated building. The building on the left has a blue entrance and a corrugated metal awning. The building on the right is severely damaged, with exposed wooden beams and debris piled up on the roof and walls. The man is wearing a light blue shirt and has a mustache. The scene appears to be in a residential area under a bright sky.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00019",
+      "description": "The vehicle moves further, with the collapsed building now more central in the frame.",
+      "ocr_detections": [
+        {
+          "text": "A photograph showing a man standing in front of a dilapidated building. The building on the left has a corrugated metal roof and a blue doorway. The building on the right is heavily damaged, with exposed wooden beams and debris, suggesting a fire or collapse. The man is wearing a light blue shirt and has a mustache.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00020",
+      "description": "The camera maintains focus on the man and the ruins as the vehicle passes by.",
+      "ocr_detections": [
+        {
+          "text": "A photograph of a dilapidated, multi-story building complex under a bright blue sky. The building on the left has a corrugated metal roof and a blue storefront entrance. A man in a blue shirt stands near the entrance. The building on the right is heavily damaged, with exposed wooden beams and debris piled up on the roof and facade, suggesting a fire or collapse.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00021",
+      "description": "Similar view to the previous frame, continuing the slow movement past the site.",
+      "ocr_detections": [
+        {
+          "text": "A photograph showing the exterior of a dilapidated building complex under a bright blue sky. On the left, a structure with a corrugated metal roof and a blue-painted entranceway is visible. A person wearing a blue shirt stands near the entrance. To the right, a section of the building is heavily damaged, with exposed wooden beams, debris, and a collapsed roof structure. A motorcycle is partially visible in the foreground on the right.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00022",
+      "description": "The man in the blue shirt is now on the left side of the frame as the camera passes him.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in a densely populated area, likely India. On the left is a two-story building with a corrugated metal awning and a blue storefront entrance. A man wearing a blue and white patterned shirt stands near the entrance. To the right, a smaller, single-story wooden structure is heavily damaged, with its roof partially collapsed and exposed wooden beams and debris. A motorcycle is parked near the damaged building. The background shows a clear blue sky and a large white wall or structure.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00023",
+      "description": "The camera is now almost directly in front of the collapsed portion of the building.",
+      "ocr_detections": [
+        {
+          "text": "A photograph of a street scene in a residential area. On the left, a two-story building with a blue ground-floor entrance and a second floor featuring a large window with horizontal bars. A man wearing a blue shirt stands near the entrance. To the right, a smaller, single-story structure is heavily damaged, with its roof collapsed and exposed wooden beams and debris. A motorcycle is parked in the foreground near the damaged building. The sky is bright blue, and power lines are visible overhead.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00024",
+      "description": "The ruins of the building are seen on the right, showing rubble and broken wood.",
+      "ocr_detections": [
+        {
+          "text": "A photograph showing the exterior of a severely damaged building, likely after a fire. The structure on the right is heavily charred and partially collapsed, with exposed wooden beams and debris. A man in a blue shirt stands in the foreground near the entrance of a less damaged section of the building on the left. The scene is outdoors under a bright, sunny sky.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00025",
+      "description": "The camera begins to move past the collapsed building, revealing a more modern structure adjacent to it.",
+      "ocr_detections": [
+        {
+          "text": "A photograph showing the aftermath of a fire or explosion in a residential area. A two-story building on the left is heavily damaged, with exposed metal and charred walls. Adjacent to it, a single-story structure has suffered catastrophic structural failure, with the roof and upper walls completely destroyed, leaving exposed beams and debris. A man in a blue shirt stands in the foreground near the damaged building. A motorcycle is parked in front of the ruined structure. The scene is set under a bright blue sky.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00026",
+      "description": "An auto-rickshaw appears in the foreground, partially obstructing the view of the buildings on the right.",
+      "ocr_detections": [
+        {
+          "text": "A photograph showing the aftermath of a fire or explosion in a residential area. On the left, a building facade is heavily damaged, with a large section of the upper floor and windows missing. A man in a blue shirt stands near the entrance. To the right, a structure is severely destroyed, with the roof and walls collapsed into a pile of charred debris and exposed rebar. A motorcycle is visible in the foreground near the debris.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00027",
+      "description": "The camera captures 'A. GOPALAKRISHNAN LEMON MERCHANT'. A man on a motorcycle with a helmet is visible on the right. Sign: 'A. GOPALAKRISHNAN LEMON MERCHANT' (എ. ഗോപാലകൃഷ്ണൻ ചെറുനാരങ്ങ വ്യാപാരം).",
+      "ocr_detections": [
+        {
+          "text": "A photograph showing the aftermath of a fire in a residential area. A two-story building on the left has a blue awning and a window with a metal frame. The building on the right is heavily damaged, with its roof and upper structure reduced to a pile of charred wood and debris. A man in a blue shirt stands in the foreground on the left, looking towards the damaged building. A motorcycle is partially visible in the foreground on the right.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00028",
+      "description": "Final frame showing a clear view of the 'A. GOPALAKRISHNAN LEMON MERCHANT' sign and an yellow auto-rickshaw on the right. The sign also mentions 'Big Bazar, Palakkad-14'.",
+      "ocr_detections": [
+        {
+          "text": "A photograph showing the aftermath of a fire or explosion in a residential area. A two-story building on the left is partially damaged, with exposed concrete and a blue garage door. To the right, a single-story wooden structure is heavily damaged, with its roof and walls reduced to charred debris and exposed wooden beams. A man in a blue shirt stands near the damaged building on the left. A motorcycle is parked in front of the debris, and a car is partially visible on the far right. The scene is outdoors under a bright blue sky.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    }
+  ]
+}

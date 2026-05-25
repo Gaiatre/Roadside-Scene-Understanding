@@ -1,0 +1,72 @@
+[
+  {
+    "local_id": "frame_00011_det_001",
+    "frame_id": "frame_00011",
+    "text": "Advertisement for a school featuring a woman and a child, with text: \"YOUR CHILD'S FUTURE BEGINS HERE!\" and \"LITERACY SCHOOL\".",
+    "norm_text": "advertisement for a school featuring a woman and a child, with text: \"your child's future begins here!\" and \"literacy school\".",
+    "bbox": [
+      0,
+      38,
+      380,
+      386
+    ],
+    "label": "Image",
+    "region": "upper-left"
+  },
+  {
+    "local_id": "frame_00011_det_002",
+    "frame_id": "frame_00011",
+    "text": "Coca-Cola Real Magic advertisement featuring a woman.",
+    "norm_text": "coca-cola real magic advertisement featuring a woman.",
+    "bbox": [
+      0,
+      386,
+      334,
+      632
+    ],
+    "label": "Image",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00011_det_003",
+    "frame_id": "frame_00011",
+    "text": "ASIAN BAKERY s & Confectionery",
+    "norm_text": "asian bakery s & confectionery",
+    "bbox": [
+      0,
+      654,
+      300,
+      809
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00011_det_004",
+    "frame_id": "frame_00011",
+    "text": "HOTEL LOTUS PARK LUXURY & COMFORT LIVING",
+    "norm_text": "hotel lotus park luxury & comfort living",
+    "bbox": [
+      334,
+      487,
+      560,
+      599
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "local_id": "frame_00011_det_005",
+    "frame_id": "frame_00011",
+    "text": "JP Residency HOMES & PARTY HALL",
+    "norm_text": "jp residency homes & party hall",
+    "bbox": [
+      327,
+      692,
+      542,
+      779
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  }
+]

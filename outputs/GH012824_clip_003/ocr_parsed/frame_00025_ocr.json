@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00025_det_001",
+    "frame_id": "frame_00025",
+    "text": "A wide-angle photograph of a busy street scene in a city, likely in India, under a cloudy sky. The street is lined with multi-story buildings, utility poles, and overhead wires. Several cars are visible in the foreground and middle ground. A large blue and white billboard advertising 'G' (likely for Gionee) is prominent on the right side. Blue flags are hanging from the buildings on the left.",
+    "norm_text": "a wide-angle photograph of a busy street scene in a city, likely in india, under a cloudy sky. the street is lined with multi-story buildings, utility poles, and overhead wires. several cars are visible in the foreground and middle ground. a large blue and white billboard advertising 'g' (likely for gionee) is prominent on the right side. blue flags are hanging from the buildings on the left.",
+    "bbox": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

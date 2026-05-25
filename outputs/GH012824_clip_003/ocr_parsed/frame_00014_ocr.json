@@ -1,0 +1,58 @@
+[
+  {
+    "local_id": "frame_00014_det_001",
+    "frame_id": "frame_00014",
+    "text": "Advertisement board showing a man's portrait and text 'SUNRISE' and 'POWERFUL FERTILIZERS'.",
+    "norm_text": "advertisement board showing a man's portrait and text 'sunrise' and 'powerful fertilizers'.",
+    "bbox": [
+      432,
+      634,
+      580,
+      736
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  },
+  {
+    "local_id": "frame_00014_det_002",
+    "frame_id": "frame_00014",
+    "text": "Blue parking sign with 'P' symbol and text 'LADIES PARKING' and 'From 36 AM'.",
+    "norm_text": "blue parking sign with 'p' symbol and text 'ladies parking' and 'from 36 am'.",
+    "bbox": [
+      299,
+      738,
+      374,
+      881
+    ],
+    "label": "Image",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00014_det_003",
+    "frame_id": "frame_00014",
+    "text": "Yellow sign for 'SUNRISE POWERFUL FERTILIZERS'.",
+    "norm_text": "yellow sign for 'sunrise powerful fertilizers'.",
+    "bbox": [
+      618,
+      738,
+      695,
+      819
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  },
+  {
+    "local_id": "frame_00014_det_004",
+    "frame_id": "frame_00014",
+    "text": "SHALL & LIFTER CENTRE",
+    "norm_text": "shall & lifter centre",
+    "bbox": [
+      736,
+      738,
+      887,
+      762
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  }
+]

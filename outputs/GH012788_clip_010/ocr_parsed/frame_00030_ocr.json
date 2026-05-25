@@ -1,0 +1,72 @@
+[
+  {
+    "local_id": "frame_00030_det_001",
+    "frame_id": "frame_00030",
+    "text": "SKM Coconut Point logo featuring a stylized golden coconut or palm tree.",
+    "norm_text": "skm coconut point logo featuring a stylized golden coconut or palm tree.",
+    "bbox": [
+      230,
+      305,
+      290,
+      439
+    ],
+    "label": "Image",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00030_det_002",
+    "frame_id": "frame_00030",
+    "text": "SKM COCONUT POINT",
+    "norm_text": "skm coconut point",
+    "bbox": [
+      316,
+      328,
+      513,
+      443
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00030_det_003",
+    "frame_id": "frame_00030",
+    "text": "Near Coconut Traders, Malleswaram, Pattabhand",
+    "norm_text": "near coconut traders, malleswaram, pattabhand",
+    "bbox": [
+      312,
+      448,
+      517,
+      472
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00030_det_004",
+    "frame_id": "frame_00030",
+    "text": "Mob: 0809005114, 773633813",
+    "norm_text": "mob: 0809005114, 773633813",
+    "bbox": [
+      495,
+      321,
+      599,
+      338
+    ],
+    "label": "Text",
+    "region": "middle-center"
+  },
+  {
+    "local_id": "frame_00030_det_005",
+    "frame_id": "frame_00030",
+    "text": "Image of a coconut and a bowl of coconut water.",
+    "norm_text": "image of a coconut and a bowl of coconut water.",
+    "bbox": [
+      517,
+      345,
+      599,
+      448
+    ],
+    "label": "Image",
+    "region": "middle-center"
+  }
+]

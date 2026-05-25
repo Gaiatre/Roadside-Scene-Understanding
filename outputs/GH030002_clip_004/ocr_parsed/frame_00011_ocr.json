@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00011_det_001",
+    "frame_id": "frame_00011",
+    "text": "A street scene in an urban area, likely India, featuring a wide road, multi-story buildings, and large trees. A person is riding a bicycle on the left. The center of the image shows a construction or renovation site enclosed by a blue metal fence. A large tree trunk is visible near the center. A sign in Hindi is partially visible, reading 'नवा दुकान केन्द्र' (New Shop Center).",
+    "norm_text": "a street scene in an urban area, likely india, featuring a wide road, multi-story buildings, and large trees. a person is riding a bicycle on the left. the center of the image shows a construction or renovation site enclosed by a blue metal fence. a large tree trunk is visible near the center. a sign in hindi is partially visible, reading 'नवा दुकान केन्द्र' (new shop center).",
+    "bbox": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

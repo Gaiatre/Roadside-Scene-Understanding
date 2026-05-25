@@ -1,0 +1,22 @@
+[
+  {
+    "text": "Large billboard advertisement for 'M' jewelry featuring actress Alia Bhatt. The text reads 'M JEWELLERY' and 'ELEGANCE ELEVATED'.",
+    "label": "Image",
+    "region": "upper-left"
+  },
+  {
+    "text": "ALIA BHATT, STAR OF 'DANGAL' STARRING AAMIR KHAN, IN 'M' JEWELLERY'S 'ELEGANCE ELEVATED' CAMPAIGN",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "Large billboard advertisement for 'REFLECTA COLLECTION' featuring a circular design.",
+    "label": "Image",
+    "region": "middle-right"
+  },
+  {
+    "text": "A street scene showing a traffic light and various smaller commercial signs, including one for 'GMI SWITCH TO A BETTER WORLD'.",
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

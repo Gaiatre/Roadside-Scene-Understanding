@@ -1,0 +1,32 @@
+[
+  {
+    "text": "DI CARPETS",
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "text": "READ PAGESCURTAINAVAILABLE",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "FLORID",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "RUBI CARPETS",
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "text": "RID @ FLORID",
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "text": "CA-ARC",
+    "label": "Text",
+    "region": "upper-right"
+  }
+]

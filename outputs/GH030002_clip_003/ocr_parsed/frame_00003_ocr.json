@@ -1,0 +1,17 @@
+[
+  {
+    "text": "Circular traffic sign indicating 'No Entry' (red circle with blue diagonal line) and 'Jalan' (Street) below it.",
+    "label": "Image",
+    "region": "middle-left"
+  },
+  {
+    "text": "STERLING HOSPITAL",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "STERLING HOSPITAL",
+    "label": "Text",
+    "region": "lower-center"
+  }
+]

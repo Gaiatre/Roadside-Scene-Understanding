@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00023_det_001",
+    "frame_id": "frame_00023",
+    "text": "A street scene in a city, likely South America, featuring a tall, light-colored building with red decorative panels on the facade. The street is busy with vendors selling goods under colorful umbrellas (red, green, and blue). Overhead, numerous utility wires and wooden utility poles crisscross the sky, which is cloudy with patches of blue. Other buildings and vehicles are visible in the background.",
+    "norm_text": "a street scene in a city, likely south america, featuring a tall, light-colored building with red decorative panels on the facade. the street is busy with vendors selling goods under colorful umbrellas (red, green, and blue). overhead, numerous utility wires and wooden utility poles crisscross the sky, which is cloudy with patches of blue. other buildings and vehicles are visible in the background.",
+    "bbox": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

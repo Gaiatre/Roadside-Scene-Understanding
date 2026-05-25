@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00016_det_001",
+    "frame_id": "frame_00016",
+    "text": "A photograph of a residential area featuring a traditional house with a red tiled roof and decorative white trim. A large, dark tree dominates the background. A low, red metal fence runs across the foreground, separating the viewer from the property. Laundry is hanging on the fence. A portion of a black motorcycle is visible on the right side.",
+    "norm_text": "a photograph of a residential area featuring a traditional house with a red tiled roof and decorative white trim. a large, dark tree dominates the background. a low, red metal fence runs across the foreground, separating the viewer from the property. laundry is hanging on the fence. a portion of a black motorcycle is visible on the right side.",
+    "bbox": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

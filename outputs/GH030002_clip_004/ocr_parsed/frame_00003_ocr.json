@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00003_det_001",
+    "frame_id": "frame_00003",
+    "text": "A street scene in an urban area, likely Vietnam. A man wearing a white shirt and jeans is riding a red bicycle across a crosswalk. The background features a large, yellow building with brown, arched window shutters. A blue and white striped fence runs along the sidewalk in front of the building. Traffic lights and a blue trash bin are visible on the right side of the road. The scene is bright and sunny.",
+    "norm_text": "a street scene in an urban area, likely vietnam. a man wearing a white shirt and jeans is riding a red bicycle across a crosswalk. the background features a large, yellow building with brown, arched window shutters. a blue and white striped fence runs along the sidewalk in front of the building. traffic lights and a blue trash bin are visible on the right side of the road. the scene is bright and sunny.",
+    "bbox": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

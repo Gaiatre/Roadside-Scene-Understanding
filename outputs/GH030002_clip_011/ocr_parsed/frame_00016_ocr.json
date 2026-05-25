@@ -1,0 +1,32 @@
+[
+  {
+    "text": "InGo",
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "text": "GAYATRI TRAVELS",
+    "label": "Text",
+    "region": "upper-center"
+  },
+  {
+    "text": "Auro Group",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "RMA PRO",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "Official Channel Store",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "DOW",
+    "label": "Text",
+    "region": "middle-center"
+  }
+]

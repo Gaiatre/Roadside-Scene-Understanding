@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00008_det_001",
+    "frame_id": "frame_00008",
+    "text": "A street scene in a city, likely Mumbai, showing a yellow and blue taxi (auto-rickshaw) on the left, parked near a building with a 'Sultanu Dry Cleaner' sign. The street is lined with multi-story buildings and trees. Several other cars are parked along the right side of the road. The scene is bright and sunny.",
+    "norm_text": "a street scene in a city, likely mumbai, showing a yellow and blue taxi (auto-rickshaw) on the left, parked near a building with a 'sultanu dry cleaner' sign. the street is lined with multi-story buildings and trees. several other cars are parked along the right side of the road. the scene is bright and sunny.",
+    "bbox": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

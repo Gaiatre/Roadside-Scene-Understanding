@@ -1,0 +1,72 @@
+[
+  {
+    "local_id": "frame_00013_det_001",
+    "frame_id": "frame_00013",
+    "text": "CA HOTEL GULSHAN RESIDENCY",
+    "norm_text": "ca hotel gulshan residency",
+    "bbox": [
+      360,
+      58,
+      670,
+      141
+    ],
+    "label": "Text",
+    "region": "upper-center"
+  },
+  {
+    "local_id": "frame_00013_det_002",
+    "frame_id": "frame_00013",
+    "text": "WELCOME TO GULSHAN RESIDENCY",
+    "norm_text": "welcome to gulshan residency",
+    "bbox": [
+      256,
+      134,
+      348,
+      168
+    ],
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "local_id": "frame_00013_det_003",
+    "frame_id": "frame_00013",
+    "text": "Portrait of a political leader",
+    "norm_text": "portrait of a political leader",
+    "bbox": [
+      256,
+      603,
+      274,
+      660
+    ],
+    "label": "Image",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00013_det_004",
+    "frame_id": "frame_00013",
+    "text": "అమిత్ షా అండ్ కోటి",
+    "norm_text": "అమిత్ షా అండ్ కోటి",
+    "bbox": [
+      274,
+      603,
+      450,
+      650
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00013_det_005",
+    "frame_id": "frame_00013",
+    "text": "AAM ADMI PARTY",
+    "norm_text": "aam admi party",
+    "bbox": [
+      522,
+      582,
+      717,
+      627
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  }
+]

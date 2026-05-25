@@ -1,0 +1,72 @@
+[
+  {
+    "local_id": "frame_00007_det_001",
+    "frame_id": "frame_00007",
+    "text": "Mount Litera SCHOOL AFFILIATED",
+    "norm_text": "mount litera school affiliated",
+    "bbox": [
+      140,
+      0,
+      381,
+      180
+    ],
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "local_id": "frame_00007_det_002",
+    "frame_id": "frame_00007",
+    "text": "ADMISSIONS OPEN 14+2 Campuses | 110+ Cities",
+    "norm_text": "admissions open 14+2 campuses | 110+ cities",
+    "bbox": [
+      170,
+      83,
+      359,
+      235
+    ],
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "local_id": "frame_00007_det_003",
+    "frame_id": "frame_00007",
+    "text": "Contact Us: 80955 81111 - 80955 8 Behind High Court, Alzapuri www.zeceschoolkalab",
+    "norm_text": "contact us: 80955 81111 - 80955 8 behind high court, alzapuri www.zeceschoolkalab",
+    "bbox": [
+      145,
+      193,
+      385,
+      407
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00007_det_004",
+    "frame_id": "frame_00007",
+    "text": "Ze School",
+    "norm_text": "ze school",
+    "bbox": [
+      402,
+      170,
+      500,
+      286
+    ],
+    "label": "Text",
+    "region": "upper-center"
+  },
+  {
+    "local_id": "frame_00007_det_005",
+    "frame_id": "frame_00007",
+    "text": "DO YOU CHILD STUDY AT ANY",
+    "norm_text": "do you child study at any",
+    "bbox": [
+      402,
+      263,
+      497,
+      407
+    ],
+    "label": "Text",
+    "region": "middle-center"
+  }
+]

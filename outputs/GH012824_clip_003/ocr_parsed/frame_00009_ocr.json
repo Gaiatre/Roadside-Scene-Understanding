@@ -1,0 +1,72 @@
+[
+  {
+    "local_id": "frame_00009_det_001",
+    "frame_id": "frame_00009",
+    "text": "Mount Litera",
+    "norm_text": "mount litera",
+    "bbox": [
+      225,
+      199,
+      387,
+      252
+    ],
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "local_id": "frame_00009_det_002",
+    "frame_id": "frame_00009",
+    "text": "De School",
+    "norm_text": "de school",
+    "bbox": [
+      410,
+      199,
+      538,
+      242
+    ],
+    "label": "Text",
+    "region": "upper-center"
+  },
+  {
+    "local_id": "frame_00009_det_003",
+    "frame_id": "frame_00009",
+    "text": "ADMISSIONS OPEN",
+    "norm_text": "admissions open",
+    "bbox": [
+      214,
+      297,
+      356,
+      333
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00009_det_004",
+    "frame_id": "frame_00009",
+    "text": "140+ Campuses | 110+ Cities",
+    "norm_text": "140+ campuses | 110+ cities",
+    "bbox": [
+      214,
+      329,
+      364,
+      359
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00009_det_005",
+    "frame_id": "frame_00009",
+    "text": "Contact Us: 80955 81111 - 80955 8",
+    "norm_text": "contact us: 80955 81111 - 80955 8",
+    "bbox": [
+      202,
+      371,
+      387,
+      430
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  }
+]

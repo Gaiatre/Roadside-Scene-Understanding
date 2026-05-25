@@ -1,0 +1,30 @@
+[
+  {
+    "local_id": "frame_00030_det_001",
+    "frame_id": "frame_00030",
+    "text": "UNIVERSITÉ PARIS 13 VAL DE SEINE A.A. LA FONDATION MONDIALE ATLANTIQUE FRANÇAISE",
+    "norm_text": "université paris 13 val de seine a.a. la fondation mondiale atlantique française",
+    "bbox": [
+      812,
+      68,
+      927,
+      187
+    ],
+    "label": "Text",
+    "region": "upper-right"
+  },
+  {
+    "local_id": "frame_00030_det_002",
+    "frame_id": "frame_00030",
+    "text": "UNIVERSITÉ PARIS 13 VAL DE SEINE A.A. LA FONDATION MONDIALE ATLANTIQUE FRANÇAISE",
+    "norm_text": "université paris 13 val de seine a.a. la fondation mondiale atlantique française",
+    "bbox": [
+      732,
+      312,
+      874,
+      407
+    ],
+    "label": "Text",
+    "region": "middle-center"
+  }
+]

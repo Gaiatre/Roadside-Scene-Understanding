@@ -1,0 +1,67 @@
+[
+  {
+    "video_id": "GH012824_clip_003",
+    "qa_pairs": [
+      {
+        "question": "Which establishment is immediately to the right of the banner featuring a man holding a baby?",
+        "answer": "KOMAL CAFE [entity_004]",
+        "reasoning": "The banner [entity_002] is described as being to the left of KOMAL CAFE [entity_004].",
+        "inferred_category": "spatial_grounding"
+      },
+      {
+        "question": "Which office is the first named establishment encountered after passing the blue sign with the 'P' symbol?",
+        "answer": "AAM ADMI PARTY [entity_043]",
+        "reasoning": "The sign [entity_045] is passed at 00:30, and AAM ADMI PARTY [entity_043] is the next establishment mentioned.",
+        "inferred_category": "temporal_reasoning"
+      },
+      {
+        "question": "Between MISSION SCHOOL and ASIAN BAKERY, which establishment uses a visual depiction of a person to advertise infant-related goods?",
+        "answer": "RISE UP BABY! [entity_002]",
+        "reasoning": "RISE UP BABY! [entity_002] is between those landmarks and features a man holding a baby [entity_012].",
+        "inferred_category": "cross_type_reasoning"
+      },
+      {
+        "question": "If a driver uses the blue 'P' symbol sign as a reference, what is the second named building to its right?",
+        "answer": "AKBAR TOWER [entity_048]",
+        "reasoning": "Right of sign: AAM ADMI PARTY [entity_043] (1st), then AKBAR TOWER [entity_048] (2nd).",
+        "inferred_category": "spatial_grounding"
+      },
+      {
+        "question": "Which sign's visual symbol would most reliably help a driver identify a designated stopping area for female motorists?",
+        "answer": "Blue parking sign [entity_045]",
+        "reasoning": "The blue parking sign [entity_045] features a 'P' symbol and text 'LADIES PARKING'.",
+        "inferred_category": "navigational_relevance (identifying actionable driving information)"
+      },
+      {
+        "question": "By the time the vehicle reaches the 100% result notice at 00:30, how many distinct educational institutions have been passed?",
+        "answer": "3",
+        "reasoning": "Three schools: MISSION SCHOOL [entity_003], Mount Litera [entity_016], and ALEEMEE PUBLIC [entity_036].",
+        "inferred_category": "cross_type_reasoning"
+      },
+      {
+        "question": "What hotel is located two positions to the right of the cafe adjacent to the 'RISE UP BABY!' banner?",
+        "answer": "HOTEL LOTUS PARK [entity_034]",
+        "reasoning": "From KOMAL CAFE [entity_004], ASIAN BAKERY [entity_030] is 1st and HOTEL LOTUS PARK [entity_034] is 2nd.",
+        "inferred_category": "spatial_grounding"
+      },
+      {
+        "question": "Based on the specific terminology in the name 'Jai Bhavani Maratha Khanayali', what regional cuisine is likely served?",
+        "answer": "Marathi or Maharashtra",
+        "reasoning": "'Maratha' and 'Khanayali' are terms associated with the Marathi-speaking region of Maharashtra.",
+        "inferred_category": "language_detection"
+      },
+      {
+        "question": "Which building between ASIAN BAKERY and ALEEMEE PUBLIC SCHOOL provides facilities for residential stays and social events?",
+        "answer": "JP Residency [entity_035]",
+        "reasoning": "JP Residency [entity_035] is in that segment and its sign mentions 'HOMES & PARTY HALL'.",
+        "inferred_category": "service_utility_inference (identifying facilities from signage)"
+      },
+      {
+        "question": "What is the total number of pedestrians observed on the sidewalk by the time the vehicle reaches the DR. S. S. PATIL COMPLEX?",
+        "answer": "6",
+        "reasoning": "2 at KOMAL CAFE [entity_004] plus 4 at AKBAR TOWER [entity_048] equals 6.",
+        "inferred_category": "cross_type_reasoning"
+      }
+    ]
+  }
+]

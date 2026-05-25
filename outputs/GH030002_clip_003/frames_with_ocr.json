@@ -1,0 +1,447 @@
+{
+  "frames": [
+    {
+      "frame_name": "frame_00001",
+      "description": "Street view showing a State Bank of India (SBI) branch on the left side of the road. The building is multi-storied with some trees in front and blue-and-white painted curbs.",
+      "signs_and_transcription": "State Bank of India (SBI) Baghbazar Branch; Bengali: স্টেট ব্যাঙ্ক অফ ইন্ডিয়া বাগবাজার শাখা (State Bank of India Baghbazar Branch).",
+      "vehicles_pedestrians_infrastructure": "Infrastructure: SBI building, street lamps with multiple globes, trees, blue and white curb stones.",
+      "ocr_detections": []
+    },
+    {
+      "frame_name": "frame_00002",
+      "description": "A view of a narrow street intersection with old buildings. A large tree trunk is in the foreground. Several people are sitting or standing near small stalls.",
+      "signs_and_transcription": "Amul; GHOSH & SON'S.",
+      "vehicles_pedestrians_infrastructure": "Vehicles: A small white delivery van, a motorcycle. Pedestrians: People sitting on the left under a tree, some walking. Infrastructure: Old urban buildings, overhead power lines.",
+      "ocr_detections": []
+    },
+    {
+      "frame_name": "frame_00003",
+      "description": "Street view passing by green bushes and several signs for a hospital. The background shows a yellow-tinted building with brown shutters.",
+      "signs_and_transcription": "STERLING HOSPITAL; Bengali: স্টার্লিং হাসপাতাল (Sterling Hospital). Round sign: NO PARKING BOTH SIDE.",
+      "vehicles_pedestrians_infrastructure": "Pedestrians: A man in a horizontal striped shirt near the curb. Infrastructure: Street lamps, green hedge, blue and white curb.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in a city, likely Vietnam, showing a curved road lined with buildings and trees. On the left, people are sitting on the sidewalk near a small vendor stall. A motorcycle is driving down the road. On the right, there is a building with a closed brown roller shutter and a sign for 'Amul' above it. Several people are visible sitting on the ground near the right side of the road.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00004",
+      "description": "A small white truck is moving along the street. In the background, there's another Sterling Hospital sign and a shop named 'Saphire'.",
+      "signs_and_transcription": "STERLING HOSPITAL; Saphire; Bengali: স্টার্লিং হাসপাতাল (Sterling Hospital).",
+      "vehicles_pedestrians_infrastructure": "Vehicles: Small white truck carrying planks. Pedestrians: Driver inside the truck. Infrastructure: Multi-story buildings, trees.",
+      "ocr_detections": [
+        {
+          "text": "Circular traffic sign indicating 'No Entry' (red circle with blue diagonal line) and 'Jalan' (Street) below it.",
+          "label": "Image",
+          "region": "middle-left"
+        },
+        {
+          "text": "STERLING HOSPITAL",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "STERLING HOSPITAL",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00005",
+      "description": "View of a green building decorated with Brazil flag paintings on its ground floor. A traffic sign is visible in the foreground.",
+      "signs_and_transcription": "Round traffic sign with a blue and yellow circle.",
+      "vehicles_pedestrians_infrastructure": "Infrastructure: Green building with Brazil themes, street lamps, small garden area, blue and white curb.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in an urban area, featuring a large tree with thick branches and green foliage dominating the left side. A white pickup truck is parked on the left, with a person visible in the driver's seat. The background shows multi-story buildings, including one with a sign reading \"STERLING HOSPITAL\" and another with a sign reading \"Egghite\". The street is paved, and a low curb separates the road from a small landscaped area with bushes and a street light.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00006",
+      "description": "The scene shows a yellow-walled shop with closed shutters. Green bushes line the road in front.",
+      "signs_and_transcription": "RADHEY.",
+      "vehicles_pedestrians_infrastructure": "Infrastructure: Shop building, street lamps, trees, bushes.",
+      "ocr_detections": [
+        {
+          "text": "A street view of a residential area. A multi-story building with a tan facade and multiple windows is visible. The ground floor features a bright green section with three doors, flanked by two large circular signs depicting the Brazilian flag (green field with a blue star and band). A blue circular traffic sign with a red diagonal line is also present. The scene includes trees, bushes, a street light, and a utility pole.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00007",
+      "description": "Street view passing an open area with a Sterling Hospital sign nestled among trees and plants.",
+      "signs_and_transcription": "STERLING HOSPITAL; Bengali: স্টার্লিং হাসপাতাল (Sterling Hospital).",
+      "vehicles_pedestrians_infrastructure": "Infrastructure: Green waste bin, street lamps, building with multiple windows.",
+      "ocr_detections": [
+        {
+          "text": "RADISHEN",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00008",
+      "description": "A man on a bicycle is riding past a small structure and more hospital signs.",
+      "signs_and_transcription": "STERLING HOSPITAL; Bengali: স্টার্লিং হাসপাতাল (Sterling Hospital).",
+      "vehicles_pedestrians_infrastructure": "Vehicles: Bicycle. Pedestrians: Man riding the bicycle. Infrastructure: Buildings, street lamps, trees.",
+      "ocr_detections": [
+        {
+          "text": "S. FELING HOSPITAL",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00009",
+      "description": "A man is carrying a large heavy sack on his shoulder while walking along the sidewalk. There are hospital and catering service signs visible.",
+      "signs_and_transcription": "STERLING HOSPITAL; Bengali: স্টার্লিং হাসপাতাল (Sterling Hospital); Bengali on green board: ফেয়ারার্স ক্যাটারার (Fairars Caterer).",
+      "vehicles_pedestrians_infrastructure": "Pedestrians: Porter carrying a heavy load. Infrastructure: Small shack-like shops, street lamps, trees.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in a densely populated urban area. A man wearing a light pink shirt and blue jeans is riding a red bicycle on the right side of the frame. The background features multi-story buildings with orange and yellow facades, green shutters, and balconies. A utility pole stands prominently in the center-left, with tangled wires. Below the buildings, there is a small, enclosed structure made of wire mesh and corrugated metal, surrounded by lush green foliage and potted plants. A sign partially visible on the right reads 'NG HOSPITAL'.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00010",
+      "description": "The frame is mostly occupied by the side of a white truck with a blue tarp cover, moving in front of the camera.",
+      "signs_and_transcription": "Truck has diamond-shaped painted patterns in yellow, green, and red.",
+      "vehicles_pedestrians_infrastructure": "Vehicles: Side of a delivery truck. Pedestrians: Driver partially visible in the cab.",
+      "ocr_detections": [
+        {
+          "text": "STERLING HOSPITAL",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "কেন্দ্রীয় ক্যান্সার হাসপাতাল",
+          "label": "Text",
+          "region": "lower-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00011",
+      "description": "The camera view is obstructed by the side of the passing blue-tarped truck. Building facades are visible in the background above it.",
+      "signs_and_transcription": "No text signs visible.",
+      "vehicles_pedestrians_infrastructure": "Vehicles: Delivery truck side.",
+      "ocr_detections": [
+        {
+          "text": "A street scene showing the rear of a blue and white truck with decorative patterns (green and yellow diamonds) on the back panel. The truck is parked or moving slowly. In the background, there are multi-story residential buildings, dense green foliage, and utility poles with streetlights. To the right, a white vehicle is partially visible, showing the driver's seat and steering wheel. The overall setting appears to be an urban area.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00012",
+      "description": "Continued close-up view of the moving truck's blue tarp side, slightly motion-blurred.",
+      "signs_and_transcription": "No text signs visible.",
+      "vehicles_pedestrians_infrastructure": "Vehicles: Delivery truck side.",
+      "ocr_detections": [
+        {
+          "text": "A close-up view of the side of a decorated vehicle, likely a tuk-tuk or rickshaw. The upper section is covered by a large, bright blue tarpaulin secured by white grommets. Below the tarpaulin, the body panel is painted with a repeating pattern of colorful diamonds (yellow, red, green) separated by wavy orange and white borders.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00013",
+      "description": "The truck side remains the primary object in view as it moves across the frame.",
+      "signs_and_transcription": "No text signs visible.",
+      "vehicles_pedestrians_infrastructure": "Vehicles: Delivery truck side.",
+      "ocr_detections": [
+        {
+          "text": "A close-up view of the side of a decorated vehicle, likely a truck or bus. The upper section is covered by a large, wrinkled blue tarp secured by white grommets. Below the tarp, the vehicle's body is painted with a decorative border featuring repeating diamond shapes in yellow, red, and green, separated by wavy orange lines.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00014",
+      "description": "Still showing the side of the blue truck. Background buildings are partially visible.",
+      "signs_and_transcription": "No text signs visible.",
+      "vehicles_pedestrians_infrastructure": "Vehicles: Delivery truck side.",
+      "ocr_detections": [
+        {
+          "text": "A close-up view of a decorated structure, likely a temple or shrine. The top section is covered by a large, bright blue tarp or cloth, secured by visible grommets and straps. Below the blue covering is a decorative frieze featuring repeating diamond shapes in yellow, red, and green, separated by orange wavy lines.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00015",
+      "description": "Passing truck continues to dominate the foreground view.",
+      "signs_and_transcription": "No text signs visible.",
+      "vehicles_pedestrians_infrastructure": "Vehicles: Delivery truck side.",
+      "ocr_detections": [
+        {
+          "text": "A close-up view of a decorated structure, likely a temple or shrine. The top section is covered by a large, bright blue tarp or cloth, secured by visible grommets and straps. Below the blue covering is a decorative frieze featuring repeating panels. Each panel contains a large diamond shape (yellow, red, or green) centered on a white background, separated by orange wavy lines. The background shows a multi-story building and dense green foliage.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00016",
+      "description": "Foreground is still the truck's blue tarp side. Motion continues to the right.",
+      "signs_and_transcription": "No text signs visible.",
+      "vehicles_pedestrians_infrastructure": "Vehicles: Delivery truck side.",
+      "ocr_detections": [
+        {
+          "text": "A close-up view of the side of a vehicle, likely a truck or bus. The upper section is covered by a large, bright blue tarpaulin secured by grommets. Below the tarpaulin, the vehicle's body is painted white and features a decorative border with repeating diamond shapes in yellow, red, and green, separated by orange wavy lines.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00017",
+      "description": "Almost the entire frame is filled with the blue surface of the truck's cargo area.",
+      "signs_and_transcription": "No text signs visible.",
+      "vehicles_pedestrians_infrastructure": "Vehicles: Delivery truck side.",
+      "ocr_detections": [
+        {
+          "text": "A close-up view of a large, bright blue tarpaulin stretched horizontally, covering a structure. The tarp is secured by visible grommets and straps. Below the tarp, a decorative border runs horizontally, featuring repeating diamond shapes in yellow, red, and green, separated by orange wavy lines. In the background, above the tarp, are dense green trees and the facade of a multi-story building with balconies and laundry hanging.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00018",
+      "description": "Side of the blue truck passing by, showing more of the painted geometric diamond shapes on the lower body.",
+      "signs_and_transcription": "No text signs visible.",
+      "vehicles_pedestrians_infrastructure": "Vehicles: Delivery truck side.",
+      "ocr_detections": [
+        {
+          "text": "A close-up view of a blue tarpaulin stretched over a structure, likely a temporary shelter or tent. The tarp is secured by visible grommets and straps. Below the tarp, the structure features a decorative border painted with yellow, red, and green diamonds on a white background, separated by orange wavy lines.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00019",
+      "description": "The rear end of the truck starts to pass, revealing more of the street scene behind it.",
+      "signs_and_transcription": "No text signs visible.",
+      "vehicles_pedestrians_infrastructure": "Vehicles: Delivery truck side moving away.",
+      "ocr_detections": [
+        {
+          "text": "A close-up view of a blue tarpaulin stretched over a structure, possibly a temporary shelter or a large container. The tarp is secured with visible grommets and straps. Below the tarp, the structure features a decorative border painted with repeating diamond shapes in yellow, red, and green, separated by wavy orange and white patterns.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00020",
+      "description": "The truck has passed, revealing a white car and a man walking in a yellow-and-black striped shirt. A hospital sign is visible behind them.",
+      "signs_and_transcription": "STERLING HOSPITAL; Bengali: স্টার্লিং হাসপাতাল (Sterling Hospital).",
+      "vehicles_pedestrians_infrastructure": "Vehicles: White car, blue car. Pedestrians: Man in horizontal striped shirt walking to the right. Infrastructure: Trees, buildings.",
+      "ocr_detections": [
+        {
+          "text": "A close-up view of a blue tarpaulin stretched over a structure, likely a temporary shelter or tent. The tarp is secured by visible grommets and stitching. Below the tarp, the structure features a decorative border with repeating diamond shapes in yellow, red, and green, set against a white background with orange wavy lines.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00021",
+      "description": "The man in the striped shirt is walking past a small structure with various signs on its side.",
+      "signs_and_transcription": "STERLING HOSPITAL; Bengali on green board: ফেয়ারার্স ক্যাটারার (Fairars Caterer).",
+      "vehicles_pedestrians_infrastructure": "Vehicles: White car on the left edge. Pedestrians: Man in striped shirt. Infrastructure: Building, small shack, street lamps.",
+      "ocr_detections": [
+        {
+          "text": "STERLING HOSPITAL",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "100% Foreign InvestmentInternational StandardMedical Care",
+          "label": "Text",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00022",
+      "description": "Approaching a busy intersection. A large green directional sign board and traffic signals are prominent.",
+      "signs_and_transcription": "Direction sign board: SHYAM BAZAR R.G. KAR; DUNLOP / B.T. ROAD; LOCKGATE ROAD R.BRIDGE COSSIPORE. Bengali equivalent: শ্যাম বাজার আর.জি. কর; ডানলপ / বি.টি. রোড; লকগেট রোড আর. ব্রিজ কাশীপুর. Bengali on green shack: ফেয়ারার্স ক্যাটারার (Fairars Caterer).",
+      "vehicles_pedestrians_infrastructure": "Vehicles: White car. Pedestrians: Man in striped shirt. Traffic signals: Vertical traffic light assembly. Infrastructure: Large billboard, directional sign, street lamps.",
+      "ocr_detections": [
+        {
+          "text": "STERLING HOSPITAL",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "ক্লাস ক্যান্সার",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00023",
+      "description": "Passing a traffic island with a monument. The directional sign is still visible on the left.",
+      "signs_and_transcription": "Direction sign same as previous frame. Monument base: DOYEN.",
+      "vehicles_pedestrians_infrastructure": "Vehicles: White car, silver van in the distance. Infrastructure: Traffic island with statue, monument base, trees.",
+      "ocr_detections": [
+        {
+          "text": "কোমাল কার্টার",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "বিক্রি 24-25",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00024",
+      "description": "A clear view of a statue of a standing man on a pedestal in the middle of an intersection. A silver van is driving on the road.",
+      "signs_and_transcription": "Monument base: DOYEN.",
+      "vehicles_pedestrians_infrastructure": "Vehicles: Silver van, partial white car. Infrastructure: Statue monument, traffic island, tall trees, street lights.",
+      "ocr_detections": [
+        {
+          "text": "DOYEN BAZARR. B. KAR",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "DR. MOLLY & T. ROSSI",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "ACCIDENTS, FISH & ANIMALS022330998",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "A bronze statue of a standing figure, possibly a deity or historical figure, placed on a pedestal in a landscaped area.",
+          "label": "Image",
+          "region": "middle-right"
+        },
+        {
+          "text": "DOYEN",
+          "label": "Text",
+          "region": "lower-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00025",
+      "description": "Looking back toward a broad street with several cars and billboard posters. Trees line the right side of the frame.",
+      "signs_and_transcription": "Various billboard advertisements in English and Bengali; yellow banner with Bengali text.",
+      "vehicles_pedestrians_infrastructure": "Vehicles: Silver van, several cars further down the road. Infrastructure: Traffic lights, street lamps, intersection crosswalk markings.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in an urban area, likely India, featuring a wide road lined with trees. A statue of a man stands on a raised, landscaped median. A light blue minivan is parked on the right side of the road, and the front of a white car is visible in the bottom left corner. Buildings are visible in the background, along with utility poles and wires.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00026",
+      "description": "The scene shifts to a long wall covered with numerous colorful posters. A motorcyclist and a blue car are on the road.",
+      "signs_and_transcription": "ROOT; various political and social posters in Bengali.",
+      "vehicles_pedestrians_infrastructure": "Vehicles: Motorcycle, blue car, partial white car. Pedestrians: A few people standing by the wall. Infrastructure: Fence, trees, boundary wall.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in an urban area, likely India, showing a busy road intersection. A white car is in the foreground on the left, and a light blue hatchback is on the right. The background features multi-story buildings, dense green trees, and overhead power lines. A large billboard displaying religious figures (Hindu deities) is visible near the center, along with a yellow banner. Several people are standing near the crosswalk in the middle ground.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00027",
+      "description": "Continuing along the road lined with poster-covered walls and tall leafy trees. Several motorcycles are moving through traffic.",
+      "signs_and_transcription": "Various posters in Bengali including images of people.",
+      "vehicles_pedestrians_infrastructure": "Vehicles: Multiple motorcycles, white car, silver van. Infrastructure: Boundary wall, fence, street lamps, dense trees.",
+      "ocr_detections": [
+        {
+          "text": "ROOT",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00028",
+      "description": "View of the roadside wall with many posters. A man in a red shirt is standing nearby.",
+      "signs_and_transcription": "Posters with Bengali text and graphics.",
+      "vehicles_pedestrians_infrastructure": "Vehicles: Motorcycle. Pedestrians: Man in red shirt. Infrastructure: Boundary wall, trees.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in a city, likely India, featuring a large wall covered in political posters and graffiti. The posters include images of political figures, one labeled 'सत्यमेव जयते' (Satyameva Jayate). The graffiti includes the text 'BEATE, CHHORO, JIYATE ALL' and 'NAGPUR'. Several people are riding motorcycles and scooters on the road in front of the wall, which is partially obscured by large trees.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00029",
+      "description": "The camera passes a large red commercial billboard on a street corner. An old building is visible on the right.",
+      "signs_and_transcription": "Large red billboard with large Bengali text: পরিমল (Parimal); Amul sign on the building.",
+      "vehicles_pedestrians_infrastructure": "Vehicles: White car. Infrastructure: Old multi-story building, fence, street lamps.",
+      "ocr_detections": [
+        {
+          "text": "निधि सिवारागला",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00030",
+      "description": "Street view passing an older building with ground-floor shops. A yellow sign for mental health counseling is visible.",
+      "signs_and_transcription": "MENTAL HEALTH COUNSELLING; various shop signs in Bengali.",
+      "vehicles_pedestrians_infrastructure": "Vehicles: White car. Infrastructure: Multi-story concrete building, overhead wires, fence.",
+      "ocr_detections": [
+        {
+          "text": "प्रिमल",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "३ नं. बाजार चालान दुर्गापुर व अमली राजपुरा रोड",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "Amul",
+          "label": "Text",
+          "region": "middle-right"
+        },
+        {
+          "text": "GOSLOW",
+          "label": "Text",
+          "region": "lower-right"
+        }
+      ]
+    }
+  ]
+}

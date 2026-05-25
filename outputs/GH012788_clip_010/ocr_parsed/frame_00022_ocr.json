@@ -1,0 +1,44 @@
+[
+  {
+    "local_id": "frame_00022_det_001",
+    "frame_id": "frame_00022",
+    "text": "Das TEA SHOP",
+    "norm_text": "das tea shop",
+    "bbox": [
+      246,
+      32,
+      691,
+      170
+    ],
+    "label": "Section-Header",
+    "region": "upper-center"
+  },
+  {
+    "local_id": "frame_00022_det_002",
+    "frame_id": "frame_00022",
+    "text": "MELAMURI",
+    "norm_text": "melamuri",
+    "bbox": [
+      608,
+      206,
+      676,
+      227
+    ],
+    "label": "Text",
+    "region": "upper-center"
+  },
+  {
+    "local_id": "frame_00022_det_003",
+    "frame_id": "frame_00022",
+    "text": "Small decorative figure, possibly a deity or mascot, hanging on the left side of the shop entrance.",
+    "norm_text": "small decorative figure, possibly a deity or mascot, hanging on the left side of the shop entrance.",
+    "bbox": [
+      186,
+      692,
+      219,
+      783
+    ],
+    "label": "Image",
+    "region": "lower-left"
+  }
+]

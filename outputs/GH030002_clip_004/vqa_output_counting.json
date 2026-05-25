@@ -1,0 +1,56 @@
+[
+  {
+    "video_id": "GH030002_clip_004",
+    "category": "counting_reasoning",
+    "qa_pairs": [
+      {
+        "question": "Based on the presence of multi-story buildings, public buses, and a wide city intersection, what kind of street is this?",
+        "answer": "Busy arterial high-street; multi-story buildings [entity_006], heavy traffic [entity_005]"
+      },
+      {
+        "question": "What primary activity is suggested by the combination of medical shops, a dental clinic, and a pharmacy?",
+        "answer": "Healthcare services; COBALTIC DENTAL CLINIC [entity_025], SARILAB MEDICO [entity_038]"
+      },
+      {
+        "question": "Based on the presence of a construction site and a 100% Export Oriented Unit, what demographic likely frequents this area?",
+        "answer": "Industrial workers and laborers; construction site [entity_011], Export Unit [entity_043]"
+      },
+      {
+        "question": "Does this street have distinct zones of different activity, and if so where does the transition happen?",
+        "answer": "Commercial to medical; red building [entity_019], COBALTIC DENTAL [entity_025]"
+      },
+      {
+        "question": "At which point along this street is human activity at its highest, and what specific combination of factors causes this?",
+        "answer": "0:05; Shambazar intersection [entity_004], pedestrians, taxi, bus [entity_005]"
+      },
+      {
+        "question": "What physical features between the yellow building and the pink multi-story building define the street's character?",
+        "answer": "Urban commercial; yellow building [entity_001], wide city intersection [entity_004]"
+      },
+      {
+        "question": "What social and commercial mix is evident near the AVENUE CAFE and the dry cleaners?",
+        "answer": "Neighborhood retail and dining; AVENUE CAFE [entity_007], Sultanu Dry Cleaner [entity_008]"
+      },
+      {
+        "question": "Who is the likely target audience for the messaging found on the blue and white patterned facade?",
+        "answer": "Health-conscious public; SPREAD THE WORD [entity_021], HEALTHY FUTURE [entity_022]"
+      },
+      {
+        "question": "Where does the street transition from a residential/construction area to a transit-heavy zone?",
+        "answer": "Near 0:25; construction site [entity_011], public bus 101 [entity_014]"
+      },
+      {
+        "question": "What is the primary activity taking place on this street, and which specific combination of shops, people, and vehicles supports this?",
+        "answer": "Mixed-use commerce; Indian Overseas Bank [entity_040], public bus [entity_014]"
+      },
+      {
+        "question": "Based on the specific physical features visible, what kind of street is this?",
+        "answer": "Dense urban corridor; tram tracks [entity_029], multi-story building [entity_006]"
+      },
+      {
+        "question": "How does the street's commercial character shift after passing the AVENUE CAFE?",
+        "answer": "Shifts to transit-oriented; tram tracks [entity_029], public bus [entity_014]"
+      }
+    ]
+  }
+]

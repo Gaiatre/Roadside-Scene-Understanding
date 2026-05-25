@@ -1,0 +1,8 @@
+moviepy
+opencv-python
+google-generativeai
+beautifulsoup4
+Pillow
+torch
+transformers
+accelerate

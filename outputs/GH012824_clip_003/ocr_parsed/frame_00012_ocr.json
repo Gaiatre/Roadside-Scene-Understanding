@@ -1,0 +1,58 @@
+[
+  {
+    "local_id": "frame_00012_det_001",
+    "frame_id": "frame_00012",
+    "text": "MAATRICE & CO. PVT. LTD. ALEEMEE PUBLIC SCHOOL AN ICSE SCHOOL",
+    "norm_text": "maatrice & co. pvt. ltd. aleemee public school an icse school",
+    "bbox": [
+      207,
+      178,
+      366,
+      280
+    ],
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "local_id": "frame_00012_det_002",
+    "frame_id": "frame_00012",
+    "text": "AFFILIATION No. KA276",
+    "norm_text": "affiliation no. ka276",
+    "bbox": [
+      207,
+      299,
+      351,
+      329
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00012_det_003",
+    "frame_id": "frame_00012",
+    "text": "100% RESULT IN THE ICSE 10TH STD BOARD EXAMS OF MARCH 2023",
+    "norm_text": "100% result in the icse 10th std board exams of march 2023",
+    "bbox": [
+      272,
+      333,
+      474,
+      388
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00012_det_004",
+    "frame_id": "frame_00012",
+    "text": "ADMISSION OPEN FOR CLASSES LKG - UKG - 1Std. to 1XStd.",
+    "norm_text": "admission open for classes lkg - ukg - 1std. to 1xstd.",
+    "bbox": [
+      175,
+      395,
+      478,
+      546
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  }
+]

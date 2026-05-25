@@ -1,0 +1,32 @@
+[
+  {
+    "text": "GENIUS ACADEMY",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "DARSHANOrchid",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "SRINIVAS WELLNESS CLUB",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "BANK",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "MULTISPECIALITYTAL CLINIC",
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "text": "DARSHAN TERRACE CENTRE",
+    "label": "Text",
+    "region": "lower-center"
+  }
+]

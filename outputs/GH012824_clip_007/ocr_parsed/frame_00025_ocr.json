@@ -1,0 +1,17 @@
+[
+  {
+    "text": "VOLUME",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "VOLUME L'ORÉAL",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "METRO",
+    "label": "Text",
+    "region": "lower-left"
+  }
+]

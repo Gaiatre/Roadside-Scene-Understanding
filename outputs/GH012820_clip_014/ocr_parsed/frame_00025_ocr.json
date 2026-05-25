@@ -1,0 +1,32 @@
+[
+  {
+    "text": "NER",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "Green cross medical symbol",
+    "label": "Image",
+    "region": "lower-left"
+  },
+  {
+    "text": "DR. FRANCO DUMAR ROY",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "Medicina General",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "Neuro-Cirujano Plastico",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "SAYONI",
+    "label": "Text",
+    "region": "lower-left"
+  }
+]

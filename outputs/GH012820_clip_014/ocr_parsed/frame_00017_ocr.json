@@ -1,0 +1,32 @@
+[
+  {
+    "text": "BP LABORATORY",
+    "label": "Section-Header",
+    "region": "middle-left"
+  },
+  {
+    "text": "A UNIT OF BIDYUT PRAJA HEALTHCARE PVT. LTD.",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "BP LAB logo with 'ab' text",
+    "label": "Image",
+    "region": "middle-left"
+  },
+  {
+    "text": "বিপ্লব প্রজা",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "DIGITAL",
+    "label": "Text",
+    "region": "middle-center"
+  },
+  {
+    "text": "X-RAY",
+    "label": "Text",
+    "region": "lower-center"
+  }
+]

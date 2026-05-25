@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Advertisement banner featuring four people and text in Hindi.",
+    "label": "Image",
+    "region": "middle-center"
+  },
+  {
+    "text": "वर्जन L.I.C. बिल्डिंग बना",
+    "label": "Section-Header",
+    "region": "middle-center"
+  },
+  {
+    "text": "Courtesy: V. Vaid & S. S. T. C.",
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "text": "Blue and white traffic sign barrier with 'KP' markings.",
+    "label": "Image",
+    "region": "lower-center"
+  },
+  {
+    "text": "A man in a white shirt and dark pants walking on a sidewalk.",
+    "label": "Image",
+    "region": "lower-left"
+  }
+]

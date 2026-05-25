@@ -1,0 +1,44 @@
+[
+  {
+    "local_id": "frame_00014_det_001",
+    "frame_id": "frame_00014",
+    "text": "Golden statue of a deity, likely Shiva, standing on the left side of the entrance.",
+    "norm_text": "golden statue of a deity, likely shiva, standing on the left side of the entrance.",
+    "bbox": [
+      194,
+      168,
+      300,
+      470
+    ],
+    "label": "Image",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00014_det_002",
+    "frame_id": "frame_00014",
+    "text": "Golden statue of a deity, likely Shiva, standing on the right side of the entrance.",
+    "norm_text": "golden statue of a deity, likely shiva, standing on the right side of the entrance.",
+    "bbox": [
+      548,
+      185,
+      651,
+      470
+    ],
+    "label": "Image",
+    "region": "middle-center"
+  },
+  {
+    "local_id": "frame_00014_det_003",
+    "frame_id": "frame_00014",
+    "text": "A large, ornate wooden double door, slightly ajar, set within a blue and gold decorative frame.",
+    "norm_text": "a large, ornate wooden double door, slightly ajar, set within a blue and gold decorative frame.",
+    "bbox": [
+      316,
+      232,
+      544,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

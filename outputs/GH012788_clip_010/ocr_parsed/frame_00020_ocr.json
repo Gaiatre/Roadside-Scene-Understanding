@@ -1,0 +1,44 @@
+[
+  {
+    "local_id": "frame_00020_det_001",
+    "frame_id": "frame_00020",
+    "text": "శ్రీ కృష్ణ మందిరం",
+    "norm_text": "శ్రీ కృష్ణ మందిరం",
+    "bbox": [
+      91,
+      0,
+      402,
+      106
+    ],
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "local_id": "frame_00020_det_002",
+    "frame_id": "frame_00020",
+    "text": "సంప్రదాయం, సంప్రదాయం, సంప్రదాయం -14 52424, 9809826063",
+    "norm_text": "సంప్రదాయం, సంప్రదాయం, సంప్రదాయం -14 52424, 9809826063",
+    "bbox": [
+      91,
+      111,
+      356,
+      187
+    ],
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "local_id": "frame_00020_det_003",
+    "frame_id": "frame_00020",
+    "text": "THILAKAM PHARMACY CHEMISTS & DRUGGISTS",
+    "norm_text": "thilakam pharmacy chemists & druggists",
+    "bbox": [
+      502,
+      111,
+      1024,
+      318
+    ],
+    "label": "Section-Header",
+    "region": "upper-center"
+  }
+]

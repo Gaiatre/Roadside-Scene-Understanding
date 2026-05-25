@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00002_det_001",
+    "frame_id": "frame_00002",
+    "text": "A street view of a two-story building painted yellow, featuring three arched windows with brown shutters on the upper floor. A blue and white metal fence runs along the sidewalk in front of the building, separating it from the road. The building has a weathered lower section and a poster is visible on the wall. Trees and utility poles are present on the left side.",
+    "norm_text": "a street view of a two-story building painted yellow, featuring three arched windows with brown shutters on the upper floor. a blue and white metal fence runs along the sidewalk in front of the building, separating it from the road. the building has a weathered lower section and a poster is visible on the wall. trees and utility poles are present on the left side.",
+    "bbox": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

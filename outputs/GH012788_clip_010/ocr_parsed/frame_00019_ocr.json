@@ -1,0 +1,44 @@
+[
+  {
+    "local_id": "frame_00019_det_001",
+    "frame_id": "frame_00019",
+    "text": "RUBI REXINE",
+    "norm_text": "rubi rexine",
+    "bbox": [
+      429,
+      676,
+      846,
+      821
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "local_id": "frame_00019_det_002",
+    "frame_id": "frame_00019",
+    "text": "INDUSTRIAL FABRIC & FURNISHING FABRIC",
+    "norm_text": "industrial fabric & furnishing fabric",
+    "bbox": [
+      422,
+      821,
+      846,
+      910
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "local_id": "frame_00019_det_003",
+    "frame_id": "frame_00019",
+    "text": "PH - 042 2523567 9417023217",
+    "norm_text": "ph - 042 2523567 9417023217",
+    "bbox": [
+      476,
+      931,
+      796,
+      976
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  }
+]

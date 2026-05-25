@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00027_det_001",
+    "frame_id": "frame_00027",
+    "text": "A photograph of a commercial building facade. The building has a pink upper section and a yellow lower section. A brown metal spiral staircase leads up to a blue-painted balcony. A large, closed, brown corrugated metal roll-down shutter covers the main entrance. A small white control box is mounted on the pink wall next to the shutter. A light blue scooter is parked in front of the shutter. To the right, a partially open blue roll-down shutter reveals a storage area filled with colorful plastic bags and materials. The left side shows a dark interior space with shelves and hanging items.",
+    "norm_text": "a photograph of a commercial building facade. the building has a pink upper section and a yellow lower section. a brown metal spiral staircase leads up to a blue-painted balcony. a large, closed, brown corrugated metal roll-down shutter covers the main entrance. a small white control box is mounted on the pink wall next to the shutter. a light blue scooter is parked in front of the shutter. to the right, a partially open blue roll-down shutter reveals a storage area filled with colorful plastic bags and materials. the left side shows a dark interior space with shelves and hanging items.",
+    "bbox": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00005_det_001",
+    "frame_id": "frame_00005",
+    "text": "A photograph of a residential area featuring a small, single-story building with a corrugated metal roof and a large blue corrugated metal roll-down door. A person wearing a light-colored jacket, a blue cap, and yellow gloves is visible on the left, handling a bundle of material. The building is surrounded by utility wires and dense foliage. The scene appears to be a modest dwelling or storage unit.",
+    "norm_text": "a photograph of a residential area featuring a small, single-story building with a corrugated metal roof and a large blue corrugated metal roll-down door. a person wearing a light-colored jacket, a blue cap, and yellow gloves is visible on the left, handling a bundle of material. the building is surrounded by utility wires and dense foliage. the scene appears to be a modest dwelling or storage unit.",
+    "bbox": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

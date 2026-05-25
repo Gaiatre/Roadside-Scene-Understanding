@@ -1,0 +1,58 @@
+[
+  {
+    "local_id": "frame_00008_det_001",
+    "frame_id": "frame_00008",
+    "text": "A colorful political campaign poster featuring several figures, including a woman and a man, and large red characters, likely Korean, displayed on a yellow wall.",
+    "norm_text": "a colorful political campaign poster featuring several figures, including a woman and a man, and large red characters, likely korean, displayed on a yellow wall.",
+    "bbox": [
+      120,
+      625,
+      294,
+      860
+    ],
+    "label": "Image",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00008_det_002",
+    "frame_id": "frame_00008",
+    "text": "A dark-colored scooter parked on the left side of the narrow alleyway.",
+    "norm_text": "a dark-colored scooter parked on the left side of the narrow alleyway.",
+    "bbox": [
+      277,
+      745,
+      390,
+      1014
+    ],
+    "label": "Image",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00008_det_003",
+    "frame_id": "frame_00008",
+    "text": "A light-colored scooter parked further down the alleyway.",
+    "norm_text": "a light-colored scooter parked further down the alleyway.",
+    "bbox": [
+      396,
+      730,
+      432,
+      826
+    ],
+    "label": "Image",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00008_det_004",
+    "frame_id": "frame_00008",
+    "text": "A small, brightly colored building (blue and green) visible in the distance down the alleyway.",
+    "norm_text": "a small, brightly colored building (blue and green) visible in the distance down the alleyway.",
+    "bbox": [
+      478,
+      530,
+      604,
+      885
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

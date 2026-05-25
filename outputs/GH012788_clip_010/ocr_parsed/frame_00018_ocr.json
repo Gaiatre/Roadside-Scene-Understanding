@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00018_det_001",
+    "frame_id": "frame_00018",
+    "text": "A scene showing a dark wooden fence running horizontally across the frame. Above the fence, large green trees are visible against a bright, overcast sky. On the left, the front of a dark and yellow vehicle (possibly a jeep or SUV) is partially visible. On the right, the profile of an older man wearing glasses is visible in the foreground.",
+    "norm_text": "a scene showing a dark wooden fence running horizontally across the frame. above the fence, large green trees are visible against a bright, overcast sky. on the left, the front of a dark and yellow vehicle (possibly a jeep or suv) is partially visible. on the right, the profile of an older man wearing glasses is visible in the foreground.",
+    "bbox": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

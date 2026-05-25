@@ -1,0 +1,30 @@
+[
+  {
+    "local_id": "frame_00004_det_001",
+    "frame_id": "frame_00004",
+    "text": "B.N.FRUITS",
+    "norm_text": "b.n.fruits",
+    "bbox": [
+      321,
+      318,
+      610,
+      402
+    ],
+    "label": "Section-Header",
+    "region": "middle-center"
+  },
+  {
+    "local_id": "frame_00004_det_002",
+    "frame_id": "frame_00004",
+    "text": "Big Bazaar, Malamuri, Palakkad",
+    "norm_text": "big bazaar, malamuri, palakkad",
+    "bbox": [
+      399,
+      432,
+      530,
+      457
+    ],
+    "label": "Text",
+    "region": "middle-center"
+  }
+]

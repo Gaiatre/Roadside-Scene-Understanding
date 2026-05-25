@@ -1,0 +1,44 @@
+[
+  {
+    "local_id": "frame_00020_det_001",
+    "frame_id": "frame_00020",
+    "text": "86011889 SAVE THE NUMBER",
+    "norm_text": "86011889 save the number",
+    "bbox": [
+      351,
+      166,
+      400,
+      229
+    ],
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "local_id": "frame_00020_det_002",
+    "frame_id": "frame_00020",
+    "text": "ANNA PATEL",
+    "norm_text": "anna patel",
+    "bbox": [
+      455,
+      100,
+      550,
+      180
+    ],
+    "label": "Text",
+    "region": "upper-center"
+  },
+  {
+    "local_id": "frame_00020_det_003",
+    "frame_id": "frame_00020",
+    "text": "SOLIPLY",
+    "norm_text": "soliply",
+    "bbox": [
+      897,
+      0,
+      1001,
+      229
+    ],
+    "label": "Text",
+    "region": "upper-right"
+  }
+]

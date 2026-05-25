@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00016_det_001",
+    "frame_id": "frame_00016",
+    "text": "A street scene in a city, likely Latin America, showing a row of multi-story buildings. On the left, a yellow building has a ground-floor shop with a closed metal shutter. Laundry hangs from the building. A man in a light shirt and dark pants walks on the sidewalk. In the center, a large red building features a prominent arched entranceway with a decorative canopy. To the right, a small, makeshift structure made of corrugated metal and covered with blue and green tarpaulin serves as a temporary dwelling or shelter. A circular traffic sign is visible near the makeshift structure. The street is paved, and shadows indicate bright sunlight.",
+    "norm_text": "a street scene in a city, likely latin america, showing a row of multi-story buildings. on the left, a yellow building has a ground-floor shop with a closed metal shutter. laundry hangs from the building. a man in a light shirt and dark pants walks on the sidewalk. in the center, a large red building features a prominent arched entranceway with a decorative canopy. to the right, a small, makeshift structure made of corrugated metal and covered with blue and green tarpaulin serves as a temporary dwelling or shelter. a circular traffic sign is visible near the makeshift structure. the street is paved, and shadows indicate bright sunlight.",
+    "bbox": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

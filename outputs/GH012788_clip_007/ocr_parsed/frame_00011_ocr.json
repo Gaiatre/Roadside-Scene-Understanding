@@ -1,0 +1,32 @@
+[
+  {
+    "text": "PRINCE",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "ATTA • MAIDA • SOOJI",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "C. SAMOO IYER & SONS",
+    "label": "Text",
+    "region": "middle-center"
+  },
+  {
+    "text": "STAMPER'S MARKET",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "PH 0112-2",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "BIG BAZAR, DALAKK",
+    "label": "Text",
+    "region": "lower-center"
+  }
+]

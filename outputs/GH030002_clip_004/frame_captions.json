@@ -1,0 +1,304 @@
+{
+  "frames": [
+    {
+      "frame_name": "frame_00000",
+      "description": "The frame shows a street scene in an urban area. A white mini truck is parked on the left side of the road next to a yellow wall adorned with posters. A blue and white metal railing runs along the sidewalk. In the background, there is an old multi-story building and some trees. A white car is partially visible on the right edge.",
+      "signs": "A yellow sign on the wall reads 'নেশামুক্তি কেন্দ্র' (Nesh Mukti Kendra - Addiction Treatment Center) and 'মদ ছাড়ান' (Mod Chharan - Quit Alcohol). It also mentions 'ডাঃ বি. বি.' (Dr. B. B.).",
+      "vehicles": "White mini truck, white car (partially visible).",
+      "pedestrians": "One person is seen near the mini truck on the left.",
+      "infrastructure": "Blue and white railing, street lights, old buildings, trees, overhead wires.",
+      "motion": "The camera appears to be moving or panning to the right.",
+      "occluded_signs": "Signs on the wall are partially occluded by the blue and white railing and the parked mini truck."
+    },
+    {
+      "frame_name": "frame_00001",
+      "description": "Continuing the rightward pan, the frame features a bright yellow building with distinctive arched windows and wooden shutters. More posters are plastered on the lower part of the wall behind the blue and white railing.",
+      "signs": "Several small posters are visible; one red poster has text that is difficult to read but appears to be a greeting or announcement in Bengali.",
+      "vehicles": "None visible.",
+      "pedestrians": "One person is standing near a tree on the sidewalk.",
+      "infrastructure": "Yellow building with arched windows and shutters, street light, blue and white railing, trees.",
+      "motion": "Scene has moved right from the previous frame.",
+      "occluded_signs": "Lower parts of the posters are obstructed by the railing and low-lying vegetation."
+    },
+    {
+      "frame_name": "frame_00002",
+      "description": "The view shifts further right, showing a man on a bicycle crossing an intersection. A traffic light and a blue trash bin are visible near the curb.",
+      "signs": "A blue trash bin has a logo and text 'Sree Guru'. Small posters on the wall remain visible.",
+      "vehicles": "Man on a bicycle, a white car is visible in the background at the intersection.",
+      "pedestrians": "The man on the bicycle.",
+      "infrastructure": "Traffic light signal (lights off/green not visible), blue trash bin, street pole with multiple lamps.",
+      "motion": "Continued movement to the right; the cyclist is moving across the frame.",
+      "occluded_signs": "Posters on the building are partially blocked by trees and the railing."
+    },
+    {
+      "frame_name": "frame_00003",
+      "description": "The camera looks down a side street at a busy intersection. Several pedestrians are crossing the street using a zebra crossing. A school building is on the left corner.",
+      "signs": "A sign on the school building reads 'SHAMBAZAR SCHOOL' and '1855'. A red traffic signal is visible. There is a stall with a 'Sree Guru' sign.",
+      "vehicles": "A white van and a yellow taxi are seen driving down the street. The hood of the blue camera vehicle is visible at the bottom left.",
+      "pedestrians": "Several pedestrians are crossing the street.",
+      "infrastructure": "School building, street lights, overhead power lines, zebra crossing, traffic signals.",
+      "motion": "The scene shows active traffic and pedestrian movement at an intersection.",
+      "occluded_signs": "Signs on the distance buildings are occluded by trees and overhead wires."
+    },
+    {
+      "frame_name": "frame_00004",
+      "description": "A large blue bus passes closely in front of the camera, obscuring most of the background.",
+      "signs": "The bus has text reading 'SINTHIMORE 30A ESPLANADE' and a religious phrase in Bengali 'ওঁ নমঃ শিবায়' (Om Namah Shivaya).",
+      "vehicles": "Large blue public transport bus.",
+      "pedestrians": "Passengers can be seen inside the bus through the windows.",
+      "infrastructure": "Trees and buildings are partially visible behind the bus.",
+      "motion": "The bus is moving quickly from left to right across the field of view.",
+      "occluded_signs": "The background buildings and any street signs are fully occluded by the passing bus."
+    },
+    {
+      "frame_name": "frame_00005",
+      "description": "After the bus passes, the view reveals a pinkish building with decorative moldings and some small street-side stalls.",
+      "signs": "A small shop sign for 'DATTA GLASS' is visible. Various small posters and advertisements are on the walls.",
+      "vehicles": "A yellow taxi is parked on the side of the road.",
+      "pedestrians": "A few people are standing or walking near the stalls.",
+      "infrastructure": "Pink multi-story building, street stalls with yellow and blue tarps, blue and white railing.",
+      "motion": "The camera continues to move right along the street.",
+      "occluded_signs": "Stall signs are partially occluded by the blue and white railing."
+    },
+    {
+      "frame_name": "frame_00006",
+      "description": "The frame shows an older building with striped paint and a blue bus stop sign. A small blue van is parked on the right.",
+      "signs": "A sign for 'AVENUE CAFE' is visible. A blue bus stop sign is on a pole. A 'WESTERN ENGG.' sign is on the side of a light blue van.",
+      "vehicles": "Light blue van (Maruti Omni model).",
+      "pedestrians": "None clearly visible.",
+      "infrastructure": "Older residential/commercial buildings, blue and white railing, street lamp posts.",
+      "motion": "Steady rightward movement.",
+      "occluded_signs": "Building wall signs are partially hidden by a tilted tree trunk."
+    },
+    {
+      "frame_name": "frame_00007",
+      "description": "The camera looks down a narrow street lined with parked cars and older buildings with many trees.",
+      "signs": "A shop sign reads 'Sutanuti Dry Cleaner'. Another yellow sign is partially visible.",
+      "vehicles": "Yellow taxi, white car, and several other vehicles are parked along the narrow street.",
+      "pedestrians": "None visible.",
+      "infrastructure": "Narrow urban street, old buildings, dense tree canopy, overhead wires.",
+      "motion": "The camera is passing by the entrance to the narrow street.",
+      "occluded_signs": "Distant signs down the alley are occluded by cars and trees."
+    },
+    {
+      "frame_name": "frame_00008",
+      "description": "The scene focuses on a faded yellow building with multiple levels of balconies and windows behind a blue railing.",
+      "signs": "Few non-distinctive posters are on the building's ground floor walls.",
+      "vehicles": "A yellow taxi is parked near the curb on the left.",
+      "pedestrians": "One person is seen walking on the sidewalk.",
+      "infrastructure": "Multi-story residential building, blue and white railing, street lights.",
+      "motion": "Continued movement along the main road.",
+      "occluded_signs": "Lower wall signs are obstructed by the blue railing."
+    },
+    {
+      "frame_name": "frame_00009",
+      "description": "The view passes a large, plain multi-story building with many windows, some with laundry hanging out.",
+      "signs": "None visible.",
+      "vehicles": "A man on a bicycle is riding along the railing.",
+      "pedestrians": "A few people are seen near the building's base.",
+      "infrastructure": "Large apartment building, blue and white railing.",
+      "motion": "The cyclist is moving in the same direction as the camera.",
+      "occluded_signs": "None."
+    },
+    {
+      "frame_name": "frame_00010",
+      "description": "The frame shows a gated entrance to a property and a yellow wall with familiar posters.",
+      "signs": "The 'নেশামুক্তি কেন্দ্র' (Addiction Treatment Center) posters seen in earlier frames reappear on the wall.",
+      "vehicles": "A man on a bicycle is seen in the foreground.",
+      "pedestrians": "None.",
+      "infrastructure": "Large black metal gate, yellow wall, blue and white railing, trees.",
+      "motion": "Rightward movement continues.",
+      "occluded_signs": "The signs are partially blocked by trees and the cyclist."
+    },
+    {
+      "frame_name": "frame_00011",
+      "description": "The camera passes more of the yellow wall and a building with a 'SBI' logo visible in the background.",
+      "signs": "The 'নেশামুক্তি কেন্দ্র' posters are visible again. An 'SBI' (State Bank of India) logo is on a building in the background.",
+      "vehicles": "None.",
+      "pedestrians": "One person is walking across the frame.",
+      "infrastructure": "Yellow wall, blue and white railing, trees, apartment buildings.",
+      "motion": "Steady camera movement to the right.",
+      "occluded_signs": "Portions of the wall signs are occluded by tree trunks."
+    },
+    {
+      "frame_name": "frame_00012",
+      "description": "Another large blue bus with red lettering passes by, filling much of the frame.",
+      "signs": "The bus has a large advertisement for 'RAIPUR ELECT...' listing various locations. A small 'IAS UPSC' sign is on a street pole.",
+      "vehicles": "Large blue bus.",
+      "pedestrians": "None visible.",
+      "infrastructure": "Street pole with signs, buildings in the background.",
+      "motion": "The bus is moving across the frame, occluding the background.",
+      "occluded_signs": "Background buildings and street signs are occluded by the bus."
+    },
+    {
+      "frame_name": "frame_00013",
+      "description": "The camera captures a modern white corner building at an intersection. Two buses are visible on either side.",
+      "signs": "A shop sign 'Sree Guru' is seen. Street markings on the road say 'LANE'. Shop signs are visible on the ground floor of the white building.",
+      "vehicles": "A blue bus on the left, a red and yellow bus on the right, and a white car in the distance.",
+      "pedestrians": "Several pedestrians are walking near the corner building.",
+      "infrastructure": "Modern white building, street lights, overhead wires, road markings.",
+      "motion": "The camera is at an intersection with multiple vehicles moving.",
+      "occluded_signs": "Lower shop signs are partially blocked by pedestrians and vehicles."
+    },
+    {
+      "frame_name": "frame_00014",
+      "description": "A close-up view of the side of a red and yellow bus.",
+      "signs": "The bus features an 'Emergency Exit' sign and a decorative graphic with the word 'PICON'.",
+      "vehicles": "Side view of a red and yellow public bus.",
+      "pedestrians": "The bus driver's arm is visible out the window.",
+      "infrastructure": "White building in the background.",
+      "motion": "The bus is moving past the camera.",
+      "occluded_signs": "The background is mostly blocked by the body of the bus."
+    },
+    {
+      "frame_name": "frame_00015",
+      "description": "The view passes a red heritage-style building with a large archway and some makeshift stalls in front.",
+      "signs": "A round sign reads 'BUSES WILL NOT STOP HERE' in red and white. There is also a small red circle with a cross inside.",
+      "vehicles": "None visible.",
+      "pedestrians": "A man is walking along the sidewalk on the left.",
+      "infrastructure": "Red brick building with an archway, blue and white railing, makeshift stalls with tarps.",
+      "motion": "Continuing rightward movement along the street.",
+      "occluded_signs": "Signs on the building are partially hidden by the makeshift stalls."
+    },
+    {
+      "frame_name": "frame_00016",
+      "description": "The camera moves along the red building, where laundry is hanging on the blue railing and a person is working at a stall.",
+      "signs": "A green sign is above a shop entrance. A red triangular warning sign is on a pole. A sign in Bengali mentions 'Shovabazar'.",
+      "vehicles": "None visible.",
+      "pedestrians": "A man in a white and blue shirt is cleaning or sweeping the area.",
+      "infrastructure": "Red building wall, blue and white railing, laundry, street light pole.",
+      "motion": "Continued movement to the right.",
+      "occluded_signs": "Signs are partially occluded by the laundry and tree branches."
+    },
+    {
+      "frame_name": "frame_00017",
+      "description": "The frame shows a pinkish building with a striped ground floor wall. A large billboard is positioned above a lower structure.",
+      "signs": "A billboard for 'ANJALI JEWELLERS' features a woman. A sign on the building reads 'MERCY FURNITURE'.",
+      "vehicles": "None.",
+      "pedestrians": "None visible.",
+      "infrastructure": "Pinkish-red building, striped wall (yellow and red), trees, blue and white railing.",
+      "motion": "Steady rightward movement.",
+      "occluded_signs": "Building signs are partially blocked by trees."
+    },
+    {
+      "frame_name": "frame_00018",
+      "description": "The camera passes a building with signs for a dental clinic and a bank. Several auto-rickshaws are parked at the entrance.",
+      "signs": "Signs for 'AVENUE DENTAL CLINIC' and 'UCO BANK' (United Commercial Bank) are visible. The Anjali Jewellers billboard is still in view.",
+      "vehicles": "Three green and yellow auto-rickshaws, a motorcycle.",
+      "pedestrians": "None clearly visible.",
+      "infrastructure": "Bank building, dental clinic, trees, gas station structure in the background.",
+      "motion": "Continuing rightward movement.",
+      "occluded_signs": "Signs are partially blocked by the auto-rickshaws."
+    },
+    {
+      "frame_name": "frame_00019",
+      "description": "The view focuses on a wall with vertical stripes and several posters. A billboard is visible on top of the building.",
+      "signs": "The Anjali Jewellers billboard features a woman. A sign reads 'SAVE THE NUMBER 66011800'. A blue sign for 'SOLIDPLY' is also seen. A shop sign 'info more' is visible.",
+      "vehicles": "None.",
+      "pedestrians": "A man in a yellow shirt is standing near the blue railing.",
+      "infrastructure": "Striped wall, blue and white railing, apartment buildings, street light pole with a traffic light.",
+      "motion": "Steady pan to the right.",
+      "occluded_signs": "Posters on the wall are partially torn and occluded by the railing."
+    },
+    {
+      "frame_name": "frame_00020",
+      "description": "The camera reaches a large intersection with several billboards and many auto-rickshaws waiting or moving.",
+      "signs": "A large billboard for 'Lux Cozi EXODUS COZY' features a woman. Another billboard for 'P.C. CHANDRA JEWELLERS' is visible. A traffic barrier says 'GO SLOW'. Traffic lights are visible. A green directional sign points toward various locations.",
+      "vehicles": "Many green and yellow auto-rickshaws, a motorcycle, a yellow taxi.",
+      "pedestrians": "Pedestrians are visible crossing the street or standing on the sidewalk.",
+      "infrastructure": "Intersection with tram tracks, traffic lights, large buildings, metal barriers.",
+      "motion": "High activity level at a major intersection.",
+      "occluded_signs": "Distant directional signs are occluded by the mass of auto-rickshaws."
+    },
+    {
+      "frame_name": "frame_00021",
+      "description": "The frame shows a gas station on the right side of the intersection, with a zebra crossing in the foreground.",
+      "signs": "The 'P.C. CHANDRA JEWELLERS' billboard is prominently displayed above the 'Bharat Petroleum' gas station. A blue and white sign for 'Lux Cozi' is on the left.",
+      "vehicles": "Several auto-rickshaws, a motorcycle, a white mini truck, and a white car at the gas station.",
+      "pedestrians": "A man is crossing the street on the zebra crossing.",
+      "infrastructure": "Bharat Petroleum gas station canopy, zebra crossing, street lamps, overhead wires.",
+      "motion": "Traffic and pedestrians moving through the intersection.",
+      "occluded_signs": "Gas station signs are partially blocked by the white truck and car."
+    },
+    {
+      "frame_name": "frame_00022",
+      "description": "The camera passes a decorative sign installation and a medical shop near the gas station.",
+      "signs": "A large installation reads 'I [HEART] WARD 17'. A shop sign for 'SAI MEDICAL - CHEMIST & DRUGGIST' with '20% DISCOUNT' is seen. The Bharat Petroleum sign is visible in the background.",
+      "vehicles": "A yellow taxi is crossing the zebra crossing. A white car is parked in the background.",
+      "pedestrians": "A man in a red shirt is with a bicycle. Another person is drinking water near the medical shop.",
+      "infrastructure": "I Love Ward 17 sign, medical shop, gas station, zebra crossing.",
+      "motion": "The taxi is moving across the frame while the camera continues right.",
+      "occluded_signs": "The 'Ward 17' sign is partially occluded by a small tree."
+    },
+    {
+      "frame_name": "frame_00023",
+      "description": "The view moves along a street with several shops, including a pharmacy and a dry cleaner.",
+      "signs": "Signs for 'SARKAR MEDICO - CHEMIST & DRUGGISTS' and 'UP-TO-DATE - Dry Cleaners' are visible. A white security van is passing.",
+      "vehicles": "White security/cash van with 'S&IB' logo.",
+      "pedestrians": "Several pedestrians are walking on the sidewalk.",
+      "infrastructure": "Older buildings, shops, blue and white railing, trees, street light pole.",
+      "motion": "The security van is moving past the camera.",
+      "occluded_signs": "Shop signs are partially blocked by tree trunks and the security van."
+    },
+    {
+      "frame_name": "frame_00024",
+      "description": "The frame features the 'Indian Overseas Bank' branch and some parked cars on the street.",
+      "signs": "A large blue sign reads 'Indian Overseas Bank (A Govt. of India Undertaking) J.M. Avenue Branch'. The text is also in Bengali 'ইন্ডিয়ান ওভারসীজ ব্যাঙ্ক...' and Hindi 'इंडियन ओवरसीज बैंक...'. A 'P-TO-DATE' shop sign is visible on the left.",
+      "vehicles": "Two white cars parked near the curb. A yellow taxi is seen driving away.",
+      "pedestrians": "A man in a white shirt and black pants is standing next to a white car, looking at a newspaper.",
+      "infrastructure": "Bank building, shopfronts, blue and white railing, street light poles.",
+      "motion": "Camera continues rightward movement.",
+      "occluded_signs": "Part of the bank sign is obscured by tree branches."
+    },
+    {
+      "frame_name": "frame_00025",
+      "description": "The camera looks down a corner with a makeshift stall and older buildings in the background.",
+      "signs": "A large blue banner reads 'CLINTON NOVO'. Smaller shop signs are visible in the background.",
+      "vehicles": "A motorcycle is parked or moving slowly near the corner.",
+      "pedestrians": "A man in a blue checked shirt and a woman in a blue dress are walking near the corner.",
+      "infrastructure": "Older buildings, blue and white railing, makeshift stall with a tarp, street lamps.",
+      "motion": "Movement past the street corner.",
+      "occluded_signs": "Stall signs are occluded by the tarp and trees."
+    },
+    {
+      "frame_name": "frame_00026",
+      "description": "The view passes a modern building housing medical clinics and an apartment complex.",
+      "signs": "A sign for 'D'NOVO CLINICS - Lifeline to good health' is visible. Another sign reads 'ARIHANT AAWAS'. A red stone monument has text in Hindi 'जय जिনেન્દ્ર' (Jai Jinendra). A red triangular sign is on a pole.",
+      "vehicles": "A yellow taxi is partially visible in the foreground.",
+      "pedestrians": "A woman in a red and yellow saree is walking across the scene. A man in a red shirt is working on a street lamp pole.",
+      "infrastructure": "Modern building with shopfronts, street lamp pole, stone monument, blue and white railing.",
+      "motion": "Pedestrians and workers are active in the scene.",
+      "occluded_signs": "Clinic signs are partially blocked by the street lamp pole."
+    },
+    {
+      "frame_name": "frame_00027",
+      "description": "The camera looks past a large tree at a narrow lane and some older buildings.",
+      "signs": "A billboard with a man's face and text is partially visible through the tree. A green directional sign is seen further down the street.",
+      "vehicles": "A yellow taxi is moving along the road on the right.",
+      "pedestrians": "A person is walking down the narrow lane in the background.",
+      "infrastructure": "Older multi-story buildings, narrow lane, large tree, blue and white railing.",
+      "motion": "Camera is moving past the lane entrance.",
+      "occluded_signs": "The billboard is significantly occluded by the thick foliage of the tree."
+    },
+    {
+      "frame_name": "frame_00028",
+      "description": "The view moves along an orange building wall with several signs and a blue railing.",
+      "signs": "An 'Indigo' advertisement and a sign for 'Digo' are visible on the wall. A red triangular 'ACCIDENT PRONE ZONE' sign is on a pole. Posters are seen on the building wall.",
+      "vehicles": "None.",
+      "pedestrians": "A woman is walking on the right edge of the frame.",
+      "infrastructure": "Orange building, blue and white railing, street lamp pole, trees.",
+      "motion": "Continuing steady movement to the right.",
+      "occluded_signs": "Wall signs are partially occluded by trees and the blue railing."
+    },
+    {
+      "frame_name": "frame_00029",
+      "description": "The frame shows the entrance to a charity foundation trust building.",
+      "signs": "A sign above the entrance reads 'SHANTILAL CHARITY... Foundation Trust'. The text is in English and Bengali.",
+      "vehicles": "None.",
+      "pedestrians": "A man is sitting near the entrance of the building.",
+      "infrastructure": "Orange-painted building, gated entrance with shutters, blue and white railing, street light pole, trees.",
+      "motion": "Camera movement continues past the building.",
+      "occluded_signs": "The charity sign is partially blocked by a street light pole and tree branches."
+    }
+  ]
+}

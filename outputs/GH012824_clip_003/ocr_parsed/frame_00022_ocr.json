@@ -1,0 +1,30 @@
+[
+  {
+    "local_id": "frame_00022_det_001",
+    "frame_id": "frame_00022",
+    "text": "మోహన్ లోడ్జ్",
+    "norm_text": "మోహన్ లోడ్జ్",
+    "bbox": [
+      340,
+      612,
+      596,
+      728
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  },
+  {
+    "local_id": "frame_00022_det_002",
+    "frame_id": "frame_00022",
+    "text": "మోహన్ రెస్టోరెంట్",
+    "norm_text": "మోహన్ రెస్టోరెంట్",
+    "bbox": [
+      87,
+      745,
+      348,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-left"
+  }
+]

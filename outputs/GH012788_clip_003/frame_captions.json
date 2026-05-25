@@ -1,0 +1,418 @@
+{
+  "frames": [
+    {
+      "frame_name": "frame_00001",
+      "description": "The scene shows a street view with several commercial shops. On the left, there's a building under construction. The main shops visible are S.S. Surgical, BM Lock Centre, and Shree Ganesh Aluminium. Power lines and a utility pole are in the foreground.",
+      "signs": [
+        "S.S. SURGICAL",
+        "BM. LOCK CENTRE Retail & Wholesales",
+        "SHREE GANESH ALUMINIUM - 25/580(45), Manjakulam Road, M.J. Complex, Palakkad - 678 014",
+        "Dealers in: Aluminium Section, Curtain Items, Bus Body Section, Aluminium Sheet, Coil, A.C.P. Sheet & P.V.C. Sheet, U.P.V.C. Profile Thermocol, Ladder & H/W Etc."
+      ],
+      "vehicles": "Two scooters are parked in front of the shops.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "Commercial buildings, utility poles, and power lines.",
+      "scene_changes": "Initial frame of the sequence."
+    },
+    {
+      "frame_name": "frame_00002",
+      "description": "The camera moves closer to the 'Shree Ganesh Aluminium' shop. Numerous aluminum ladders of various sizes are displayed outside the store on the sidewalk.",
+      "signs": [
+        "SHREE GANESH ALUMINIUM",
+        "25/580(45), Manjakulam Road, M.J. Complex, Palakkad - 678 014"
+      ],
+      "vehicles": "A scooter is parked to the left of the ladders.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "Building facade, sidewalk.",
+      "scene_changes": "Moving forward towards the right."
+    },
+    {
+      "frame_name": "frame_00003",
+      "description": "The camera passes 'Shree Ganesh Aluminium' and approaches 'RUBI REXINE'. An auto-rickshaw is partially visible in the bottom foreground.",
+      "signs": [
+        "RUBI REXINE",
+        "FURNISHING MATERIALS"
+      ],
+      "vehicles": "A black and green auto-rickshaw.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "Narrow alleyway between buildings.",
+      "scene_changes": "Continuing movement past the first set of shops."
+    },
+    {
+      "frame_name": "frame_00004",
+      "description": "The camera is now in front of 'RUBI REXINE', a shop specializing in furnishing materials. A white van is parked on the street in front of the shop.",
+      "signs": [
+        "RUBI REXINE FURNISHING MATERIALS",
+        "RUBI REXINE PALAKKAD",
+        "Kurl-on THE MATTRESS OF INDIA"
+      ],
+      "vehicles": "A white van with a yellow bird decal on its rear window.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "Two-story commercial building.",
+      "scene_changes": "Passing a parked van."
+    },
+    {
+      "frame_name": "frame_00005",
+      "description": "The scene focuses on the mattress section of 'RUBI REXINE', featuring a large 'Kurl-on' sign. Two workers are seen handling bright pink foam pieces near a parked motorcycle.",
+      "signs": [
+        "Kurl-on THE MATTRESS OF INDIA",
+        "കർലോൺ (Malayalam: Kurl-on)",
+        "PH: 9447023217",
+        "RUBI REXINE PALAKKAD"
+      ],
+      "vehicles": "A blue and black motorcycle.",
+      "pedestrians": "Two men working outside the shop.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "Shop front with mattresses and foam displayed.",
+      "scene_changes": "Approaching a mattress shop."
+    },
+    {
+      "frame_name": "frame_00006",
+      "description": "The camera passes a red truck loaded with pink foam. The next shop is 'RUBI CARPETS'. A blue 'Kurl-on' sign and other brand banners are visible.",
+      "signs": [
+        "RUBI CARPETS",
+        "FLORID Luxury Mattress"
+      ],
+      "vehicles": "A red pickup truck.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "Building exterior.",
+      "scene_changes": "Passing a parked truck."
+    },
+    {
+      "frame_name": "frame_00007",
+      "description": "The camera moves past 'RUBI CARPETS' and approaches 'Imperial HALWA'. Mattresses are stacked outside. A black scooter is parked nearby.",
+      "signs": [
+        "RUBI CARPETS",
+        "Imperial HALWA",
+        "അൽവാ (Malayalam: Halwa)",
+        "FLORID",
+        "READYMADE CURTAIN AVAILABLE"
+      ],
+      "vehicles": "A black scooter.",
+      "pedestrians": "A person is partially visible inside the shop area.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "Commercial row.",
+      "scene_changes": "Moving towards a sweet shop."
+    },
+    {
+      "frame_name": "frame_00008",
+      "description": "The camera passes 'Imperial HALWA' and shows a building named 'CA ARCADE'. It appears to have vacant units for rent. A checkerboard-patterned floor is in front of the building.",
+      "signs": [
+        "CA ARCADE",
+        "FOR RENT PH: 9845521678",
+        "Finpal - ACCOUNTING TAX TRADEMARK PARTNERSHIP & COMPANY REGN CONSULTANCY",
+        "Imperial HALWA"
+      ],
+      "vehicles": "None visible.",
+      "pedestrians": "A man in a white shirt is standing near the halwa shop.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "A white two-story building with blue shutters.",
+      "scene_changes": "Passing an empty building."
+    },
+    {
+      "frame_name": "frame_00009",
+      "description": "The camera moves past the alleyway next to 'CA ARCADE' towards a building with a 'Berger' paint sign. Several motorcycles are parked in the distance.",
+      "signs": [
+        "CA ARCADE",
+        "Finpal",
+        "Berger",
+        "KARATT KURIES INDIA PVT. LTD"
+      ],
+      "vehicles": "Multiple motorcycles parked in the distance.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "Narrow side street, building facade.",
+      "scene_changes": "Continuing along the road."
+    },
+    {
+      "frame_name": "frame_00010",
+      "description": "The scene shows the corner of a building with signs for 'KARATT KURIES' and 'Berger Paint'. Some painting advertisements are on the ground.",
+      "signs": [
+        "KARATT KURIES INDIA PVT. LTD",
+        "Berger",
+        "expre paint"
+      ],
+      "vehicles": "None visible.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "Corner building.",
+      "scene_changes": "Approaching a curve in the road."
+    },
+    {
+      "frame_name": "frame_00011",
+      "description": "The camera rounds the corner, revealing 'C.K.P TRADERS AGROMART'. This store sells agricultural and power equipment.",
+      "signs": [
+        "Berger",
+        "STIHL",
+        "C.K.P TRADERS AGROMART",
+        "കർണ്ണകടക അഗ്രോമാർട്ട് (Malayalam: CKP Traders Agromart)"
+      ],
+      "vehicles": "None visible.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "Roadside buildings.",
+      "scene_changes": "Entering a new segment of the street."
+    },
+    {
+      "frame_name": "frame_00012",
+      "description": "The camera is directly in front of 'C.K.P TRADERS AGROMART'. Agricultural equipment like wheelbarrows and tillers are displayed outside.",
+      "signs": [
+        "STIHL",
+        "C.K.P TRADERS AGROMART",
+        "9656611959 9447274406",
+        "കർണ്ണകടക അഗ്രോമാർട്ട് (Malayalam: CKP Traders Agromart)"
+      ],
+      "vehicles": "None visible.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "Retail shop front.",
+      "scene_changes": "Passing a specialty equipment store."
+    },
+    {
+      "frame_name": "frame_00013",
+      "description": "Moving past the agromart towards a large tyre shop. A yellow and blue Goodyear sign is visible.",
+      "signs": [
+        "STIHL",
+        "C.K.P TRADERS AGROMART",
+        "9656611959 9447274406",
+        "GOODYEAR"
+      ],
+      "vehicles": "A motorcycle is parked in front of the agromart.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "Adjoining buildings.",
+      "scene_changes": "Transitioning to a tyre shop."
+    },
+    {
+      "frame_name": "frame_00014",
+      "description": "The camera is in front of the 'GOODYEAR AUTOCARE' shop, also branded as 'PEOPLES TYRES'. Many tyres are stacked outside.",
+      "signs": [
+        "GOODYEAR AUTOCARE - TYRES WHEEL ALIGNMENT & BALANCING TYRE CHANGING NITROGEN AIR",
+        "PEOPLES TYRES",
+        "Apollo",
+        "YOKOHAMA"
+      ],
+      "vehicles": "A black car is partially visible in the bottom foreground.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "Automotive service shop.",
+      "scene_changes": "Approaching a tyre service center."
+    },
+    {
+      "frame_name": "frame_00015",
+      "description": "The camera shows the full storefront of 'PEOPLES TYRES' with Goodyear branding. There are stacks of tyres and some promotional signs for other tyre brands.",
+      "signs": [
+        "GOODYEAR AUTOCARE",
+        "PEOPLES TYRES",
+        "Apollo",
+        "YOKOHAMA",
+        "METRO",
+        "IDFC FIRST Bharat"
+      ],
+      "vehicles": "A stack of tyres is prominently visible.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "Two-story shop building.",
+      "scene_changes": "Moving past the tyre shop entrance."
+    },
+    {
+      "frame_name": "frame_00016",
+      "description": "The camera continues past the tyre shop. An alleyway is visible beside it. Several brand logos for tyres and a bank are seen.",
+      "signs": [
+        "GOODYEAR AUTOCARE",
+        "PEOPLES TYRES",
+        "Apollo",
+        "YOKOHAMA",
+        "METRO",
+        "IDFC FIRST Bharat"
+      ],
+      "vehicles": "None visible.",
+      "pedestrians": "A few people are standing near the shop entrance.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "Shop front with signage.",
+      "scene_changes": "Continuing the drive past the shops."
+    },
+    {
+      "frame_name": "frame_00017",
+      "description": "The camera moves towards a building with 'IDFC FIRST Bharat' signage and lists several tyre brands.",
+      "signs": [
+        "IDFC FIRST Bharat",
+        "Apollo",
+        "CEAT",
+        "JKTYRE",
+        "MRF"
+      ],
+      "vehicles": "Multiple motorcycles are parked in the alleyway.",
+      "pedestrians": "A man is standing near the motorcycles.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "Commercial building facade.",
+      "scene_changes": "Approaching a parking area."
+    },
+    {
+      "frame_name": "frame_00018",
+      "description": "A man on a phone is standing next to a group of parked motorcycles. A large building with gray corrugated metal siding is ahead.",
+      "signs": [
+        "IDFC FIRST Bharat"
+      ],
+      "vehicles": "A row of parked motorcycles.",
+      "pedestrians": "One man using a mobile phone.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "Parking space, large warehouse-like building.",
+      "scene_changes": "Pivoting towards the gray building."
+    },
+    {
+      "frame_name": "frame_00019",
+      "description": "The camera shows the gray corrugated metal building with several closed shutters. A small brown car is parked in front of it.",
+      "signs": "None visible.",
+      "vehicles": "A brown Maruti Suzuki Alto/Celerio and several motorcycles are parked.",
+      "pedestrians": "A man is sitting on a motorcycle.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "Metal shed/building.",
+      "scene_changes": "Passing a parked car."
+    },
+    {
+      "frame_name": "frame_00020",
+      "description": "A closer view of the parked brown car and the gray corrugated metal building. A utility pole is in the foreground.",
+      "signs": "None visible.",
+      "vehicles": "Brown car.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "Utility pole, building with metal siding.",
+      "scene_changes": "Moving past the metal building."
+    },
+    {
+      "frame_name": "frame_00021",
+      "description": "The camera moves past the gray building towards a more open area with some greenery and a white wall. Another building with a green roof is in the background.",
+      "signs": "None visible.",
+      "vehicles": "Part of a brown car on the left.",
+      "pedestrians": "Head of a person partially visible in the bottom foreground.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "Concrete wall, trees, utility pole.",
+      "scene_changes": "Transitioning to a less dense area."
+    },
+    {
+      "frame_name": "frame_00022",
+      "description": "The camera turns right, revealing a large orange and yellow truck with 'Kerala Roadways' written on it. A building with a green roof is visible in the distance.",
+      "signs": [
+        "Kerala Roadways"
+      ],
+      "vehicles": "A large orange and yellow logistics truck.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "Roadside greenery, building.",
+      "scene_changes": "Encountering a large vehicle."
+    },
+    {
+      "frame_name": "frame_00023",
+      "description": "Close-up shot of the red corrugated metal side of the truck.",
+      "signs": "None visible.",
+      "vehicles": "Side view of a red/orange truck.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "None visible.",
+      "scene_changes": "Extreme close-up on the truck."
+    },
+    {
+      "frame_name": "frame_00024",
+      "description": "The camera moves past the truck and returns to a street with more shops. 'AL ALUMIN DESIGN' is on the right. A man is walking on the dirt road.",
+      "signs": [
+        "AL ALUMIN DESIGN",
+        "J.S. AUTO ELECTRICALS"
+      ],
+      "vehicles": "None visible.",
+      "pedestrians": "A man in a brown shirt is walking away from the camera.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "Dirt path, utility pole, buildings.",
+      "scene_changes": "Entering a new section of shops."
+    },
+    {
+      "frame_name": "frame_00025",
+      "description": "The camera approaches 'AL ALUMIN DESIGN', which has a bright red shop front. A sign for 'duroflex' is also visible.",
+      "signs": [
+        "AL ALUMIN DESIGN - ALL KINDS OF INTERIOR & EXTERIOR WORK",
+        "Manjakulam Masjid Road, Palakkad",
+        "Mob: 9946456135, 9847129865, 8089111414 (Off)",
+        "J.S. AUTO ELECTRICALS"
+      ],
+      "vehicles": "None visible.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "Building with red facade.",
+      "scene_changes": "Passing an interior design shop."
+    },
+    {
+      "frame_name": "frame_00026",
+      "description": "The camera is in front of 'AL ALUMIN DESIGN' and 'duroflex mattresses'. 'JPS ASSOCIATE' branding is also present on the duroflex sign.",
+      "signs": [
+        "AL ALUMIN DESIGN",
+        "duroflex mattresses",
+        "JPS ASSOCIATE",
+        "25/589, Manjakulam Road, Palakkad",
+        "Mob: 9447094888, 9074871831"
+      ],
+      "vehicles": "None visible.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "Commercial storefront.",
+      "scene_changes": "Moving past mattress and design shops."
+    },
+    {
+      "frame_name": "frame_00027",
+      "description": "The scene shows 'JPS ASSOCIATE' branding alongside 'REPOSE' mattresses. A notice on the shutter in Malayalam informs about a shop name change.",
+      "signs": [
+        "JPS ASSOCIATE",
+        "REPOSE WAKE UP TO FRESH IDEAS",
+        "JPS ASSOCIATE ഷോപ്പ് RL FURNISHING എന്ന പേരിൽ മാറിയിരിക്കുന്നു Near OMR BIRIYANI Mob: 9074871831 (Malayalam: JPS Associate shop has changed its name to RL Furnishing...)"
+      ],
+      "vehicles": "A motorcycle is parked on the right.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "Shop shutters.",
+      "scene_changes": "Approaching another set of shops."
+    },
+    {
+      "frame_name": "frame_00028",
+      "description": "Passing the mattress shop, the next building is pink and gray. An auto-rickshaw is partially visible. The signage indicates it sells furnishing materials.",
+      "signs": [
+        "FOAMS",
+        "FLOOR MATT",
+        "CAR SEAT MATERIALS",
+        "CARPET"
+      ],
+      "vehicles": "A black scooter and part of a yellow auto-rickshaw.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "Building exterior.",
+      "scene_changes": "Moving along the shop row."
+    },
+    {
+      "frame_name": "frame_00029",
+      "description": "The camera moves in front of the pink building towards 'WIRE & WIRENET'. A yellow auto-rickshaw is in the foreground. Rolls of colored plastic mesh are stacked outside.",
+      "signs": "None visible.",
+      "vehicles": "Yellow auto-rickshaw.",
+      "pedestrians": "None visible.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "Building front.",
+      "scene_changes": "Passing a furnishing shop."
+    },
+    {
+      "frame_name": "frame_00030",
+      "description": "The camera is in front of 'WIRE & WIRENET'. Large rolls of wire and plastic mesh are displayed. An elderly man is standing in front of the shop near a parked motorcycle.",
+      "signs": [
+        "WIRE & WIRENET",
+        "Ph: 9446 418 345, 9645 096 578",
+        "Products: G.I & M.S WELDED MESH, G.I & P.V.C CHAIN LINK, G.I WIREMESH, P.V.C COATED WELDED MESH, P.V.C & SS MOSQUITO MESH, GI WIRE, MS WIRE, BARBED WIRE, CHICKEN MESH, ASHPHALTIC ROOFING SHEET, AGRO SHADE NET"
+      ],
+      "vehicles": "A black motorcycle with red accents.",
+      "pedestrians": "A man with a red scarf over his shoulder is standing by the shop.",
+      "traffic_signals": "None visible.",
+      "infrastructure": "Specialty hardware store front.",
+      "scene_changes": "Final frame showing a hardware store."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "local_id": "frame_00028_det_001",
+    "frame_id": "frame_00028",
+    "text": "STATIONERY, TISSUE, SCHOOL ITEMS, COSMETICS",
+    "norm_text": "stationery, tissue, school items, cosmetics",
+    "bbox": [
+      772,
+      0,
+      1011,
+      54
+    ],
+    "label": "Text",
+    "region": "upper-right"
+  },
+  {
+    "local_id": "frame_00028_det_002",
+    "frame_id": "frame_00028",
+    "text": "පාසේල්, පාඩම්, පාඩම්, පාඩම්, පාඩම්, පාඩම්, පාඩම්, පාඩම්, පාඩම්, පාඩම්, පාඩම්, පාඩම්, පාඩම්, පාඩම්, පාඩම්, පාඩම්",
+    "norm_text": "පාසේල්, පාඩම්, පාඩම්, පාඩම්, පාඩම්, පාඩම්, පාඩම්, පාඩම්, පාඩම්, පාඩම්, පාඩම්, පාඩම්, පාඩම්, පාඩම්, පාඩම්, පාඩම්",
+    "bbox": [
+      592,
+      39,
+      1024,
+      153
+    ],
+    "label": "Text",
+    "region": "upper-center"
+  }
+]

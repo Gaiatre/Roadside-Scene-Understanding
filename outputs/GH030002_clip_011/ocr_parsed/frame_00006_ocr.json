@@ -1,0 +1,27 @@
+[
+  {
+    "text": "A billboard featuring four people (two men and two women) smiling, likely promoting a campaign or service.",
+    "label": "Image",
+    "region": "middle-center"
+  },
+  {
+    "text": "कर्ज़गज़ा L.I.C बिल्कुल छाला",
+    "label": "Section-Header",
+    "region": "middle-center"
+  },
+  {
+    "text": "Courtesy : Ward 44 INTUC",
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "text": "KP",
+    "label": "Text",
+    "region": "lower-center"
+  },
+  {
+    "text": "KP",
+    "label": "Text",
+    "region": "lower-center"
+  }
+]

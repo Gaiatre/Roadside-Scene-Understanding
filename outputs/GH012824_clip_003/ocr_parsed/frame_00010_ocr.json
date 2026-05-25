@@ -1,0 +1,72 @@
+[
+  {
+    "local_id": "frame_00010_det_001",
+    "frame_id": "frame_00010",
+    "text": "Mount Litera School ADMISSIONS OPEN 100+ Cities",
+    "norm_text": "mount litera school admissions open 100+ cities",
+    "bbox": [
+      115,
+      95,
+      592,
+      412
+    ],
+    "label": "Complex-Block",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00010_det_002",
+    "frame_id": "frame_00010",
+    "text": "Rise UP BABY!",
+    "norm_text": "rise up baby!",
+    "bbox": [
+      159,
+      429,
+      261,
+      479
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00010_det_003",
+    "frame_id": "frame_00010",
+    "text": "ASIAN BAKERY",
+    "norm_text": "asian bakery",
+    "bbox": [
+      159,
+      479,
+      212,
+      496
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00010_det_004",
+    "frame_id": "frame_00010",
+    "text": "Rise UP BABY!",
+    "norm_text": "rise up baby!",
+    "bbox": [
+      174,
+      546,
+      275,
+      596
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00010_det_005",
+    "frame_id": "frame_00010",
+    "text": "ASIAN BAKERY",
+    "norm_text": "asian bakery",
+    "bbox": [
+      174,
+      623,
+      247,
+      644
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  }
+]

@@ -1,0 +1,732 @@
+{
+  "video_summary": {
+    "video_id": "GH012820_clip_005",
+    "model_caption": "This analysis provides a detailed look at the driving footage, focusing on the urban environment, traffic, and safety within a busy commercial district.\n\n### 1. Scene Setting\nThe video captures a dense, bustling street scene in Cuttack, India (specifically the Ranihat area, as indicated by several shop signs). The environment is characterized by a high concentration of commercial establishments, with a notable prevalence of healthcare-related businesses, including numerous pharmacies (Medicine Stores), diagnostic centers, clinics (e.g., Kalinga Clinic, DD Poly Clinic), and surgical supply shops. Interspersed among these are mobile repair shops, electrical stores, and small eateries. The architecture features multi-story buildings with vibrant colors and prominent, often overlapping, signage.\n\n### 2. Vehicle Analysis\nThe recording is likely taken from a slow-moving two-wheeled vehicle or an auto-rickshaw. Other vehicles present in the environment include:\n*   **Two-Wheelers:** Several motorcycles and scooters are parked along the road or moving through traffic.\n*   **Passenger Cars:** A white SUV and other parked cars are visible as the street slightly widens.\n*   **Auto-Rickshaws:** These common urban transport vehicles are seen at various points, either moving or parked near the roadside.\n\n### 3. Traffic Dynamics\nTraffic flow is slow and congested due to the narrowness of the street and the high volume of diverse road users. There is a constant mix of motorized vehicles and pedestrians sharing the same space. Pedestrians frequently cross the street or walk along the edges where sidewalks are absent or blocked by shop displays. The movement is fluid and informal, requiring constant negotiation of space between drivers and walkers.\n\n### 4. Temporal Progression\nAs the vehicle travels through the street:\n*   **00:00 - 00:50:** The camera moves through a highly dense corridor of shops and clinics. The intensity of signage and pedestrian activity remains consistently high.\n*   **00:50 - 01:00:** The environment shifts slightly as the vehicle passes more modern-looking healthcare facilities like the DD Poly Clinic. The road opens up to a section with a large, mature tree and temporary stalls sheltered by umbrellas and blue metal construction fencing, indicating a transition to a different zone or an area under renovation.\n\n### 5. Safety Observations\nSeveral safety concerns are evident in the footage:\n*   **Pedestrian Vulnerability:** Many people walk in the middle of the road amidst moving vehicles, creating a high risk of accidents.\n*   **Congestion and Obstruction:** Parked vehicles, street vendors, and shop displays significantly narrow the usable roadway, forcing vehicles and pedestrians into tighter proximity.\n*   **Infrastructure Hazards:** A complex and untidy network of overhead utility wires hangs low over the street, posing a potential electrical and physical hazard.\n*   **Mixed Traffic:** The lack of separation between different types of road users (pedestrians, cyclists, and motorists) necessitates high driver vigilance.\n\n### 6. Environmental Context\nThe footage is recorded during the day under bright, somewhat hazy conditions. The infrastructure is typical of an older urban center, with narrow paved roads and buildings constructed close to the street. Utility poles are heavily laden with wires and various advertisements. The presence of numerous signs in both English and Odia reflects the local linguistic and commercial landscape."
+  },
+  "frames": [
+    {
+      "frame_name": "frame_00001",
+      "description": "Street view of an urban area with shops. On the left, 'GOLDEN WATCH CO.' (ଗୋଲ୍ଡେନ୍ ୱାଚ୍ କୋ.) offers sales and service for all types of batteries. In the center is 'ARUN ELECTRICALS' (ଅରୁଣ ଇଲେକ୍ଟ୍ରିକାଲ୍ସ) with a prominent 'ANCHOR by Panasonic' sign. A man in a blue shirt is walking on the left, and a woman in a colorful saree is near the watch shop. Overhanging power lines are visible.",
+      "ocr_detections": []
+    },
+    {
+      "frame_name": "frame_00002",
+      "description": "Moving forward, 'ARUN ELECTRICALS' is now on the left. Next to it, a green building features a sign for 'PRADHAN GUJARATI MIXTURE & SWEETS' (ପ୍ରଧାନ ଗୁଜୁରାଟୀ ମିକ୍ସଚର ଆଣ୍ଡ ସୁଇଟ୍ସ). Further right, 'SRI RAGHAV MEDICINE STORE' (ଶ୍ରୀ ରାଘବ ମେଡିସିନ୍ ଷ୍ଟୋର) is visible. A woman is sitting on the ground, and a bicycle is parked nearby.",
+      "ocr_detections": [
+        {
+          "text": "GOLDEN WATCH CO.",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "REPAIRING, REPLACING, BUYING, SELLING",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "ALL TYPES OF BATTERY SOLD HERE",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "24 Abhota, SONYA",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "Rechargeable Batteries",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "OREX",
+          "label": "Text",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00003",
+      "description": "A closer view of 'SRI RAGHAV MEDICINE STORE' (ଶ୍ରୀ ରାଘବ ମେଡିସିନ୍ ଷ୍ଟୋର), which also identifies as a 'CHEMIST & DRUGGIST'. Above it, a sign for a 'BEAUTY PARLOUR' (ବ୍ୟୁଟି ପାର୍ଲର) is seen. A woman in a red saree is at the shop entrance, and several motorcycles are parked in the foreground. A doctor's name, 'Dr. R.N. Panda', is on a small sign.",
+      "ocr_detections": [
+        {
+          "text": "ANCHORby Panasonic",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "ARUN ELECTRICALS",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "प्राण चर्चा विद्या वार्ता",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "Pranjal Paints & Analysing",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "BEAUTY PARLOURसुन्दरी शाला",
+          "label": "Text",
+          "region": "middle-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00004",
+      "description": "Panning right, the 'SRI RAGHAV MEDICINE STORE' is on the left. Beside it is a shop with a sign for 'KALYANI MOBILE REPAIRING' (କଲ୍ୟାଣୀ ମୋବାଇଲ ରିପ୍ୟାରିଂ), also offering 'XEROX' services. Men are standing and working near the shops.",
+      "ocr_detections": [
+        {
+          "text": "DR. SANTOSH KUMAR & SWEET",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "विशेष दुग्ध दान दीया गया है",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "Dr. Santosh Kumar & Anand Malviya",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "Beauty Parlour advertisement showing a woman's face and the text 'BEAUTY PARLOUR' and 'SPRING FASHION'.",
+          "label": "Image",
+          "region": "middle-center"
+        },
+        {
+          "text": "S",
+          "label": "Text",
+          "region": "middle-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00005",
+      "description": "The scene continues right, showing 'KALYANI MOBILE REPAIRING' and 'SAGAR STORE' with a 'Bisleri' advertisement. A large billboard for 'SUM ULTIMATE MEDICARE' is visible above the buildings. A man in a yellow and white shirt and a woman in a blue saree are walking past. A man is sitting on the right side.",
+      "ocr_detections": [
+        {
+          "text": "RELOUR",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "ONE STORE",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "GIST",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "UTY PARLOU",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "SHI RAGHAV MEDICINE STORE",
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "text": "श्री राघव दवाइ दुकानCHEMIST & DRUGGISTCHEMIST &amp",
+          "label": "Text",
+          "region": "middle-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00006",
+      "description": "Moving along the street, 'PABITRA VARIETY STORE' (ପବିତ୍ର ଭେରାଇଟି ଷ୍ଟୋର) is seen on the left. Next is 'HOTEL NILAKANTHESWAR' (ହୋଟେଲ ନୀଳକଣ୍ଠେଶ୍ୱର), which serves Indian and Tandoori food. A man is sitting on a bench on the far left.",
+      "ocr_detections": [
+        {
+          "text": "All Types of Mobile Accessories, OTR Remote",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "New Mobile Banking & TDS Exchange",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "Mobile: 91234891905 / 91774123713",
+          "label": "Text",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00007",
+      "description": "A shop selling 'Softline WOMENSWEAR' and 'Madam's Choice' (ମାଡାମ୍ସ ଚଏସ) is shown. A woman in a light-colored outfit is walking toward the left. Various signs and posters are affixed to the shop's facade.",
+      "ocr_detections": [
+        {
+          "text": "ULTIMATEMEDICARE",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "ॐ नमः शिवाय",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "ॐ नमः शिवाय",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00008",
+      "description": "The focus is on 'HEART LINE PHARMACEUTICALS' (ହାର୍ଟ ଲାଇନ ଫାର୍ମାସ୍ୟୁଟିକାଲ୍ସ), a chemist and druggist store. A political poster for the BJP with images of leaders is visible on the right. The shop's shutter is closed.",
+      "ocr_detections": [
+        {
+          "text": "ULTIMATEmedicalsustDRUGSpharmacy and health",
+          "label": "Image",
+          "region": "middle-left"
+        },
+        {
+          "text": "ॐ श्री गणेशाय नमः",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "RESOCIETY",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "MOTEL",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "VEG",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "CONTACT",
+          "label": "Text",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00009",
+      "description": "Next is 'RABEENDRA MEDICINE STORE' (ରବୀନ୍ଦ୍ର ମେଡିସିନ୍ ଷ୍ଟୋର), with its sign in English, Odia, and Hindi. To its left, a board mentions 'ASHOK KUMAR MALLICK', a doctor at S.C.B. Medical College. A man is visible inside the pharmacy.",
+      "ocr_detections": [
+        {
+          "text": "HEART LINE PHARMACEUTICALS",
+          "label": "Section-Header",
+          "region": "lower-center"
+        },
+        {
+          "text": "Medical Road, Nashik, Cuttack - 7",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "Ph. 0671 - 2200000",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "Madhya'sChoice",
+          "label": "Text",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00010",
+      "description": "This frame shows several medical establishments side-by-side: 'SANGAM MEDICAL HALL' (ସଙ୍ଗମ ମେଡିକାଲ ହଲ), 'RADHIKA MEDICALS' (ରାଧିକା ମେଡିକାଲ୍ସ), and 'KISHORE DIAGNOSTICS (P) LTD.' (କିଶୋର ଡାଇଗ୍ନୋଷ୍ଟିକ (ପ୍ରା) ଲିଃ.). People are inside the shops, and a woman in a red saree stands on the right. Several motorcycles are parked in front.",
+      "ocr_detections": [
+        {
+          "text": "Green cross symbol on a white background",
+          "label": "Image",
+          "region": "upper-left"
+        },
+        {
+          "text": "গ্রা",
+          "label": "Text",
+          "region": "upper-center"
+        },
+        {
+          "text": "রবীন্দ্র মেডিকেল স্টোরRABEENDRA MEDICINE STOREরবীন্দ্র ঔষধের দোকান",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "Green cross symbol on a white background",
+          "label": "Image",
+          "region": "middle-center"
+        },
+        {
+          "text": "ULTIMATE",
+          "label": "Text",
+          "region": "middle-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00011",
+      "description": "A closer view of 'KISHORE DIAGNOSTICS (P) LTD.' and adjacent medical clinics. A group of people, some wearing helmets, is gathered on the sidewalk. Clinic signs include 'Dr. Rohit Chhirolya' and 'SHREE BINAYAK CLINIC' (ଶ୍ରୀ ବିନାୟକ କ୍ଲିନିକ).",
+      "ocr_detections": [
+        {
+          "text": "SANGAM MEDICAL HALLCHEMIST & DRUGGIST",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "গ্রাম গ্রামীণা",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "গ্রাম, গ্রামীণা, ১০০, ১০০, ১০০, ১০০, ১০০, ১০০, ১০০, ১০০, ১০০, ১০০, ১০০, ১০০, ১০০",
+          "label": "Text",
+          "region": "middle-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00012",
+      "description": "The camera pans further right to 'SHREE BINAYAK CLINIC' (ଶ୍ରୀ ବିନାୟକ କ୍ଲିନିକ), located on Medical Road, Ranihat, Cuttack. In the foreground, a board is covered with 'PLOT FOR SALE' notices. A scooter is parked nearby.",
+      "ocr_detections": [
+        {
+          "text": "RADHIKA MEDICALSBhandup, Medical Road, Chembur - 720007",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "राधिका औषधालय",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "किशोर डायग्नॉस्टिक्स (प) लिमिटेड",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "KISHORE DIAGNOSTICS (P) LTD.RAMNATH MEDICAL ROAD, CUTTACK-7PH: 9437000000 (24X7)",
+          "label": "Text",
+          "region": "middle-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00013",
+      "description": "The street view continues with clinics and medicine stores. Signs for 'DR. TRILOCHAN PANDA' (ଡା. ତ୍ରିଲୋଚନ ପଣ୍ଡା) and 'MAA DURGA MEDICINE STORE' (ମା' ଦୁର୍ଗା ମେଡିସିନ୍ ଷ୍ଟୋର) are visible. Several men are standing on the sidewalk near parked motorcycles and a silver car.",
+      "ocr_detections": [
+        {
+          "text": "SHREE BINAYAK CLINIC",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "ॐ नमः शिवाय",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "RANHATI, MEDICAL ROAD, CUTTACK-7",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "MOB: 9335212219, 9823967778",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "PLOT FOR SALE",
+          "label": "Text",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00014",
+      "description": "Visible is 'ASHIRVAD GUEST HOUSE' (ଆଶୀର୍ବାଦ ଗେଷ୍ଟ ହାଉସ), which offers comfortable and economic stays. Below it is 'SURAKSHA MEDICINE STORE' (ସୁରକ୍ଷା ମେଡିସିନ୍ ଷ୍ଟୋର). A man in a blue checked shirt walks left, and another man sits near the pharmacy entrance. Motorcycles are parked along the edge.",
+      "ocr_detections": [
+        {
+          "text": "SHREE BINAYAK CLINIC",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "श्री बिनायक क्लिनिक",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "RANHAT, MEDICAL ROAD, CUTTACK - 7MOB. 9338513219, 9833036778",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "Dr. Rohit Chhiriolya",
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "text": "Dr. Pradeepa Ku Panda",
+          "label": "Text",
+          "region": "upper-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00015",
+      "description": "This frame shows 'HARI OMM DRUG HOUSE' (ହରି ଓମ୍ ଡ୍ରଗ ହାଉସ) and a clinic sign for 'DR. DEBJANI DAS' (ଡା. ଦେବଜାନୀ ଦାସ). A shop on the left displays signs for orthopedic and medical aids. Parked motorcycles are visible in the foreground.",
+      "ocr_detections": [
+        {
+          "text": "MAA DURGA MEDICINE STORE",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "ॐ श्री दुर्गाय नमः",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "(Cinimine & Orogene)",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "Ranihat, Medical Road, Cuttack, Cell: 9437311010",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "ASHIRVAD GUEST HOUSE",
+          "label": "Text",
+          "region": "middle-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00016",
+      "description": "The view transitions to residential buildings with ground-floor shops. A person is seen on a balcony. Below, several political posters are on a pole. A man is inside a small store, and another man stands by his scooter. Several parked scooters are visible.",
+      "ocr_detections": [
+        {
+          "text": "वैद्य प्राय",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "नारायण दुकाना एवं दवा",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "7372000000",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "8041888888",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "Illustrations of various medicines and health products displayed on the shop facade.",
+          "label": "Image",
+          "region": "middle-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00017",
+      "description": "Signs for 'SHREE MAHALAXMI MEDICINE STORE' (ଶ୍ରୀ ମହାଲକ୍ଷ୍ମୀ ମେଡିସିନ୍ ଷ୍ଟୋର) and 'DR. DEBASIS BEHERA' (ଡା. ଦେବାଶିଷ ବେହେରା) are shown. An auto-rickshaw is parked in front. A man in a white shirt stands on the left, and a child in a red shirt is seen on the right.",
+      "ocr_detections": [
+        {
+          "text": "श्री गणेशाय नमःश्री रामायणम्श्री शिवरात्रि श्रद्धालयश्री शिवलिंग श्रद्धालयश्री शिवलिंग श्रद्धालयश्री शिवलिंग श्रद्धालयश्री शिवलिंग श्रद्धालयश्री शिवलिंग श्रद्धालयश्री शिवलिंग श्रद्धालयश्री शिवलिंग श्रद्धालयश्री शिवलिंग श्रद्ध",
+          "label": "Text",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00018",
+      "description": "The panning motion shows 'SHREE JAGANNATH MEDICINE STORE' (ଶ୍ରୀ ଜଗନ୍ନାଥ ମେଡିସିନ୍ ଷ୍ଟୋର) and 'ANANDA MEDICAL HALL' (ଆନନ୍ଦ ମେଡିକାଲ ହଲ). To the right is 'SAMBHUNATH DIAGNOSTIC & CLINIC' (ଶମ୍ଭୁନାଥ ଡାଇଗ୍ନୋଷ୍ଟିକ ଏଣ୍ଡ କ୍ଲିନିକ). A boy on a bicycle and a man standing under a large umbrella are in the foreground.",
+      "ocr_detections": [
+        {
+          "text": "TOILET",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "ॐ नमो भगवते वासुदेवायSREE MAHALAXMI MEDICINE STOREDR. DEBASIS BEHERAMEDICAL HOME, RAMNATH DUTT ROAD, GANDHIDHAM, DISTRICT KALAHANDI, ODISHA",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "DR DEBASIS BEHERA",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "ॐ नमो भगवते वासुदेवाय",
+          "label": "Text",
+          "region": "lower-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00019",
+      "description": "A closer look at 'SAMBHUNATH DIAGNOSTIC & CLINIC' (ଶମ୍ଭୁନାଥ ଡାଇଗ୍ନୋଷ୍ଟିକ ଏଣ୍ଡ କ୍ଲିନିକ) featuring 'Dr. Pranay Kumar Patro' and 'Dr. Manas Kumar Behera'. A man in a white shirt is walking in front of the building, and several motorcycles are parked.",
+      "ocr_detections": [
+        {
+          "text": "श्री जगन्नाथ दवालयSHREE JAGANNATH MEDICINE STOREकी अनामा दविदिन दुकानBANASHANKARI, BANGALORE OFFICE",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "ANANDA MEDICAL HALLदवालय दविदिन दुकान",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "SAMBHUNATH DIAGNOSTIC & CLINIC",
+          "label": "Text",
+          "region": "middle-right"
+        },
+        {
+          "text": "Dr. Pranay Kumar Patro",
+          "label": "Text",
+          "region": "middle-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00020",
+      "description": "A dilapidated brick structure is seen next to the clinic area. A political poster is visible on a utility pole. Two men are sitting under a large colorful umbrella at a roadside stall.",
+      "ocr_detections": [
+        {
+          "text": "Dr. Pranay Kumar PatroCONSULTANT NEUROLOGIST",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "Dr. Manas Kumar PatroCONSULTANT GASTROENTEROLOGIST",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "Advertisement poster featuring a man in a white coat and several smaller portraits, with text '999' and 'संभुनाथ' (Sambhunath) visible.",
+          "label": "Image",
+          "region": "lower-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00021",
+      "description": "The view moves to 'GEETA X-RAY' (ଗୀତା ଏକ୍ସ-ରେ) and a roadside stall with hanging packets. A man in an orange shirt is working at the stall, and another man is walking past. A few chairs are placed outside the X-ray center.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in a residential area. In the foreground, a large, colorful umbrella (blue, yellow, red, green) provides shade over two people sitting on a low wall. The background features a low, weathered brick wall and a corrugated metal roof structure supported by wooden beams. A large tree is visible behind the roof. On the right, a utility pole holds a green political campaign poster featuring three men and the text 'SADASHIV GAWDE'.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00022",
+      "description": "Moving right, 'RIYA MEDICINE STORE' (ରିୟା ମେଡିସିନ୍ ଷ୍ଟୋର) is visible next to 'GEETA X-RAY'. A man in a white shirt stands outside, and another man is bending down near parked motorcycles.",
+      "ocr_detections": [
+        {
+          "text": "GEETA X-RAYगीता एक्स-रे",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "RIVA ME",
+          "label": "Text",
+          "region": "lower-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00023",
+      "description": "This frame features 'KALINGA CLINIC' (କଳିଙ୍ଗ କ୍ଲିନିକ) with multiple medicine store signs below, including 'SHREE SAMBHUNATH MEDICINE' (ଶ୍ରୀ ଶମ୍ଭୁନାଥ ମେଡିସିନ୍), 'BIKRAM MEDICINE STORE' (ବିକ୍ରମ ମେଡିସିନ୍ ଷ୍ଟୋର), and 'RANJAN RASMI MEDICINE STORE' (ରଞ୍ଜନ ରଶ୍ମୀ ମେଡିସିନ୍ ଷ୍ଟୋର). A man in a purple shirt is walking toward the right. Many motorcycles are parked.",
+      "ocr_detections": [
+        {
+          "text": "ETA X-RAYॐ वृष्टि-६७",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "RAHIMAT, MEDICAL ROAD, CUTTACK, 753001",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "रीया दवालय दुकानRIYA MEDICINE STORERECLAMATION",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "Cross symbol (plus sign)",
+          "label": "Image",
+          "region": "lower-center"
+        },
+        {
+          "text": "RIYAMEDICINESTORE",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00024",
+      "description": "A closer shot of the 'KALINGA CLINIC' building and 'MAA AMBICA MEDICAL HALL' (ମା' ଅମ୍ବିକା ମେଡିକାଲ ହଲ). People are visible inside the shops. An auto-rickshaw is seen in the distance through an alleyway.",
+      "ocr_detections": [
+        {
+          "text": "KALINGA CLINIC",
+          "label": "Text",
+          "region": "upper-center"
+        },
+        {
+          "text": "SHREE SAMBHUJNATH MEDICINE",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "श्री सम्भुज्ञाथ औषध",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "श्री विष्णु औषध द्वारा निर्मित",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "DR. KISHOR KARAN RATHIDR. KISHOR",
+          "label": "Text",
+          "region": "middle-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00025",
+      "description": "The camera pans towards a side street where 'JAY DURGA CLINIC' (ଜୟ ଦୁର୍ଗା କ୍ଲିନିକ) is located. A man in a pink shirt and a man in a black shirt are at a stall under an umbrella. A woman in a green saree is walking in the distance. A white SUV is parked on the right.",
+      "ocr_detections": [
+        {
+          "text": "KALINGA CLINIC",
+          "label": "Section-Header",
+          "region": "upper-left"
+        },
+        {
+          "text": "MEDICAL HOUSE, RAMPUR, BAHADAL, SULTANPUR - 753307",
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "text": "TEL: 0671-2377977 / MOB: 77/9444111 / 944401111",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "क्लिनिक डिनिक",
+          "label": "Text",
+          "region": "upper-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00026",
+      "description": "The panning shot shows a multi-story green building with balconies. A covered vehicle is in the foreground, and an auto-rickshaw is parked on the left.",
+      "ocr_detections": [
+        {
+          "text": "Dr. P. S. SINGH, M.D., M.S.DR. P. S. SINGH, M.D., M.S.DR. P. S. SINGH, M.D., M.S.DR. P. S. SINGH, M.D., M.S.DR. P. S. SINGH, M.D., M.S.DR. P. S. SINGH, M.D., M.S.DR. P. S. SINGH, M.D., M.S.DR. P. S. SINGH, M.D., M.S.DR. P. S. SINGH, M.D., M.S.DR. P. S. SINGH, M.D., M.S.DR. P. S. SINGH, M.D., M.S.DR. P. S. SINGH, M.D., M.S.DR. P. S. SINGH, M",
+          "label": "Image",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00027",
+      "description": "A red building with the sign 'DD POLY CLINIC' (ଡିଡି ପଲି କ୍ଲିନିକ) is center-stage. It lists consultant cardiologists and other doctors. A scooter is parked in front, and some people are visible inside the clinic's entrance.",
+      "ocr_detections": [
+        {
+          "text": "A photograph of a multi-story residential building painted light green and red, situated in an urban area. The building has balconies and decorative window grilles. A utility pole with wires stands in the foreground, partially obscuring the view. To the left is a dark vehicle and a small, gray utility shed. To the right, a portion of a red building is visible, featuring large white letters 'DD' on its facade. The scene is set under an overcast sky.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00028",
+      "description": "The view moves past the clinic to a diagnostic center sign, 'HELI DIAGNOSTIC CENTER' (ହେଲି ଡାଇଗ୍ନୋଷ୍ଟିକ ସେଣ୍ଟର). Roadside stalls are set up under large trees. Several people are walking and standing near the stalls.",
+      "ocr_detections": [
+        {
+          "text": "DD POLY CLINIC",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "DD POLY CLINIC",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "डी डी पॉली क्लिनिक",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "डी डी पॉली क्लिनिक",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "Dr. Ramesh Kumar",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00029",
+      "description": "Temporary stalls are seen under a large tree, with a blue corrugated metal fence in the background. Three men are standing near one of the stalls. The ground is unpaved.",
+      "ocr_detections": [
+        {
+          "text": "CLNICप्राकृतिक उद्यानGREEN PARADISE PARKश्री शिवलिंग प्राप्ति",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "A street scene in India, likely Kolkata, featuring a large tree providing shade over a busy street. On the left, a red building displays a sign for 'GREEN PARADISE PARK'. In the center, a street vendor operates a stall under a yellow umbrella, selling goods. Several people are walking or standing nearby, including a man in a white shirt holding a phone in the foreground.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00030",
+      "description": "A final view of the roadside stalls and the blue metal fence. A man is sitting at a stall, and another is walking away. A scooter and bicycles are parked nearby. This sequence shows a continuous move past various medical shops and clinics in a busy urban street.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in an urban area, likely India, featuring a large, leafy tree providing shade over several small, makeshift roadside stalls. The stalls have simple canopies (one red, others brown/tan) and are set up on a dirt road. Several people are visible: three men walking away from the camera on the left, and vendors or customers near the stalls. In the background, there are multi-story buildings, including one under construction with blue scaffolding.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    }
+  ]
+}

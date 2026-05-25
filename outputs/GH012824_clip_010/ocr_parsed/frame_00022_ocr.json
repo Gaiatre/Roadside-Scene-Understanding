@@ -1,0 +1,17 @@
+[
+  {
+    "text": "A large billboard on the left side of the road, partially visible, showing a blue background and some text, possibly related to 'SAMUEL'.",
+    "label": "Image",
+    "region": "lower-left"
+  },
+  {
+    "text": "A large, dark, rectangular billboard structure spanning the road, supported by red pillars. The billboard surface is mostly blank or covered by a dark banner.",
+    "label": "Image",
+    "region": "lower-left"
+  },
+  {
+    "text": "A busy street scene viewed from below the large billboard. Traffic, including cars and a red bus, is visible. Buildings line the street, and utility poles and wires are prominent against a cloudy sky.",
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

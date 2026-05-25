@@ -1,0 +1,32 @@
+[
+  {
+    "text": "COALS",
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "text": "FLOOR MATT",
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "text": "CAR SEAT MATERIALS",
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "text": "CARPET",
+    "label": "Text",
+    "region": "upper-center"
+  },
+  {
+    "text": "TAKE UP TO FRESH IDEASREPOSE",
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "text": "P S ASSOCIATE",
+    "label": "Text",
+    "region": "middle-left"
+  }
+]

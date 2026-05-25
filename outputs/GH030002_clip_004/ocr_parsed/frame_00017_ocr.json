@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00017_det_001",
+    "frame_id": "frame_00017",
+    "text": "A street scene in a densely populated urban area, likely Southeast Asia. A young person in a white shirt and shorts walks on the left side of the road, holding a broom. Laundry is hanging on lines strung between buildings and trees. A large tree provides shade over the area. On the right, a building features a green sign and a blue and white patterned facade. A blue metal fence runs along the curb, separating the road from a lower level where people are sitting. The background shows multi-story buildings, including a prominent red one on the left.",
+    "norm_text": "a street scene in a densely populated urban area, likely southeast asia. a young person in a white shirt and shorts walks on the left side of the road, holding a broom. laundry is hanging on lines strung between buildings and trees. a large tree provides shade over the area. on the right, a building features a green sign and a blue and white patterned facade. a blue metal fence runs along the curb, separating the road from a lower level where people are sitting. the background shows multi-story buildings, including a prominent red one on the left.",
+    "bbox": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

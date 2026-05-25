@@ -1,0 +1,72 @@
+[
+  {
+    "local_id": "frame_00019_det_001",
+    "frame_id": "frame_00019",
+    "text": "Two green and yellow auto-rickshaws parked on the left side of a street in front of a pink building.",
+    "norm_text": "two green and yellow auto-rickshaws parked on the left side of a street in front of a pink building.",
+    "bbox": [
+      0,
+      632,
+      267,
+      934
+    ],
+    "label": "Image",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00019_det_002",
+    "frame_id": "frame_00019",
+    "text": "A third green and yellow auto-rickshaw driving down the street.",
+    "norm_text": "a third green and yellow auto-rickshaw driving down the street.",
+    "bbox": [
+      365,
+      632,
+      486,
+      927
+    ],
+    "label": "Image",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00019_det_003",
+    "frame_id": "frame_00019",
+    "text": "COBALTIC DENTAL CLINIC",
+    "norm_text": "cobaltic dental clinic",
+    "bbox": [
+      196,
+      502,
+      280,
+      538
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00019_det_004",
+    "frame_id": "frame_00019",
+    "text": "दांत चिकित्सा",
+    "norm_text": "दांत चिकित्सा",
+    "bbox": [
+      515,
+      405,
+      616,
+      453
+    ],
+    "label": "Text",
+    "region": "middle-center"
+  },
+  {
+    "local_id": "frame_00019_det_005",
+    "frame_id": "frame_00019",
+    "text": "दांत चिकित्सा",
+    "norm_text": "दांत चिकित्सा",
+    "bbox": [
+      460,
+      498,
+      596,
+      533
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  }
+]

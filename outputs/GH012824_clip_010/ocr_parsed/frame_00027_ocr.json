@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Logo for Sai Dental Clinic & Implant Centre showing a stylized mouth with teeth.",
+    "label": "Image",
+    "region": "lower-left"
+  },
+  {
+    "text": "SAI DENTAL CLINIC& IMPLANT CENTRE",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "White teeth withstraighter dentalimplants in a short time",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "Image of a woman smiling, advertising dental services.",
+    "label": "Image",
+    "region": "middle-left"
+  },
+  {
+    "text": "Image of a mouth with white teeth, advertising dental services.",
+    "label": "Image",
+    "region": "lower-left"
+  }
+]

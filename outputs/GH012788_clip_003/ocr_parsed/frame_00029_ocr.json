@@ -1,0 +1,22 @@
+[
+  {
+    "text": "A small, framed sign or notice board mounted on the wall above the garage door.",
+    "label": "Image",
+    "region": "upper-left"
+  },
+  {
+    "text": "WIRE &",
+    "label": "Text",
+    "region": "upper-right"
+  },
+  {
+    "text": "A split air conditioning unit mounted on the wall.",
+    "label": "Image",
+    "region": "lower-center"
+  },
+  {
+    "text": "Several large rolls of colored wire or cable (red, green, blue, yellow) standing upright in the shop.",
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

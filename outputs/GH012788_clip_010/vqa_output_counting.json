@@ -1,0 +1,67 @@
+[
+  {
+    "video_id": "GH012788_clip_010",
+    "qa_pairs": [
+      {
+        "question": "If a driver uses the sign featuring a Portrait of a woman smiling [entity_020] as a landmark, what named establishment is 7 positions to its right?",
+        "answer": "RUBI REXINE [entity_042]",
+        "reasoning": "Counting from UMA GOLD [entity_021] which holds the portrait: 1. UMA GIFT HOUSE, 2. Sweet shop, 3. Cosmetic store, 4. P.M. FLOWERS, 5. Nayankan Temple, 6. Metal fence, 7. RUBI REXINE [entity_042].",
+        "inferred_category": "spatial_grounding"
+      },
+      {
+        "question": "What establishments are immediately to the left and right of the store featuring an Advertisement showing a plate of fried snacks [entity_025]?",
+        "answer": "Sweet shop and P.M. FLOWERS",
+        "reasoning": "The cosmetic store (with ad [entity_025]) is situated between the sweet shop and P.M. FLOWERS.",
+        "inferred_category": "spatial_grounding"
+      },
+      {
+        "question": "What is the first named establishment with an ID visible after the sign for BMS [entity_011] appears in the 0:11 - 0:25 window?",
+        "answer": "UMA GOLD [entity_021]",
+        "reasoning": "The BMS [entity_011] sign is at A.C. VASUDEVAN SON COIR MERCHANT [entity_013]. The next establishment with an ID is UMA GOLD [entity_021].",
+        "inferred_category": "temporal_reasoning"
+      },
+      {
+        "question": "Among the establishments passed between A.C. VASUDEVAN SON COIR MERCHANT [entity_013] and the Nayankan Temple, which one is distinguishable by a portrait of a person, and what specific goods does it advertise?",
+        "answer": "UMA GOLD [entity_021], OLD JEWELLERY [entity_023]",
+        "reasoning": "UMA GOLD [entity_021] is between A.C. VASUDEVAN [entity_013] and the temple and features a portrait [entity_020]. It advertises OLD JEWELLERY [entity_023].",
+        "inferred_category": "cross_type_reasoning"
+      },
+      {
+        "question": "Between P.M. FLOWERS and RUBI REXINE [entity_042], which landmark's visual elements, specifically two golden statues [entity_035] [entity_036], would most reliably help a driver confirm their position?",
+        "answer": "Nayankan Temple",
+        "reasoning": "The Nayankan Temple is uniquely identified by two golden statues [entity_035] [entity_036] and a large wooden door [entity_037].",
+        "inferred_category": "navigational_landmark_inference: Identifying a landmark based on unique visual features for navigation."
+      },
+      {
+        "question": "If a driver identifies the Golden statue of a deity on the right [entity_036], what is the 2nd named establishment encountered to its right?",
+        "answer": "THILAKAM PHARMACY CHEMISTS & DRUGGISTS [entity_046]",
+        "reasoning": "Counting named establishments from Nayankan Temple: 1. RUBI REXINE [entity_042], 2. THILAKAM PHARMACY CHEMISTS & DRUGGISTS [entity_046].",
+        "inferred_category": "spatial_grounding"
+      },
+      {
+        "question": "What is the position of the sign for ANANDA FINEST STONE [entity_012] relative to YM SNACKS [entity_009]?",
+        "answer": "To the right",
+        "reasoning": "YM SNACKS [entity_009] is followed by A.C. VASUDEVAN [entity_013], which displays the ANANDA FINEST STONE [entity_012] sign.",
+        "inferred_category": "spatial_grounding"
+      },
+      {
+        "question": "Between KMS TRADERS [entity_004] and P.M. FLOWERS, how many people are seen, and which establishment is marked by a sign for BMS [entity_011]?",
+        "answer": "3 people, A.C. VASUDEVAN SON COIR MERCHANT [entity_013]",
+        "reasoning": "Three people (pedestrian, woman, sitting man) are seen between KMS TRADERS [entity_004] and P.M. FLOWERS. A.C. VASUDEVAN [entity_013] has the BMS [entity_011] sign.",
+        "inferred_category": "cross_type_reasoning"
+      },
+      {
+        "question": "What is the first named establishment with an ID visible after the sign for INDUSTRIAL FABRIC & FURNISHING FABRIC [entity_043] appears in the 0:37 - 1:00 window?",
+        "answer": "THILAKAM PHARMACY CHEMISTS & DRUGGISTS [entity_046]",
+        "reasoning": "The sign for INDUSTRIAL FABRIC & FURNISHING FABRIC [entity_043] is at RUBI REXINE [entity_042]. The next establishment with an ID is THILAKAM PHARMACY CHEMISTS & DRUGGISTS [entity_046].",
+        "inferred_category": "temporal_reasoning"
+      },
+      {
+        "question": "Based on the sequence of shops, if a driver needs to find a place for food processing after passing Das TEA SHOP [entity_050], which establishment should they look for?",
+        "answer": "ANAND FLOUR MILLS [entity_056]",
+        "reasoning": "ANAND FLOUR MILLS [entity_056] follows Das TEA SHOP [entity_050] and provides food processing services (milling).",
+        "inferred_category": "navigational_intent: Inferring the next logical stop based on a specific service need."
+      }
+    ]
+  }
+]

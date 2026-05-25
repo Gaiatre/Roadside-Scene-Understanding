@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00021_det_001",
+    "frame_id": "frame_00021",
+    "text": "A busy street scene in India, likely Delhi, featuring a wide road with tram tracks. Several yellow and green auto-rickshaws are driving on the right side. A man on a black motorcycle is in the foreground, and pedestrians are crossing the road near temporary traffic barriers marked 'RP GO SLOW'. Large commercial billboards line the buildings on both sides of the street.",
+    "norm_text": "a busy street scene in india, likely delhi, featuring a wide road with tram tracks. several yellow and green auto-rickshaws are driving on the right side. a man on a black motorcycle is in the foreground, and pedestrians are crossing the road near temporary traffic barriers marked 'rp go slow'. large commercial billboards line the buildings on both sides of the street.",
+    "bbox": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

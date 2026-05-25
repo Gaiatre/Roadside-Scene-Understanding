@@ -1,0 +1,86 @@
+[
+  {
+    "local_id": "frame_00030_det_001",
+    "frame_id": "frame_00030",
+    "text": "SAMAY TIME CENTRE",
+    "norm_text": "samay time centre",
+    "bbox": [
+      72,
+      749,
+      152,
+      800
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00030_det_002",
+    "frame_id": "frame_00030",
+    "text": "SAMAY TIME CENTRE",
+    "norm_text": "samay time centre",
+    "bbox": [
+      100,
+      879,
+      196,
+      938
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00030_det_003",
+    "frame_id": "frame_00030",
+    "text": "Electrical Supply",
+    "norm_text": "electrical supply",
+    "bbox": [
+      256,
+      864,
+      344,
+      938
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00030_det_004",
+    "frame_id": "frame_00030",
+    "text": "Orient Wholesale",
+    "norm_text": "orient wholesale",
+    "bbox": [
+      360,
+      864,
+      446,
+      938
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00030_det_005",
+    "frame_id": "frame_00030",
+    "text": "VIGOR ELECTRICITY",
+    "norm_text": "vigor electricity",
+    "bbox": [
+      384,
+      953,
+      452,
+      969
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00030_det_006",
+    "frame_id": "frame_00030",
+    "text": "Recovert",
+    "norm_text": "recovert",
+    "bbox": [
+      512,
+      623,
+      542,
+      646
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  }
+]

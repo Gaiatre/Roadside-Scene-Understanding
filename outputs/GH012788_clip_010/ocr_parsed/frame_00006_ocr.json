@@ -1,0 +1,30 @@
+[
+  {
+    "local_id": "frame_00006_det_001",
+    "frame_id": "frame_00006",
+    "text": "YM SNACKS",
+    "norm_text": "ym snacks",
+    "bbox": [
+      28,
+      359,
+      192,
+      417
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00006_det_002",
+    "frame_id": "frame_00006",
+    "text": "SN CT 65 22",
+    "norm_text": "sn ct 65 22",
+    "bbox": [
+      701,
+      292,
+      721,
+      417
+    ],
+    "label": "Text",
+    "region": "middle-center"
+  }
+]

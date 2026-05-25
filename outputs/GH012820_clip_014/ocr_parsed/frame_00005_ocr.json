@@ -1,0 +1,17 @@
+[
+  {
+    "text": "A large, stylized portrait of a smiling woman's face, part of a sign.",
+    "label": "Image",
+    "region": "lower-left"
+  },
+  {
+    "text": "₹5",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "Two women sitting on the ground outside a shop, engaged in laundry or washing.",
+    "label": "Image",
+    "region": "lower-right"
+  }
+]

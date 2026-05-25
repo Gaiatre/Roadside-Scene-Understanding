@@ -1,0 +1,270 @@
+{
+  "frames": [
+    {
+      "frame_name": "frame_00000",
+      "description": "The camera captures a street-level view looking towards a large building with a tiered top section. The sky is heavily overcast with dark clouds. In the foreground, a prominent wooden utility pole with multiple power lines is visible on the left. A sign is attached to the pole. Several pedestrians are walking near the base of the buildings. Motion is suggested as the camera starts moving from this point.",
+      "infrastructure": "Utility pole, power lines, tiered building, street-level shops.",
+      "pedestrians": "People walking on the sidewalk near the buildings.",
+      "signs": [
+        {
+          "transcription_english": "...",
+          "transcription_local": "..."
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00001",
+      "description": "The camera moves slightly forward and pans right, revealing a row of shops. A sign for 'MADHENU BAKERY' becomes visible. More power lines crisscross the sky. The overcast weather persists.",
+      "infrastructure": "Street-level commercial buildings, utility poles, overhead wires.",
+      "signs": [
+        {
+          "transcription_english": "KAMADHENU BAKERY",
+          "transcription_local": "ಕಾಮಧೇನು ಬೇಕರಿ"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00002",
+      "description": "The camera continues its rightward pan. A white truck is parked on the street with a person standing on top of its cargo area. The 'KAMADHENU BAKERY' sign is clearer, and the 'KOTRE BAKERY' sign starts to appear on the right.",
+      "infrastructure": "Shops, utility poles, street.",
+      "vehicles": "A white truck with a person in a light blue shirt on top.",
+      "signs": [
+        {
+          "transcription_english": "KAMADHENU BAKERY",
+          "transcription_local": "ಕಾಮಧೇನು ಬೇಕರಿ"
+        },
+        {
+          "transcription_english": "KOTRE BAKERY",
+          "transcription_local": "ಕೊಟ್ರೆ ಬೇಕರಿ"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00003",
+      "description": "The camera pans further right, showing 'KOTRE BAKERY' prominently. A large green overhead gantry sign for the central bus station enters the frame. The sky remains dark and cloudy. Trees are visible behind the bakery.",
+      "infrastructure": "Bakery storefront, large overhead gantry sign, trees.",
+      "signs": [
+        {
+          "transcription_english": "KOTRE BAKERY Premium Quality",
+          "transcription_local": "ಕೊಟ್ರೆ ಬೇಕರಿ"
+        },
+        {
+          "transcription_english": "CENTRAL BUS STATION",
+          "transcription_local": "ಕೇಂದ್ರ ಬಸ್ ನಿಲ್ದಾಣ"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00004",
+      "description": "The camera moves closer to the large green gantry sign. The full text on the sign, including the city name, is now visible. Pedestrians and parked vehicles are seen beneath the sign.",
+      "infrastructure": "Overhead gantry sign, city street.",
+      "signs": [
+        {
+          "transcription_english": "CENTRAL BUS STATION KALABURAGI",
+          "transcription_local": "ಕೇಂದ್ರ ಬಸ್ ನಿಲ್ದಾಣ ಕಲಬುರಗಿ"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00005",
+      "description": "The camera passes under the bus station sign, revealing a row of diverse shops and food stalls on the right side of the street. Signs for sweets, footwear, and juices are prominent.",
+      "infrastructure": "Commercial row, fruit stalls, utility poles.",
+      "signs": [
+        {
+          "transcription_english": "DELUXE SWEETS & TIFFINS",
+          "transcription_local": "..."
+        },
+        {
+          "transcription_english": "Royal FOOT WEAR",
+          "transcription_local": "..."
+        },
+        {
+          "transcription_english": "ROYAL JUICE CENTER",
+          "transcription_local": "..."
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00006",
+      "description": "The camera continues moving past the 'ROYAL JUICE CENTER' and several fruit stalls piled high with oranges and pineapples. Numerous pedestrians are visible near the stalls.",
+      "infrastructure": "Roadside stalls, shops.",
+      "pedestrians": "People walking and shopping at the stalls.",
+      "signs": [
+        {
+          "transcription_english": "DELUXE SWEETS & TIFFINS",
+          "transcription_local": "..."
+        },
+        {
+          "transcription_english": "ROYAL JUICE CENTER",
+          "transcription_local": "..."
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00007",
+      "description": "Moving further along the street, a sign for 'POWER GYM' appears in the background. A building with 'Indira Canteen' text in Kannada is also visible. More trees line the street.",
+      "infrastructure": "Buildings, trees, utility poles.",
+      "signs": [
+        {
+          "transcription_english": "POWER GYM",
+          "transcription_local": "..."
+        },
+        {
+          "transcription_english": "...",
+          "transcription_local": "ಇಂದಿರಾ ಕ್ಯಾಂಟೀನ್"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00008",
+      "description": "The camera approaches a series of large advertisement boards. A prominent yellow board for 'Devanand Fashion Lane' is seen on the right. An 'ACC' cement ad is also visible further down.",
+      "infrastructure": "Large advertisement hoardings, buildings.",
+      "signs": [
+        {
+          "transcription_english": "Devanand Fashion Lane",
+          "transcription_local": "ದೇವಾನಂದ್ ಫ್ಯಾಶನ್ ಲೇನ್"
+        },
+        {
+          "transcription_english": "POWER GYM",
+          "transcription_local": "..."
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00009",
+      "description": "The camera moves past the 'Devanand Fashion Lane' board, revealing another for 'Devanand Cloth Lane'. The street is busy with people and auto-rickshaws.",
+      "infrastructure": "Commercial buildings, advertisement boards.",
+      "vehicles": "Auto-rickshaws (three-wheelers).",
+      "signs": [
+        {
+          "transcription_english": "Devanand Cloth Lane",
+          "transcription_local": "ದೇವಾನಂದ್ ಕ್ಲಾತ್ ಲೇನ್"
+        },
+        {
+          "transcription_english": "ACC",
+          "transcription_local": "..."
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00010",
+      "description": "The camera approaches an old, weathered metal gantry structure crossing over the road. The 'Devanand' yellow signs remain visible in the background.",
+      "infrastructure": "Old overhead metal gantry, utility poles.",
+      "signs": [
+        {
+          "transcription_english": "Devanand Fashion Lane",
+          "transcription_local": "..."
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00011",
+      "description": "Passing under the old gantry, the camera captures more of the urban streetscape with various signs and advertisements. A blue building and a tall billboard for 'Devanand' are prominent.",
+      "infrastructure": "Metal gantry, urban buildings, billboards.",
+      "signs": [
+        {
+          "transcription_english": "Devanand Fashion Lane",
+          "transcription_local": "..."
+        },
+        {
+          "transcription_english": "Devanand Cloth Lane",
+          "transcription_local": "..."
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00012",
+      "description": "The camera pans right to reveal modern multi-story buildings, including 'Ashoka LIVIANO' and 'LITTLE STAR CHILDREN HOSPITAL'. Auto-rickshaws and cars are visible on the street.",
+      "infrastructure": "Modern commercial and hospital buildings.",
+      "vehicles": "White car, multiple auto-rickshaws.",
+      "signs": [
+        {
+          "transcription_english": "Ashoka LIVIANO",
+          "transcription_local": "ಅಶೋಕ ಲಿವಿಯಾನೊ"
+        },
+        {
+          "transcription_english": "LITTLE STAR CHILDREN HOSPITAL",
+          "transcription_local": "ಲಿಟಲ್ ಸ್ಟಾರ್ ಚಿಲ್ಡ್ರನ್ ಹಾಸ್ಪಿಟಲ್"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00013",
+      "description": "A clearer view of the hospital buildings. Signs for 'METRO HOSPITAL' and 'LITTLE STAR CHILDREN HOSPITAL' are visible on the facades. The sky remains filled with thick gray and white clouds.",
+      "infrastructure": "Hospital buildings, utility poles.",
+      "signs": [
+        {
+          "transcription_english": "METRO HOSPITAL",
+          "transcription_local": "ಮೆಟ್ರೋ ಹಾಸ್ಪಿಟಲ್"
+        },
+        {
+          "transcription_english": "Ashoka LIVIANO",
+          "transcription_local": "..."
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00014",
+      "description": "The camera moves past the hospitals. A 'VOLUME EL'OREAL SALON' sign is visible. Trees with bright red flowers (likely Gulmohar) line the sidewalk.",
+      "infrastructure": "Modern buildings, trees, sidewalks.",
+      "signs": [
+        {
+          "transcription_english": "METRO HOSPITAL",
+          "transcription_local": "..."
+        },
+        {
+          "transcription_english": "VOLUME EL'OREAL SALON",
+          "transcription_local": "..."
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00015",
+      "description": "The camera continues forward, passing more trees and commercial structures. The heavy cloud cover dominates the top half of the frame.",
+      "infrastructure": "Trees, commercial buildings, street stalls.",
+      "pedestrians": "People visible near roadside stalls."
+    },
+    {
+      "frame_name": "frame_00016",
+      "description": "A view further down the road shows a building with 'Anugraha' written on it in Kannada. More trees and some parked vehicles are seen.",
+      "infrastructure": "Buildings, utility poles, trees.",
+      "signs": [
+        {
+          "transcription_english": "Anugraha",
+          "transcription_local": "ಅನುಗ್ರಹ"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00017",
+      "description": "Passing through a section with dense trees on both sides of the road. Bright orange/red flowers are prominent in the trees on the right.",
+      "infrastructure": "Street lined with trees, buildings in background."
+    },
+    {
+      "frame_name": "frame_00018",
+      "description": "The camera moves into a more open area with several utility poles holding a complex web of wires. The sky has a small patch of blue amidst the clouds.",
+      "infrastructure": "Multiple utility poles with extensive wiring, low-rise buildings."
+    },
+    {
+      "frame_name": "frame_00019",
+      "description": "A close-up view of a complex utility pole structure with many power lines and transformers. A building with an 'ACC' advertisement board is visible on the left.",
+      "infrastructure": "Complex utility pole assembly, transformer, buildings.",
+      "signs": [
+        {
+          "transcription_english": "ACC",
+          "transcription_local": "..."
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00020",
+      "description": "The camera continues past the utility poles and a multi-story building. The overcast sky persists.",
+      "infrastructure": "Buildings, utility poles, open area."
+    },
+    {
+      "frame_name": "frame_00021",
+      "description": "The camera captures a final view of a tiered building in an open lot, framed by utility poles. The scene remains cloudy.",
+      "infrastructure": "Tiered building, utility poles, open field."
+    }
+  ]
+}

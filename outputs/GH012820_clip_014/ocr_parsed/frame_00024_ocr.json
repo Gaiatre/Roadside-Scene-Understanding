@@ -1,0 +1,27 @@
+[
+  {
+    "text": "राजश्री दवाखाना",
+    "label": "Section-Header",
+    "region": "lower-left"
+  },
+  {
+    "text": "Green cross symbol",
+    "label": "Image",
+    "region": "lower-left"
+  },
+  {
+    "text": "PHARMIST & DRUGGIST",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "MANGAL BAG, GUTTAD, MOGA, PUNJAB",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "Green cross symbol",
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

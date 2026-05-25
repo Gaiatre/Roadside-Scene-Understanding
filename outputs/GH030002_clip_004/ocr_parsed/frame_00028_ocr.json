@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00028_det_001",
+    "frame_id": "frame_00028",
+    "text": "A street scene in a city, likely Mumbai, India. A large, leafy tree with exposed roots stands on the left corner of a wet, paved street. A yellow and blue taxi is parked on the right side of the street, near a pinkish-orange building. A billboard is visible above the tree, and a person is walking further down the street.",
+    "norm_text": "a street scene in a city, likely mumbai, india. a large, leafy tree with exposed roots stands on the left corner of a wet, paved street. a yellow and blue taxi is parked on the right side of the street, near a pinkish-orange building. a billboard is visible above the tree, and a person is walking further down the street.",
+    "bbox": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

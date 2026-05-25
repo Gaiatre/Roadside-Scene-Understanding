@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00004_det_001",
+    "frame_id": "frame_00004",
+    "text": "A street scene in a city, likely Mexico, showing a wide street intersection. Buildings line both sides, including one on the left with '1855' visible near the top. Traffic lights are present, and several cars, including yellow taxis, are visible. Two pedestrians are crossing the street in the foreground. A large tree provides shade over the right side of the street, where vendors are set up under blue and orange awnings. A blue statue is visible near the center-right.",
+    "norm_text": "a street scene in a city, likely mexico, showing a wide street intersection. buildings line both sides, including one on the left with '1855' visible near the top. traffic lights are present, and several cars, including yellow taxis, are visible. two pedestrians are crossing the street in the foreground. a large tree provides shade over the right side of the street, where vendors are set up under blue and orange awnings. a blue statue is visible near the center-right.",
+    "bbox": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

@@ -1,0 +1,934 @@
+{
+  "frames": [
+    {
+      "frame_name": "frame_00001",
+      "description": "View of 'Hotel Preetham' and 'Preetham Bar & Restaurant' buildings. The hotel building has a modern grey facade with circular cutouts. Several motorcycles are parked in front.",
+      "signs": [
+        "HOTEL PREETHAM / ಹೋಟೆಲ್ ಪ್ರೀತಮ್",
+        "PREETHAM BAR & RESTAURANT / ಪ್ರೀತಮ್ ಬಾರ್ ಮತ್ತು ರೆಸ್ಟೋರೆಂಟ್",
+        "PREETHAM LODGE / ಪ್ರೀತಮ್ ಲಾಡ್ಜ್"
+      ],
+      "vehicles": "Several parked motorcycles.",
+      "pedestrians": "Two men standing near the hotel entrance.",
+      "infrastructure": "Multi-story commercial buildings, overhead power lines.",
+      "ocr_detections": []
+    },
+    {
+      "frame_name": "frame_00002",
+      "description": "The camera pans right showing 'AG Fashion Point' and 'Popular Medicals'. A tall telecommunications tower is visible in the background.",
+      "signs": [
+        "PREETHAM BAR & RESTAURANT",
+        "AG FASHION POINT - Exclusive for Men / ಎಜಿ ಫ್ಯಾಶನ್ ಪಾಯಿಂಟ್",
+        "POPULAR MEDICALS / ಪಾಪ್ಯುಲರ್ ಮೆಡಿಕಲ್ಸ್"
+      ],
+      "vehicles": "None clearly moving.",
+      "pedestrians": "People standing in front of shops.",
+      "infrastructure": "Two-story commercial building, telecom tower, power lines.",
+      "ocr_detections": [
+        {
+          "text": "HOTELPREETAM",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "PREETAM BAR",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "PREETAM BAR& RESTAURANT",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00003",
+      "description": "Close-up of 'Bag Palace' and 'Perfect Time' watch sales. Part of 'Ashraya A/C Bar' sign is visible to the right.",
+      "signs": [
+        "BAG PALACE / ಬ್ಯಾಗ್ ಪ್ಯಾಲೇಸ್",
+        "PERFECT TIME WATCH SALES & SERVICE / ಪರ್ಫೆಕ್ಟ್ ಟೈಮ್ ವಾಚ್ ಸೇಲ್ಸ್ ಅಂಡ್ ಸರ್ವಿಸ್",
+        "ASHRAYA A/C BAR / ಆಶ್ರಯ ಎಸಿ ಬಾರ್"
+      ],
+      "vehicles": "None.",
+      "pedestrians": "None clearly visible.",
+      "infrastructure": "Shop fronts, utility pole.",
+      "ocr_detections": [
+        {
+          "text": "PREETI BAR& RESTAURANT",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "Blue parking sign with a P and a bicycle icon.",
+          "label": "Image",
+          "region": "lower-left"
+        },
+        {
+          "text": "PREETIBAR",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "PREETIBARRestaurant",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "AS FASHION POINTJewellery & Gifts",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00004",
+      "description": "Front view of 'Ashraya A/C Bar & Restaurant'. Below it are shops like 'Padmashri Opticals' and 'Dhanvantari Ayurvedic Stores'.",
+      "signs": [
+        "ASHRAYA A/C BAR & RESTAURANT / ಆಶ್ರಯ ಎಸಿ ಬಾರ್ ಮತ್ತು ರೆಸ್ಟೋರೆಂಟ್",
+        "PADMASHRI OPTICALS / ಪದ್ಮಶ್ರೀ ಆಪ್ಟಿಕಲ್ಸ್",
+        "DHANVANTARI AYURVEDIC STORES / ಧನ್ವಂತರಿ ಆಯುರ್ವೇದ ಸ್ಟೋರ್ಸ್"
+      ],
+      "vehicles": "None.",
+      "pedestrians": "A few people near the shop entrances.",
+      "infrastructure": "Commercial building, overhead wires.",
+      "ocr_detections": [
+        {
+          "text": "BAG PALACE",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "BAG PALACE",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "BAG PALACE",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "AC बॉसस्वीपिंगस्टैंड",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "PERFECTMOTORS",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "AC �",
+          "label": "Text",
+          "region": "lower-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00005",
+      "description": "A wider view showing the gap between 'Ashraya' and the 'Darshan Orchid' building. 'Genius Academy' and 'Srinivas Wellness Club' are in Darshan Orchid.",
+      "signs": [
+        "GENIUS ACADEMY / ಜೀನಿಯಸ್ ಅಕಾಡೆಮಿ",
+        "DARSHAN Orchid",
+        "SRINIVAS WELLNESS CLUB / ಶ್ರೀನಿವಾಸ್ ವೆಲ್ನೆಸ್ ಕ್ಲಬ್",
+        "BANKUR MULTISPECIALITY DENTAL CLINIC / ಬಂಕೂರ ಮಲ್ಟಿಸ್ಪೆಷಾಲಿಟಿ ಡೆಂಟಲ್ ಕ್ಲಿನಿಕ್",
+        "MAHAVEER ELECTRICALS / ಮಹಾವೀರ ಎಲೆಕ್ಟ್ರಿಕಲ್ಸ್"
+      ],
+      "vehicles": "Parked motorcycles.",
+      "pedestrians": "Several people walking on the sidewalk.",
+      "infrastructure": "Multi-story buildings, electrical poles.",
+      "ocr_detections": [
+        {
+          "text": "GENIUS ACADEMY",
+          "label": "Text",
+          "region": "middle-right"
+        },
+        {
+          "text": "REDWAVEBARBER",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "PERFECT TIMEWATCH SALES & SERVICE",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "అశ్రయా",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "AIC బార్ అండ్ రెస్టోరాంట్వెగ",
+          "label": "Text",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00006",
+      "description": "Centered on the 'Darshan Orchid' building showing various businesses like 'Sri Siddharoodha Book Stall' and 'Sai Drishti Opticals'.",
+      "signs": [
+        "SRI SIDDHAROODHA BOOK STALL / ಶ್ರೀ ಸಿದ್ಧಾರೂಢ ಬುಕ್ ಸ್ಟಾಲ್",
+        "SAI DRISHTI OPTICALS / ಸಾಯಿ ದೃಷ್ಟಿ ಆಪ್ಟಿಕಲ್ಸ್",
+        "DAKHNI TEA & EGG CENTRE / ದಖ್ನಿ ಟೀ ಅಂಡ್ ಎಗ್ ಸೆಂಟರ್",
+        "SHOP FOR RENT / ಬಾಡಿಗೆಗೆ ಅಂಗಡಿ"
+      ],
+      "vehicles": "Motorcycles.",
+      "pedestrians": "A person entering the book stall.",
+      "infrastructure": "Commercial complex with stairs.",
+      "ocr_detections": [
+        {
+          "text": "ASHRAYA",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "BAR & RESTAURANT",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "VEG &",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "EXC. HOLIDAYS RICE CLS 0423977.15",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "Ati vegi nani gur gur delgocur",
+          "label": "Text",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00007",
+      "description": "The camera moves forward; a blue road direction sign is now prominent on the right side.",
+      "signs": [
+        "BASAVESHWAR CIRCLE / ಬಸವೇಶ್ವರ ವೃತ್ತ",
+        "BAHAMANI SEVEN TOMBS / ಬಹಮನಿ ಸಪ್ತ ಗುಮ್ಮಟ",
+        "SVP CIRCLE / ಎಸ್‌ವಿಪಿ ಸರ್ಕಲ್",
+        "NEW JEWARGI ROAD / ನ್ಯೂ ಜೇವರ್ಗಿ ರಸ್ತೆ"
+      ],
+      "vehicles": "A few vehicles are partially visible in traffic.",
+      "pedestrians": "Pedestrians on the side of the road.",
+      "infrastructure": "Road sign, street lighting.",
+      "ocr_detections": [
+        {
+          "text": "GENIUS ACADEMY",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "DARSHAN",
+          "label": "Text",
+          "region": "upper-center"
+        },
+        {
+          "text": "Orchid",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "SRINIVAS WELLNESS CLUB",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "BANKURA MULTISPECIALITYDENTAL CLINIC",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "GreatWhite",
+          "label": "Text",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00008",
+      "description": "Approaching the corner of the Darshan Orchid building. The pink 'Ashraya Deluxe Lodge' building appears on the right.",
+      "signs": [
+        "DARSHAN Orchid",
+        "ASHRAYA DELUXE LODGE / ಆಶ್ರಯ ಡಿಲಕ್ಸ್ ಲಾಡ್ಜ್",
+        "colourideas / ಕಲರ್‌ಐಡಿಯಾಸ್"
+      ],
+      "vehicles": "Cars and rickshaws in the background.",
+      "pedestrians": "People walking along the sidewalk.",
+      "infrastructure": "Commercial buildings, power lines.",
+      "ocr_detections": [
+        {
+          "text": "GENIUS ACADEMY",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "DARSHAN",
+          "label": "Text",
+          "region": "upper-center"
+        },
+        {
+          "text": "Ortho",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "SRINIVAS WELLNESS CLUB",
+          "label": "Text",
+          "region": "middle-center"
+        },
+        {
+          "text": "DANKUR MULTISPECIALITYDENTAL CLINIC",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "GreatWhite",
+          "label": "Text",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00009",
+      "description": "Closer view of the pink 'Ashraya Deluxe Lodge' building with 'Colourideas' shop at the base.",
+      "signs": [
+        "ASHRAYA DELUXE LODGE / ಆಶ್ರಯ ಡಿಲಕ್ಸ್ ಲಾಡ್ಜ್",
+        "colourideas / ಕಲರ್‌ಐಡಿಯಾಸ್",
+        "Adarsh Traders / ಆದರ್ಶ್ ಟ್ರೇಡರ್ಸ್"
+      ],
+      "vehicles": "None in the immediate foreground.",
+      "pedestrians": "People near the shop entrance.",
+      "infrastructure": "Utility pole, multi-story lodge building.",
+      "ocr_detections": [
+        {
+          "text": "GENIUS ACADEMY",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "DARSHANOrchid",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "SRINIVAS WELLNESS CLUB",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "BANK",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "MULTISPECIALITYTAL CLINIC",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "DARSHAN TERRACE CENTRE",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00010",
+      "description": "A large yellow VRL Logistics truck passes by, partially obscuring the view of 'Ashraya Deluxe Lodge'.",
+      "signs": [
+        "VRL LOGISTICS LTD / ವಿಆರ್‌ಎಲ್ ಲಾಜಿಸ್ಟಿಕ್ಸ್ ಲಿಮಿಟೆಡ್",
+        "ASHRAYA DELUXE LODGE"
+      ],
+      "vehicles": "Yellow VRL Logistics truck.",
+      "pedestrians": "None clearly visible.",
+      "infrastructure": "Building, utility pole.",
+      "ocr_detections": [
+        {
+          "text": "DARSHANOrchid",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "SRINIVAS WELLNESS CLUB",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "BANKURI MULTI SPECIALITYDENTAL CLINIC",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "DOMANI TER& EGG CENTRE",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "ASHRAYAAPARTMENTS",
+          "label": "Text",
+          "region": "middle-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00011",
+      "description": "The truck has moved, revealing the full facade of 'Ashraya Deluxe Lodge' and the adjacent 'Rawoor Orchid' building.",
+      "signs": [
+        "ASHRAYA DELUXE LODGE / ಆಶ್ರಯ ಡಿಲಕ್ಸ್ ಲಾಡ್ಜ್",
+        "ZAIN BAKERY & GENERAL STORES / ಝೈನ್ ಬೇಕರಿ ಮತ್ತು ಜನರಲ್ ಸ್ಟೋರ್ಸ್",
+        "RAWOOR Orchid / ರಾವೂರ ಆರ್ಕಿಡ್"
+      ],
+      "vehicles": "None.",
+      "pedestrians": "A man walking near the lodge entrance.",
+      "infrastructure": "Two adjacent commercial buildings.",
+      "ocr_detections": [
+        {
+          "text": "WRL LOGISTICS LTD WRL",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "ASHRAF DELUXE",
+          "label": "Text",
+          "region": "lower-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00012",
+      "description": "Frontal view of 'Rawoor Orchid' which houses an Axis Bank branch.",
+      "signs": [
+        "RAWOOR Orchid / ರಾವೂರ ಆರ್ಕಿಡ್",
+        "AXIS BANK / ಆಕ್ಸಿಸ್ ಬ್ಯಾಂಕ್",
+        "dil se open / ದಿಲ್ ಸೆ ಓಪನ್"
+      ],
+      "vehicles": "Parked motorcycles.",
+      "pedestrians": "People on the bank stairs.",
+      "infrastructure": "Modern bank building facade.",
+      "ocr_detections": [
+        {
+          "text": "RAWOOR ORCHID",
+          "label": "Text",
+          "region": "upper-center"
+        },
+        {
+          "text": "ASHRAYADELUXE LODGE",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "Zain Bakery& General Stores",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "dal se open",
+          "label": "Text",
+          "region": "lower-right"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00013",
+      "description": "Transitioning from Rawoor Orchid to an older building with 'Jivanjor' paints advertisement.",
+      "signs": [
+        "JIVANJOR / ಜೀವನಜೋರ್",
+        "Imperial Blue / ಇಂಪೀರಿಯಲ್ ಬ್ಲೂ"
+      ],
+      "vehicles": "None.",
+      "pedestrians": "A man standing in a shop doorway.",
+      "infrastructure": "Old two-story shop building, electrical transformer structure.",
+      "ocr_detections": [
+        {
+          "text": "RAWOOR ORCHID",
+          "label": "Text",
+          "region": "upper-center"
+        },
+        {
+          "text": "ರಾವೂರ್ ಓರ್ಚಿಡ್",
+          "label": "Text",
+          "region": "upper-center"
+        },
+        {
+          "text": "IRAYALODGE",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "Zain Bakery& General Stores",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "Small logo depicting a cake or pastry.",
+          "label": "Image",
+          "region": "lower-left"
+        },
+        {
+          "text": "dil",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00014",
+      "description": "View of '2R Electricals' and a tall modern glass building named 'Kranti'.",
+      "signs": [
+        "2R ELECTRICALS / ೨ಆರ್ ಎಲೆಕ್ಟ್ರಿಕಲ್ಸ್",
+        "All Recharge Available Here / ಎಲ್ಲಾ ರೀಚಾರ್ಜ್ ಲಭ್ಯವಿದೆ",
+        "KRANTI / ಕ್ರಾಂತಿ"
+      ],
+      "vehicles": "None.",
+      "pedestrians": "A few people near the electrical shop.",
+      "infrastructure": "Shop front, glass-fronted commercial building.",
+      "ocr_detections": [
+        {
+          "text": "POOR ORCHID",
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "text": "महादेव भवन",
+          "label": "Text",
+          "region": "upper-left"
+        },
+        {
+          "text": "AXIS BANK",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "dl se open",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "dl se open AXIS BANK",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "dl se open",
+          "label": "Text",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00015",
+      "description": "Full view of the 'Kranti' building with its distinctive blue-tinted windows. 'ego's' logo is visible on top.",
+      "signs": [
+        "KRANTI / ಕ್ರಾಂತಿ",
+        "ego's / ಎಗೋಸ್",
+        "KALYAN KARNATAKA ELECTRICAL ENTERPRISES / ಕಲ್ಯಾಣ ಕರ್ನಾಟಕ ಎಲೆಕ್ಟ್ರಿಕಲ್ ಎಂಟರ್‌ಪ್ರೈಸಸ್"
+      ],
+      "vehicles": "Motorcycles.",
+      "pedestrians": "People under umbrellas on the right.",
+      "infrastructure": "Modern office building, street vendors.",
+      "ocr_detections": [
+        {
+          "text": "JIVANJOR",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "ELECTRICALS",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "All Recharge Available Here",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "KALYAN KARTALAKA",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "ANUJITHA PROPERTIES",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00016",
+      "description": "Continuing past the Kranti building. A large billboard for Malabar Gold & Diamonds starts to appear on the right.",
+      "signs": [
+        "KRANTI / ಕ್ರಾಂತಿ",
+        "MALABAR GOLD & DIAMONDS / ಮಲಬಾರ್ ಗೋಲ್ಡ್ ಮತ್ತು ಡೈಮಂಡ್ಸ್",
+        "ELEGANCE ELEVATED / ಎಲಿಗನ್ಸ್ ಎಲಿವೇಟೆಡ್"
+      ],
+      "vehicles": "None.",
+      "pedestrians": "A person walking on the sidewalk.",
+      "infrastructure": "Buildings, large billboard structure.",
+      "ocr_detections": [
+        {
+          "text": "KRANTI",
+          "label": "Text",
+          "region": "upper-center"
+        },
+        {
+          "text": "BYOS",
+          "label": "Text",
+          "region": "upper-center"
+        },
+        {
+          "text": "KALYAN KARATRAKELECTRICAL ENTERPRISES",
+          "label": "Text",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00017",
+      "description": "Detailed view of the 'Malabar Gold' billboard featuring Alia Bhatt. Below it are 'New Style' and 'Anchor Panasonic' shops.",
+      "signs": [
+        "MALABAR GOLD & DIAMONDS",
+        "NEW STYLE / ನ್ಯೂ ಸ್ಟೈಲ್",
+        "ANCHOR Panasonic / ಆಂಕರ್ ಪ್ಯಾನಾಸೋನಿಕ್",
+        "GM SWITCH TO A BETTER WORLD / ಜಿಎಂ ಸ್ವಿಚ್ ಟು ಎ ಬೆಟರ್ ವರ್ಲ್ಡ್"
+      ],
+      "vehicles": "None.",
+      "pedestrians": "A man sitting on a ledge near 'New Style'.",
+      "infrastructure": "Commercial building, billboard, traffic light pole.",
+      "ocr_detections": [
+        {
+          "text": "A street view of a modern commercial building complex. The building on the left has large glass windows and features the 'ANTH' logo near the top and 'COCO' signage near the ground floor. A large billboard on the right side of the image displays a smiling woman wearing jewelry, with the text 'ELEGANCE ELEVATED' visible. Below the billboard, there are traffic lights and several ground-floor shops, including one labeled 'NEW STYLE' and another with a 'C&M' logo.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00018",
+      "description": "The camera pans further right showing a 'Hot Chips' store and another billboard for 'The Reflecta Collection'.",
+      "signs": [
+        "SHREE KRISHNA HOT CHIPS / ಶ್ರೀ ಕೃಷ್ಣ ಹಾಟ್ ಚಿಪ್ಸ್",
+        "THE REFLECTA COLLECTION / ದಿ ರಿಫ್ಲೆಕ್ಟಾ ಕಲೆಕ್ಷನ್"
+      ],
+      "vehicles": "None.",
+      "pedestrians": "People near the hot chips shop.",
+      "infrastructure": "Storefronts, billboard.",
+      "ocr_detections": [
+        {
+          "text": "Large billboard advertisement featuring a woman in traditional Indian attire, with the text 'ELEGANCE ELEVATED' and 'మాట్రేస్ మాట్రేస్ మాట్రేస్' (Matress Matress Matress) above her.",
+          "label": "Image",
+          "region": "upper-center"
+        },
+        {
+          "text": "మాట్రేస్ మాట్రేస్ మాట్రేస్ మాట్రేస్ మాట్రేస్ మాట్రేస్ మాట్రేస్ మాట",
+          "label": "Text",
+          "region": "middle-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00019",
+      "description": "Close-up of shops under billboards, including an eye clinic sign.",
+      "signs": [
+        "THE REFLECTA COLLECTION",
+        "VISHARAN CLINIC / ವಿಶಾರಣ ಕ್ಲಿನಿಕ್"
+      ],
+      "vehicles": "Auto-rickshaws.",
+      "pedestrians": "Pedestrians on the sidewalk.",
+      "infrastructure": "Signboards, street level shops.",
+      "ocr_detections": [
+        {
+          "text": "Large billboard advertisement for 'M' jewelry featuring actress Alia Bhatt. The text reads 'M JEWELLERY' and 'ELEGANCE ELEVATED'.",
+          "label": "Image",
+          "region": "upper-left"
+        },
+        {
+          "text": "ALIA BHATT, STAR OF 'DANGAL' STARRING AAMIR KHAN, IN 'M' JEWELLERY'S 'ELEGANCE ELEVATED' CAMPAIGN",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "Large billboard advertisement for 'REFLECTA COLLECTION' featuring a circular design.",
+          "label": "Image",
+          "region": "middle-right"
+        },
+        {
+          "text": "A street scene showing a traffic light and various smaller commercial signs, including one for 'GMI SWITCH TO A BETTER WORLD'.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00020",
+      "description": "Approaching a large overhead structure spanning the road. Various shop signs are visible.",
+      "signs": [
+        "THE REFLECTA COLLECTION",
+        "SHIVASHARAN CLINIC / ಶಿವಶರಣ ಕ್ಲಿನಿಕ್"
+      ],
+      "vehicles": "Auto-rickshaws in traffic.",
+      "pedestrians": "None.",
+      "infrastructure": "Overhead billboard structure, traffic signals.",
+      "ocr_detections": [
+        {
+          "text": "100%ELEGANCE ELEVATED",
+          "label": "Image",
+          "region": "upper-left"
+        },
+        {
+          "text": "REFLECTACOLLECTION",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00021",
+      "description": "Moving directly under the large overhead billboard. A white billboard is visible ahead.",
+      "signs": [
+        "SHIVASHARAN CLINIC / ಶಿವಶರಣ ಕ್ಲಿನಿಕ್",
+        "Sapna / ಸಪ್ನ"
+      ],
+      "vehicles": "Auto-rickshaws.",
+      "pedestrians": "None.",
+      "infrastructure": "Overhead road structure, billboards.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in an urban area, likely India, featuring a large billboard advertising 'The RELIEFIA' (a product, possibly a contact lens or eye care product) mounted on a building. The billboard is blue and white, showing a close-up of an eye and a circular product. Below the billboard, there are smaller commercial signs and a traffic light. A multi-story building is visible on the left, and a large concrete overpass structure is on the right. The sky is overcast.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00022",
+      "description": "Passing under the overhead structure. More billboards and a blue flag are visible.",
+      "signs": [
+        "SBI / ಎಸ್ಬಿಐ",
+        "Sapna / ಸಪ್ನ"
+      ],
+      "vehicles": "Vehicles moving ahead.",
+      "pedestrians": "None.",
+      "infrastructure": "Road infrastructure, billboard frames.",
+      "ocr_detections": [
+        {
+          "text": "THE REFLECTIACOLLECTIONTHE REFLECTING OF TIME",
+          "label": "Image",
+          "region": "lower-left"
+        },
+        {
+          "text": "SHIVASARAN CLINIC",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "SHARAN CLINIC",
+          "label": "Text",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00023",
+      "description": "Continuing under the structure. The white billboard is now more clearly visible.",
+      "signs": [
+        "SBI / ಎಸ್ಬಿಐ"
+      ],
+      "vehicles": "Traffic ahead.",
+      "pedestrians": "None.",
+      "infrastructure": "Heavy metal overhead structure.",
+      "ocr_detections": [
+        {
+          "text": "A large billboard on the left side of the road, partially visible, showing a blue background and some text, possibly related to 'SAMUEL'.",
+          "label": "Image",
+          "region": "lower-left"
+        },
+        {
+          "text": "A large, dark, rectangular billboard structure spanning the road, supported by red pillars. The billboard surface is mostly blank or covered by a dark banner.",
+          "label": "Image",
+          "region": "lower-left"
+        },
+        {
+          "text": "A busy street scene viewed from below the large billboard. Traffic, including cars and a red bus, is visible. Buildings line the street, and utility poles and wires are prominent against a cloudy sky.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00024",
+      "description": "Exiting from under the large structure. A tall transmission tower is seen in the distance.",
+      "signs": [
+        "None clearly legible."
+      ],
+      "vehicles": "Auto-rickshaws.",
+      "pedestrians": "People standing on the side of the road.",
+      "infrastructure": "Utility poles, tall metal tower.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in an urban area under a cloudy sky. A large, dark, rectangular billboard structure dominates the left side of the frame, supported by red poles. Several streetlights are attached to the structure. Below the billboard, a white van and other vehicles are visible, along with pedestrians. To the right, there is a multi-story building, utility poles, and construction cranes extending into the sky. Green trees are visible between the buildings and the billboard.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00025",
+      "description": "A view of the street ahead with trees and more commercial buildings.",
+      "signs": [
+        "e-toilet / ಇ-ಟಾಯ್ಲೆಟ್"
+      ],
+      "vehicles": "None in focus.",
+      "pedestrians": "People gathered on the sidewalk.",
+      "infrastructure": "Public toilet structure, utility poles.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in an urban area under a cloudy sky. A large building is under construction, covered in white sheeting, with a tall crane visible on the right. Dense green foliage, including bamboo, partially obscures the building. Below, there are utility poles, overhead wires, and several small commercial stalls or kiosks. People are visible walking on the street.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00026",
+      "description": "Approaching an intersection with a 'No Parking' sign visible on a tree.",
+      "signs": [
+        "NO PARKING / ನೋ ಪಾರ್ಕಿಂಗ್ (indicated by sign)"
+      ],
+      "vehicles": "None in focus.",
+      "pedestrians": "Crowd of people by the roadside.",
+      "infrastructure": "Street furniture, trees.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in a city under a cloudy sky. A tall metal tower stands in the center-left, surrounded by green trees. A large white building is visible behind the trees. On the right, there is a yellow building with a red and blue flag (likely Chilean) on its roof. A parking sign (P) is visible near the center. Several people are walking in the foreground.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00027",
+      "description": "View of a building with an orange and white facade, housing medical clinics.",
+      "signs": [
+        "DENTAL CLINIC / ಡೆಂಟಲ್ ಕ್ಲಿನಿಕ್",
+        "SUCHARITA HEART CLINIC / ಸುಚರಿತ ಹಾರ್ಟ್ ಕ್ಲಿನಿಕ್",
+        "VIJAY MEDICARE / ವಿಜಯ್ ಮೆಡಿಕೇರ್"
+      ],
+      "vehicles": "Auto-rickshaws.",
+      "pedestrians": "People near the building entrance.",
+      "infrastructure": "Clinic building, utility pole with flags.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in an urban area, likely India, featuring a multi-story building complex. The building on the right is painted in yellow and orange, with various commercial signs. Visible signs include 'CLINIC CENTRE', 'VIAAT', and 'SACHIN BROTHERS'. A blue flag is flying on a pole. Construction work is visible on the left, with a tall crane and a white building under construction. The sky is overcast.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00028",
+      "description": "Showing adjacent buildings with 'Ayush Diagnostics' and 'Balaji' stores.",
+      "signs": [
+        "SAI DENTAL CLINIC & IMPLANT CENTRE / ಸಾಯಿ ಡೆಂಟಲ್ ಕ್ಲಿನಿಕ್",
+        "AYUSH DIAGNOSTICS / ಆಯುಷ್ ಡಯಾಗ್ನೋಸ್ಟಿಕ್ಸ್",
+        "DTDC / ಡಿಟಿಡಿಸಿ",
+        "BALAJI / ಬಾಲಾಜಿ"
+      ],
+      "vehicles": "None.",
+      "pedestrians": "None clearly visible.",
+      "infrastructure": "Commercial row of shops.",
+      "ocr_detections": [
+        {
+          "text": "Logo for Sai Dental Clinic & Implant Centre showing a stylized mouth with teeth.",
+          "label": "Image",
+          "region": "lower-left"
+        },
+        {
+          "text": "SAI DENTAL CLINIC& IMPLANT CENTRE",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "White teeth withstraighter dentalimplants in a short time",
+          "label": "Text",
+          "region": "middle-left"
+        },
+        {
+          "text": "Image of a woman smiling, advertising dental services.",
+          "label": "Image",
+          "region": "middle-left"
+        },
+        {
+          "text": "Image of a mouth with white teeth, advertising dental services.",
+          "label": "Image",
+          "region": "lower-left"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00029",
+      "description": "A view of more shops like 'Ayush Diagnostics' and advertisements for 'Airtel 5G Plus' and 'Coca-Cola'.",
+      "signs": [
+        "AYUSH DIAGNOSTICS",
+        "Airtel 5G Plus / ಏರ್‌ಟೆಲ್ ೫ಜಿ ಪ್ಲಸ್",
+        "Coca-Cola / ಕೋಕಾ-ಕೋಲಾ"
+      ],
+      "vehicles": "Auto-rickshaw.",
+      "pedestrians": "None.",
+      "infrastructure": "Shop fronts.",
+      "ocr_detections": [
+        {
+          "text": "Coca-Cola logo",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00030",
+      "description": "Approaching a petrol pump station with a large 'Extra Premium' billboard.",
+      "signs": [
+        "DIABETES CLINIC / ಡಯಾಬಿಟಿಸ್ ಕ್ಲಿನಿಕ್",
+        "Extra Premium / ಎಕ್ಸ್ಟ್ರಾ ಪ್ರೀಮಿಯಂ",
+        "FILL & WIN / ಫಿಲ್ ಅಂಡ್ ವಿನ್"
+      ],
+      "vehicles": "Auto-rickshaws at the pump.",
+      "pedestrians": "People near the petrol station.",
+      "infrastructure": "Petrol pump canopy, large advertising billboards.",
+      "ocr_detections": [
+        {
+          "text": "universitasindonesiaBANTUANELEKTRONIK",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "DIABETES CLINIC",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "dr. HENDRIANTO, M.D.dr. AGUS, M.D.",
+          "label": "Text",
+          "region": "lower-left"
+        },
+        {
+          "text": "Move Your FleetWith The Touch Of A Screen",
+          "label": "Text",
+          "region": "lower-center"
+        },
+        {
+          "text": "APOTEK SALON",
+          "label": "Text",
+          "region": "lower-center"
+        }
+      ]
+    }
+  ]
+}

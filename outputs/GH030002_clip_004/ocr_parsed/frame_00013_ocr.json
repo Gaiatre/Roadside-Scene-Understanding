@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00013_det_001",
+    "frame_id": "frame_00013",
+    "text": "RAIPUR ELEC",
+    "norm_text": "raipur elec",
+    "bbox": [
+      340,
+      324,
+      1024,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

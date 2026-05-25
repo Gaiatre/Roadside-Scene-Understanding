@@ -1,0 +1,32 @@
+[
+  {
+    "text": "GOODYEAR",
+    "label": "Text",
+    "region": "middle-center"
+  },
+  {
+    "text": "AUTOCARE",
+    "label": "Text",
+    "region": "middle-center"
+  },
+  {
+    "text": "TYRES",
+    "label": "Text",
+    "region": "middle-center"
+  },
+  {
+    "text": "WHEEL ALIGNMENT & BALANCING",
+    "label": "Text",
+    "region": "middle-center"
+  },
+  {
+    "text": "TYRE CHANGING",
+    "label": "Text",
+    "region": "middle-center"
+  },
+  {
+    "text": "NITROGEN AIR",
+    "label": "Text",
+    "region": "middle-right"
+  }
+]

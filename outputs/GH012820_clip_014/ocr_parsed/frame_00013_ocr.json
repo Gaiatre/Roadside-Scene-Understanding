@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Ekadanta logo",
+    "label": "Image",
+    "region": "middle-left"
+  },
+  {
+    "text": "Ekadanta MultispecialtyDental Clinic(Since 1996)",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "Dr. S. K. SinghDr. S. K. Singh",
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "text": "BP LABORATORY",
+    "label": "Section-Header",
+    "region": "middle-center"
+  },
+  {
+    "text": "A UNIT OF SIDYUT PRAVA HEALTHCARE PVT. LTD.",
+    "label": "Text",
+    "region": "middle-center"
+  }
+]

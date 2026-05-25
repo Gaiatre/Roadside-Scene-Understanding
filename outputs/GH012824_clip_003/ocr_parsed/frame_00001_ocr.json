@@ -1,0 +1,58 @@
+[
+  {
+    "local_id": "frame_00001_det_001",
+    "frame_id": "frame_00001",
+    "text": "WROOM REEM SONS NTS 5 101",
+    "norm_text": "wroom reem sons nts 5 101",
+    "bbox": [
+      0,
+      146,
+      122,
+      460
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00001_det_002",
+    "frame_id": "frame_00001",
+    "text": "RISE UP BABY!",
+    "norm_text": "rise up baby!",
+    "bbox": [
+      144,
+      273,
+      281,
+      362
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00001_det_003",
+    "frame_id": "frame_00001",
+    "text": "MISSION SCHOOL Contact Us: 80955 81111 - 80955 Behind High Court www.zeeschool.in",
+    "norm_text": "mission school contact us: 80955 81111 - 80955 behind high court www.zeeschool.in",
+    "bbox": [
+      219,
+      91,
+      408,
+      341
+    ],
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "local_id": "frame_00001_det_004",
+    "frame_id": "frame_00001",
+    "text": "KOMAL CAFE",
+    "norm_text": "komal cafe",
+    "bbox": [
+      378,
+      364,
+      484,
+      445
+    ],
+    "label": "Text",
+    "region": "middle-center"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "local_id": "frame_00016_det_001",
+    "frame_id": "frame_00016",
+    "text": "DR. S. S. PATIL COMPLEX",
+    "norm_text": "dr. s. s. patil complex",
+    "bbox": [
+      523,
+      151,
+      631,
+      214
+    ],
+    "label": "Text",
+    "region": "upper-center"
+  },
+  {
+    "local_id": "frame_00016_det_002",
+    "frame_id": "frame_00016",
+    "text": "Advertisement poster featuring two figures, possibly religious or cultural figures, displayed on the building facade.",
+    "norm_text": "advertisement poster featuring two figures, possibly religious or cultural figures, displayed on the building facade.",
+    "bbox": [
+      532,
+      369,
+      672,
+      442
+    ],
+    "label": "Image",
+    "region": "middle-center"
+  },
+  {
+    "local_id": "frame_00016_det_003",
+    "frame_id": "frame_00016",
+    "text": "Jai Bhavani Maratha Khanayali",
+    "norm_text": "jai bhavani maratha khanayali",
+    "bbox": [
+      37,
+      616,
+      394,
+      671
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00016_det_004",
+    "frame_id": "frame_00016",
+    "text": "CHADDI HOTEL",
+    "norm_text": "chaddi hotel",
+    "bbox": [
+      172,
+      671,
+      256,
+      695
+    ],
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00016_det_005",
+    "frame_id": "frame_00016",
+    "text": "Logo featuring a stylized 'J' or 'U' shape, possibly representing a deity or symbol.",
+    "norm_text": "logo featuring a stylized 'j' or 'u' shape, possibly representing a deity or symbol.",
+    "bbox": [
+      468,
+      591,
+      523,
+      722
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00026_det_001",
+    "frame_id": "frame_00026",
+    "text": "ॐ नारक्षेष्ठ",
+    "norm_text": "ॐ नारक्षेष्ठ",
+    "bbox": [
+      389,
+      424,
+      526,
+      582
+    ],
+    "label": "Text",
+    "region": "lower-center"
+  }
+]

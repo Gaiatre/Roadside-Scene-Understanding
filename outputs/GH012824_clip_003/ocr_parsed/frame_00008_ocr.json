@@ -1,0 +1,72 @@
+[
+  {
+    "local_id": "frame_00008_det_001",
+    "frame_id": "frame_00008",
+    "text": "Mount Litera",
+    "norm_text": "mount litera",
+    "bbox": [
+      196,
+      87,
+      386,
+      208
+    ],
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "local_id": "frame_00008_det_002",
+    "frame_id": "frame_00008",
+    "text": "CBSE Affiliation",
+    "norm_text": "cbse affiliation",
+    "bbox": [
+      292,
+      170,
+      386,
+      208
+    ],
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "local_id": "frame_00008_det_003",
+    "frame_id": "frame_00008",
+    "text": "ADMISSIONS OPEN",
+    "norm_text": "admissions open",
+    "bbox": [
+      180,
+      191,
+      357,
+      261
+    ],
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "local_id": "frame_00008_det_004",
+    "frame_id": "frame_00008",
+    "text": "145+ Campuses 1100+ Cities",
+    "norm_text": "145+ campuses 1100+ cities",
+    "bbox": [
+      180,
+      223,
+      363,
+      305
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00008_det_005",
+    "frame_id": "frame_00008",
+    "text": "Contact Us:",
+    "norm_text": "contact us:",
+    "bbox": [
+      169,
+      280,
+      260,
+      316
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  }
+]

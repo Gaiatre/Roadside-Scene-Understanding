@@ -1,0 +1,508 @@
+{
+  "video_summary": {
+    "video_id": "GH012820_clip_011",
+    "model_caption": "This analysis covers the driving footage captured on an urban street, likely in India, featuring a mix of architectural styles and transportation modes.\n\n### 1. Scene Setting\n*   **Location:** An urban street characterized by a large, prominent building with a light green upper level and a reddish-brown base. The building features distinctive dark-colored domes. \n*   **Atmosphere:** The area appears busy but not overly congested, typical of a city center or near a public institution.\n\n### 2. Vehicle Analysis\n*   **Variety:** The footage shows a wide array of vehicles including motorcycles, bicycles, a black-and-yellow three-wheeled auto-rickshaw, and passenger cars.\n*   **Identified Models:** Notable vehicles include a white sedan (passing around 00:46) and an orange hatchback (passing around 00:51).\n*   **Camera Vehicle:** The footage is recorded from a vehicle moving at a low, steady speed, providing a driver's perspective of the surroundings.\n\n### 3. Traffic Dynamics\n*   **Mixed Flow:** The road handles a variety of traffic participants—pedestrians, cyclists, and motorized vehicles—all sharing the same space.\n*   **Movement:** Traffic flows in both directions. While there is a steady stream of movement, the speed remains relatively low, influenced by the presence of pedestrians and slower vehicles like bicycles.\n\n### 4. Temporal Progression\n*   **00:00 - 00:42:** The camera is mostly stationary or moving very slowly, focusing on the facade of the green and brown building as people and bikes pass in the foreground.\n*   **00:43 - 01:00:** The vehicle begins moving forward more consistently. The perspective shifts to the road ahead, passing by a small landscaped area on the left containing a statue under a white canopy.\n\n### 5. Safety Observations\n*   **Pedestrian Activity:** Numerous pedestrians are seen walking along the roadside and crossing the street, requiring constant vigilance from drivers.\n*   **Helmet Usage:** Variable helmet compliance is observed among motorcyclists; some riders are wearing them, while others are not.\n*   **Space Sharing:** The lack of strict lane discipline or dedicated paths for different vehicle types necessitates defensive driving to avoid collisions with slower-moving or merging traffic.\n\n### 6. Environmental Context\n*   **Weather/Lighting:** The sky is overcast or hazy, providing flat, even lighting typical of a cloudy day.\n*   **Urban Infrastructure:** The road is paved and features basic markings. Utility poles with overhead wires and modern street lighting are visible throughout the scene. Some greenery, including trees and small park patches, provides a contrast to the masonry."
+  },
+  "frames": [
+    {
+      "frame_name": "frame_00001",
+      "description": "Initial frame showing a street scene in front of a large institutional building with a light green upper facade and brick-red lower facade. The building has dark dome-like structures on top. Several pedestrians are walking along the sidewalk or sitting on the building's front steps.",
+      "signs": "None clearly legible in this frame.",
+      "vehicles": "Partial view of a white car on the bottom left.",
+      "pedestrians": "A man in a grey shirt and another in a pink outfit are walking left; others are sitting near the building entrance.",
+      "infrastructure": "A tall street light pole is on the right. institutional building with traditional architecture elements.",
+      "motion": "The camera is moving forward, panned slightly towards the right side of the street.",
+      "ocr_detections": []
+    },
+    {
+      "frame_name": "frame_00002",
+      "description": "The camera continues moving past the same building. A motorcycle enters the frame from the bottom right corner.",
+      "signs": "None.",
+      "vehicles": "A motorcycle with two riders is entering from the right foreground.",
+      "pedestrians": "People continue walking and sitting on the sidewalk.",
+      "infrastructure": "Street light, institutional building.",
+      "motion": "Continuous forward motion.",
+      "ocr_detections": [
+        {
+          "text": "A street view of a large, multi-story building complex, likely a government or institutional building, featuring a light green upper facade and two prominent dark domes. The ground floor is constructed of reddish-brown brick. Several people are visible on the sidewalk and street, including a couple walking on the left, people sitting on benches, and a person riding a motorcycle on the right. A tall street light pole is visible on the right side of the frame.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00003",
+      "description": "The motorcycle from the previous frame has moved further left. A man in a white shirt and pants is walking across the road from right to left.",
+      "signs": "None.",
+      "vehicles": "The motorcycle with two riders continues moving across the frame to the left.",
+      "pedestrians": "Man in white walking across the road; others on the sidewalk.",
+      "infrastructure": "Building facade remains visible.",
+      "motion": "Forward motion.",
+      "ocr_detections": [
+        {
+          "text": "A street view of a large, multi-story building, likely a train station, featuring a light green upper facade with two prominent dark domes and a lower facade of brown brick. Several people are visible on the sidewalk and street, including a man on a red scooter and a couple walking.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00004",
+      "description": "The man in white is now center-frame. More pedestrians are visible on the sidewalk in the background.",
+      "signs": "None.",
+      "vehicles": "Motorcycle has moved out of view to the left.",
+      "pedestrians": "Man in white continues his walk across the road.",
+      "infrastructure": "Institutional building facade.",
+      "motion": "Forward motion.",
+      "ocr_detections": [
+        {
+          "text": "A wide shot of a large, multi-story building complex, likely a government or institutional building, featuring a prominent green upper facade and two large, dark domes on the roof. The ground floor is constructed of reddish-brown brick. Several people are visible walking on the sidewalk and street in front of the building. A tall street light pole stands on the right side of the frame.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00005",
+      "description": "The man in white is now towards the left side of the frame. The camera is still passing the long building.",
+      "signs": "None.",
+      "vehicles": "None.",
+      "pedestrians": "The man in white walking left; group of people near the entrance in the distance.",
+      "infrastructure": "Building facade.",
+      "motion": "Forward motion.",
+      "ocr_detections": [
+        {
+          "text": "A photograph of a large, multi-story building, likely a government or institutional structure, featuring a light green upper facade and a lower facade made of reddish-brown brick. The building has two large, dark, dome-shaped structures on the roofline. The ground floor has several entrances with metal security grilles. Several people are visible on the sidewalk and street in front of the building, including a man in a red shirt carrying a green bag and a man in a white uniform walking on the right.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00006",
+      "description": "An auto-rickshaw enters the frame from the right. The man in white has moved further left.",
+      "signs": "The auto-rickshaw's windshield has Odia text: 'ଭୁବନେଶ୍ୱର' (Bhubaneswar). Its license plate is 'OD 02 AE 3662'.",
+      "vehicles": "Yellow and black auto-rickshaw.",
+      "pedestrians": "Man in white continues walking; people sitting on building steps.",
+      "infrastructure": "Building facade.",
+      "motion": "The auto-rickshaw is moving left across the frame.",
+      "ocr_detections": [
+        {
+          "text": "A wide shot of a large, multi-story building complex, likely a hospital or government facility, featuring a light green upper structure with two prominent dark domes and a lower brown brick section. Several people are visible on the sidewalk and street in front of the building. A tall street light stands on the right side of the frame.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00007",
+      "description": "The auto-rickshaw is now center-left. The camera maintains its forward trajectory.",
+      "signs": "None.",
+      "vehicles": "Auto-rickshaw moving left.",
+      "pedestrians": "Man in white is near the left edge of the frame.",
+      "infrastructure": "Institutional building.",
+      "motion": "Forward motion.",
+      "ocr_detections": [
+        {
+          "text": "A wide shot of a large, multi-story building, likely a government or institutional structure, featuring a light green upper facade and two prominent dark domes. The ground floor is constructed of reddish-brown brick. Several people are visible on the sidewalk and near the entrance, including a man in a white uniform walking in the foreground. A yellow and black auto-rickshaw is parked on the right side of the road.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00008",
+      "description": "A man on a bicycle enters from the left foreground. The auto-rickshaw is moving out of the frame on the left.",
+      "signs": "None.",
+      "vehicles": "Man on a bicycle; auto-rickshaw exiting.",
+      "pedestrians": "A man in a grey shirt and others on the sidewalk.",
+      "infrastructure": "Building facade.",
+      "motion": "Cyclist moving right; camera moving forward.",
+      "ocr_detections": [
+        {
+          "text": "A photograph of a large, multi-story building, likely a government or institutional structure, featuring a light green upper facade and a lower facade made of reddish-brown brick. The building has two large, dark, dome-shaped structures on the roofline. The ground floor has several entrances with metal security grilles. Several people are visible walking on the sidewalk and crossing the road in front of the building. A tall street light pole is visible on the right side.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00009",
+      "description": "The bicyclist is now center-frame. Pedestrians on the sidewalk are more clearly visible.",
+      "signs": "None.",
+      "vehicles": "Bicycle moving right.",
+      "pedestrians": "People walking on the sidewalk in the background.",
+      "infrastructure": "Institutional building.",
+      "motion": "Forward motion.",
+      "ocr_detections": [
+        {
+          "text": "A street view of a large, multi-story building, likely a train station, featuring a light green upper facade and two prominent dark domes. The ground floor is constructed of reddish-brown brick. Several people are visible on the sidewalk and street, including a man on a bicycle on the left and pedestrians crossing the road.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00010",
+      "description": "The bicyclist has moved to the right. A motorcycle with a rider in a red shirt enters from the left background.",
+      "signs": "None.",
+      "vehicles": "Bicycle moving right; motorcycle in background.",
+      "pedestrians": "People sitting and walking on the sidewalk.",
+      "infrastructure": "Building facade.",
+      "motion": "Forward motion.",
+      "ocr_detections": [
+        {
+          "text": "A street view of a large, multi-story building, likely a government or institutional structure, featuring a brown lower facade and a light green upper facade with two prominent dark domes. Several people are visible on the sidewalk and street, including a man in a red shirt riding a bicycle.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00011",
+      "description": "A scooter with two riders enters from the bottom left foreground. Pedestrians are scattered along the building's frontage.",
+      "signs": "None.",
+      "vehicles": "Scooter moving right.",
+      "pedestrians": "Two women on the scooter; others on the sidewalk.",
+      "infrastructure": "Building facade.",
+      "motion": "Forward motion.",
+      "ocr_detections": [
+        {
+          "text": "A wide shot of a large, multi-story building complex, likely a government or institutional building, featuring a prominent green upper section with two large, dark, dome-like structures on either side. The lower section is constructed from reddish-brown brick. The building has multiple windows and balconies. In the foreground, several people are walking on a paved road and sidewalk, including a woman in a blue top and backpack, and another woman in a light blue uniform. A tall street light pole is visible on the right, and a white car is partially visible on the far left.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00012",
+      "description": "The scooter riders are moving past the camera's view. More pedestrians are visible further down the street.",
+      "signs": "None.",
+      "vehicles": "Scooter continues right.",
+      "pedestrians": "People walking on the sidewalk.",
+      "infrastructure": "Building facade.",
+      "motion": "Forward motion.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in front of a large, multi-story building. The building features a brown brick lower level and a light green upper level with two prominent dark domes. Several people are visible on the sidewalk, including two individuals riding a motorcycle in the foreground, and others walking or sitting on benches. A tall street light pole is visible on the right.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00013",
+      "description": "Another bicyclist enters from the left foreground. The building facade continues on the right.",
+      "signs": "None.",
+      "vehicles": "Man on a bicycle moving right.",
+      "pedestrians": "People walking on the sidewalk.",
+      "infrastructure": "Building facade.",
+      "motion": "Forward motion.",
+      "ocr_detections": [
+        {
+          "text": "A wide shot of a large, multi-story building complex, likely a government or institutional building, featuring a prominent green upper section with two large, dark domes and a lower section with brown brick walls and arched windows. Several people are visible on the sidewalk and street in front of the building, including a man in a light blue shirt walking in the foreground.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00014",
+      "description": "The bicyclist is crossing the frame. The camera is approaching a section of the building with more activity.",
+      "signs": "None.",
+      "vehicles": "Bicycle moving right.",
+      "pedestrians": "Several people walking or standing near the building entrance.",
+      "infrastructure": "Institutional building.",
+      "motion": "Forward motion.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in front of a large, multi-story building. The building features a brown brick lower level and a light green upper level with large windows and two prominent dark domes on the roof. Several people are visible on the sidewalk and street, including a man in an orange shirt riding a bicycle.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00015",
+      "description": "A motorcycle with three riders (including a woman in a pink saree) enters from the bottom right corner.",
+      "signs": "None.",
+      "vehicles": "Motorcycle moving left.",
+      "pedestrians": "Riders on the motorcycle; others on the sidewalk.",
+      "infrastructure": "Building facade.",
+      "motion": "Forward motion.",
+      "ocr_detections": [
+        {
+          "text": "A photograph of a large, multi-story building, likely a government or institutional structure, featuring a light green upper facade and a lower facade made of reddish-brown brick. The building has two prominent, dark, dome-shaped structures on the roofline. The ground floor has large windows with diamond-patterned grilles. Several people are visible on the sidewalk in front of the building, including pedestrians and a person riding a bicycle.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00016",
+      "description": "The motorcycle with the woman in pink is now center-left. The institutional building facade remains constant on the right.",
+      "signs": "None.",
+      "vehicles": "Motorcycle continues left.",
+      "pedestrians": "People on the sidewalk.",
+      "infrastructure": "Building facade.",
+      "motion": "Forward motion.",
+      "ocr_detections": [
+        {
+          "text": "A street view of a large, multi-story building complex, likely a government or institutional building, featuring a lower brick facade and an upper section painted light green with two prominent dark domes. Several people are visible on the sidewalk, including pedestrians and individuals sitting on benches. A street light pole stands on the right, and a motorcyclist is visible in the foreground on the right side of the frame.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00017",
+      "description": "The motorcycle from before has exited. A man in a checkered shirt enters from the bottom left, walking towards the right.",
+      "signs": "None.",
+      "vehicles": "None visible.",
+      "pedestrians": "Man in a checkered shirt walking right; others in background.",
+      "infrastructure": "Building facade.",
+      "motion": "Forward motion.",
+      "ocr_detections": [
+        {
+          "text": "A street view of a large, multi-story building complex, likely a government or institutional building, featuring a prominent green upper facade and two large, dark domes. The ground floor is constructed of reddish-brown brick. Several people are visible on the sidewalk and street, including pedestrians and a man riding a motorcycle carrying a passenger and a large bag.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00018",
+      "description": "The man in the checkered shirt is center-frame. The scene remains focused on the street in front of the building.",
+      "signs": "None.",
+      "vehicles": "None.",
+      "pedestrians": "Man in checkered shirt; pedestrians on the sidewalk.",
+      "infrastructure": "Building facade.",
+      "motion": "Forward motion.",
+      "ocr_detections": [
+        {
+          "text": "A street view of a large, multi-story building complex, likely a government or institutional building, featuring a brown lower facade and a light green upper facade with two prominent dark domes. Several people are visible on the sidewalk and street, including pedestrians and a person riding a motorcycle.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00019",
+      "description": "A man in a blue shirt enters from the bottom center, walking left. Other pedestrians are visible on the sidewalk.",
+      "signs": "None.",
+      "vehicles": "None.",
+      "pedestrians": "Man in blue shirt walking left; woman on sidewalk.",
+      "infrastructure": "Building facade.",
+      "motion": "Forward motion.",
+      "ocr_detections": [
+        {
+          "text": "A photograph of a large, multi-story building, likely a government or institutional structure, featuring a light green upper facade and a lower facade made of reddish-brown brick. The building has two prominent, dark, dome-shaped structures on the roofline. The ground floor has several windows with diamond-patterned grilles and recessed seating areas. Several people are visible walking on the sidewalk in front of the building, and a street light is visible on the right side.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00020",
+      "description": "The man in the blue shirt is moving across the road. The camera is passing another entrance point of the building.",
+      "signs": "None.",
+      "vehicles": "None.",
+      "pedestrians": "Man in blue shirt; several people sitting on the building steps.",
+      "infrastructure": "Institutional building facade.",
+      "motion": "Forward motion.",
+      "ocr_detections": [
+        {
+          "text": "A street view of a large, multi-story building complex, likely a government or institutional building, featuring a brown lower facade and a light green upper facade with two prominent dark domes. Several people are walking on the sidewalk and crossing the street in the foreground. A tall street light pole is visible on the right.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00021",
+      "description": "The man in the blue shirt is towards the left. The scene shows the consistent architecture of the long building.",
+      "signs": "None.",
+      "vehicles": "None.",
+      "pedestrians": "Man in blue shirt; people on the sidewalk.",
+      "infrastructure": "Building facade.",
+      "motion": "Forward motion.",
+      "ocr_detections": [
+        {
+          "text": "A wide shot of a large, multi-story building complex, likely a government or institutional building, featuring a prominent green upper facade and two large, dark, dome-like structures on the roof. The ground floor is constructed of reddish-brown brick. Several people are visible walking on the sidewalk and street in the foreground, and others are sitting on benches near the entrance.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00022",
+      "description": "Multiple pedestrians are walking in different directions. The green and brown building continues on the right.",
+      "signs": "None.",
+      "vehicles": "None.",
+      "pedestrians": "Two men walking left; people on the sidewalk.",
+      "infrastructure": "Building facade.",
+      "motion": "Forward motion.",
+      "ocr_detections": [
+        {
+          "text": "A street view of a large, two-story building complex, likely a train station or government building, featuring a brown brick ground floor and a light green upper floor with balconies. Two large, dark domes are visible on the roofline. Several people are sitting on benches along the sidewalk, and a street light pole stands prominently in the foreground. A person is walking on the road to the right.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00023",
+      "description": "The camera is nearing the end of the long building block. Pedestrians continue their movement.",
+      "signs": "None.",
+      "vehicles": "None.",
+      "pedestrians": "Men in blue shirts walking; others in background.",
+      "infrastructure": "Building facade.",
+      "motion": "Forward motion.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in a city, likely in Africa. The background features a large, light green, multi-story building with a prominent dark dome structure in the center. The foreground shows a lower, brown building with multiple doors and windows. Several people are sitting on benches outside the lower building. A tall street light pole stands in the middle ground. On the right, a man is walking, and a rickshaw (pedicab) is visible with a driver and a passenger. The sky is overcast.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00024",
+      "description": "A man in a blue shirt on a motorcycle enters from the bottom right. The sidewalk activity remains high.",
+      "signs": "None.",
+      "vehicles": "Motorcycle moving left.",
+      "pedestrians": "Rider on motorcycle; people walking and sitting on sidewalk.",
+      "infrastructure": "Building facade.",
+      "motion": "Forward motion.",
+      "ocr_detections": [
+        {
+          "text": "A street view of a large, multi-story building complex, likely a mosque, featuring a light green upper facade, a lower brick facade, and two prominent dark domes. Several people are visible sitting on benches along the sidewalk in front of the building. The sky is overcast.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00025",
+      "description": "A white car is parked on the left side of the street. Text is now visible on the upper part of the building facade.",
+      "signs": "Building facade text: 'GURU NANAK EYE BANK'.",
+      "vehicles": "White Maruti Swift car parked on the left.",
+      "pedestrians": "A man in a blue shirt crossing left; people on the sidewalk.",
+      "infrastructure": "Institutional building (Guru Nanak Eye Bank).",
+      "motion": "Forward motion, passing the parked car.",
+      "ocr_detections": [
+        {
+          "text": "A street view of a large, multi-story building complex, likely a mosque, featuring a prominent dark dome and green and brown facades. The building has a ground floor with shops and a sidewalk. Several people are walking on the sidewalk and crossing the street, and a white car and a scooter are visible on the road. The scene is set under a bright, overcast sky.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00026",
+      "description": "The camera passes the parked white car. A motorcyclist is visible in the distance. The eye bank building dominates the right view.",
+      "signs": "Building facade: 'GURU NANAK EYE BANK'.",
+      "vehicles": "White car on left; motorcycle in distance.",
+      "pedestrians": "People walking on the sidewalk.",
+      "infrastructure": "Eye bank building.",
+      "motion": "Forward motion.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in a city, likely India, featuring a wide road with traffic and pedestrians. On the right, a large, multi-story building painted in light green and brown, with a prominent dark dome structure on the roof. The building has multiple windows and balconies. Several people are walking on the sidewalk, and a white car and a scooter are visible on the road. Utility poles and wires are visible on the left side.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00027",
+      "description": "The camera moves towards a junction. The building facade starts to recede. More vehicles are visible further ahead.",
+      "signs": "None clearly legible.",
+      "vehicles": "White car in the distance; motorcycle on the left.",
+      "pedestrians": "People scattered along the road and sidewalk.",
+      "infrastructure": "Road junction approaching.",
+      "motion": "Forward motion, panning slightly left.",
+      "ocr_detections": [
+        {
+          "text": "A wide, straight street in a city, likely India, under an overcast sky. The street is lined with trees on the left and multi-story buildings on the right. Traffic includes several cars (red, white, and dark) and numerous people riding motorcycles and scooters. A prominent building on the right features a large, dark dome. A blue parking sign is visible on the left side of the road.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00028",
+      "description": "A signboard is visible on the right. The road opens up into a wider intersection area with trees and more infrastructure.",
+      "signs": "Signboard on the right: 'GURU NANAK EYE BANK' in English and 'ଗୁରୁ ନାନକ ଆଖି ବ୍ୟାଙ୍କ' in Odia (Guru Nanak Akhi Bank).",
+      "vehicles": "White car ahead; motorcycle on the left.",
+      "pedestrians": "People walking across the intersection area.",
+      "infrastructure": "Signboards, street lights, trees, road junction.",
+      "motion": "Forward motion.",
+      "ocr_detections": [
+        {
+          "text": "A wide shot of a busy street in a city, likely India, under an overcast sky. The street is lined with buildings, trees, and utility poles. Traffic includes a white car, a red car, and several scooters/motorcycles. A person on a scooter is visible in the foreground on the left, and another person on a motorcycle is driving towards the camera in the center. Pedestrians are walking on the sidewalks.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00029",
+      "description": "The camera is now in a more open area, possibly a circle or major intersection. A statue under a pavilion is visible on the left. A red car is parked nearby.",
+      "signs": "Yellow sign on a post on the left: Circular 'No Parking' symbol with Odia text 'ନୋ ପାର୍କିଂ' (No Parking). Blue directional sign in the background.",
+      "vehicles": "Red car; motorcycle moving forward.",
+      "pedestrians": "Several people standing or walking near the park/statue area.",
+      "infrastructure": "Statue under a white canopy pavilion, park fence, intersection.",
+      "motion": "Forward motion, approaching a park area.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in an urban area. A person wearing a helmet and a white shirt is riding a motorcycle in the foreground. A bright red sedan is driving in the adjacent lane. On the left, there is a large, ornate building entrance with columns and a decorative fence. The background features lush green trees, utility poles, and a cloudy sky.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00030",
+      "description": "The camera moves closer to the statue pavilion. A motorcyclist in a white shirt passes the camera.",
+      "signs": "Signboard in distance, not legible.",
+      "vehicles": "Motorcycle moving right; red car parked.",
+      "pedestrians": "People walking on the sidewalk and in the park.",
+      "infrastructure": "Statue pavilion, street light poles, park greenery.",
+      "motion": "Forward motion.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in an urban area. A red car is visible in the foreground on the right. A pedestrian crossing is marked on the road. A man wearing a cap and a blue shirt is walking on the left side of the road. In the background, there is a large, ornate white structure resembling a gazebo or temple entrance, surrounded by lush green trees. A yellow parking sign (P) is visible on the left, and a red parking sign (P) is visible on the right. Overhead power lines and a utility pole are visible on the left.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00031",
+      "description": "Clearer view of the statue pavilion and the surrounding park. Another 'No Parking' sign is visible.",
+      "signs": "Sign on the left: 'NO PARKING' in English and 'ନୋ ପାର୍କିଂ' in Odia.",
+      "vehicles": "Red car parked on the right edge of the road.",
+      "pedestrians": "People walking along the park fence.",
+      "infrastructure": "Park with statue under pavilion, sidewalk with striped curb.",
+      "motion": "Forward motion along the park.",
+      "ocr_detections": [
+        {
+          "text": "A street scene in an urban area. A statue of a man stands on a pedestal inside a white, classical-style gazebo structure. The gazebo is surrounded by a low white railing. Two people are walking on the sidewalk in the foreground: one wearing a plaid shirt and a backpack, and another wearing a light blue uniform and a cap. A yellow parking sign (P) is visible near the left side of the gazebo. The background features lush green trees, utility poles, and buildings.",
+          "label": "Image",
+          "region": "lower-center"
+        }
+      ]
+    },
+    {
+      "frame_name": "frame_00032",
+      "description": "Final frame showing the park and statue on the left. The pavilion is white with traditional tiered-roof elements. Some people are resting near its base.",
+      "signs": "None clearly visible.",
+      "vehicles": "Part of a red car is visible on the right.",
+      "pedestrians": "People near the statue; man walking in foreground.",
+      "infrastructure": "Park, statue pavilion, electric poles with multiple wires.",
+      "motion": "Forward motion past the park.",
+      "ocr_detections": []
+    }
+  ]
+}

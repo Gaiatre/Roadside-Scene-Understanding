@@ -1,0 +1,58 @@
+[
+  {
+    "local_id": "frame_00013_det_001",
+    "frame_id": "frame_00013",
+    "text": "PH. 82774848, THIRUVANANTHAPURAM",
+    "norm_text": "ph. 82774848, thiruvananthapuram",
+    "bbox": [
+      870,
+      85,
+      996,
+      106
+    ],
+    "label": "Text",
+    "region": "upper-right"
+  },
+  {
+    "local_id": "frame_00013_det_002",
+    "frame_id": "frame_00013",
+    "text": "Decorative logo or emblem",
+    "norm_text": "decorative logo or emblem",
+    "bbox": [
+      788,
+      70,
+      824,
+      138
+    ],
+    "label": "Image",
+    "region": "upper-center"
+  },
+  {
+    "local_id": "frame_00013_det_003",
+    "frame_id": "frame_00013",
+    "text": "www.pmflores.in",
+    "norm_text": "www.pmflores.in",
+    "bbox": [
+      746,
+      144,
+      871,
+      174
+    ],
+    "label": "Text",
+    "region": "upper-center"
+  },
+  {
+    "local_id": "frame_00013_det_004",
+    "frame_id": "frame_00013",
+    "text": "ALOKKESHWARAN",
+    "norm_text": "alokkeshwaran",
+    "bbox": [
+      659,
+      166,
+      764,
+      187
+    ],
+    "label": "Text",
+    "region": "upper-center"
+  }
+]

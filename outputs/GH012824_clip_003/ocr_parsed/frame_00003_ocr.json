@@ -1,0 +1,44 @@
+[
+  {
+    "local_id": "frame_00003_det_001",
+    "frame_id": "frame_00003",
+    "text": "WROOM REEM SONS NTS 5 101",
+    "norm_text": "wroom reem sons nts 5 101",
+    "bbox": [
+      0,
+      146,
+      120,
+      459
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00003_det_002",
+    "frame_id": "frame_00003",
+    "text": "ADMISSION OPEN 1430, Kamalpur, 1100, Delhi Contact Us: 8955 8111 - 801658 8888 Behind High Court www.zeeschool.com",
+    "norm_text": "admission open 1430, kamalpur, 1100, delhi contact us: 8955 8111 - 801658 8888 behind high court www.zeeschool.com",
+    "bbox": [
+      215,
+      0,
+      400,
+      231
+    ],
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "local_id": "frame_00003_det_003",
+    "frame_id": "frame_00003",
+    "text": "RISE UP BABY!",
+    "norm_text": "rise up baby!",
+    "bbox": [
+      144,
+      273,
+      281,
+      362
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  }
+]

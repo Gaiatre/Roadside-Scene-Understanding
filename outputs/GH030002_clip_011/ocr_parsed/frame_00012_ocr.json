@@ -1,0 +1,22 @@
+[
+  {
+    "text": "A large billboard advertisement featuring several people, likely promoting a product or service. The text 'WELCOME TO THE NEW CENTURY' is visible on the billboard.",
+    "label": "Image",
+    "region": "middle-center"
+  },
+  {
+    "text": "A blue and white traffic barrier or temporary fence structure in the foreground, marked with 'RP'.",
+    "label": "Image",
+    "region": "lower-left"
+  },
+  {
+    "text": "A person walking past the billboard, wearing a white shirt and dark pants.",
+    "label": "Image",
+    "region": "lower-center"
+  },
+  {
+    "text": "Two men standing on the right side of the frame, one in a white shirt and one in a light blue shirt, looking towards the billboard.",
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

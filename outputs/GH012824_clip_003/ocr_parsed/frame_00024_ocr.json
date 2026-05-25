@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00024_det_001",
+    "frame_id": "frame_00024",
+    "text": "A wide-angle photograph of a busy street scene in a town or city. The sky is heavily overcast with dark clouds. On the left, a long, multi-story building with light-colored walls and dark window frames dominates the view. Several blue flags are hanging from the facade. The street is lined with utility poles and crisscrossed by numerous overhead power lines. Traffic, including cars and motorcycles, is visible on the road. Buildings of various colors line the street, and commercial signs are visible near the ground level.",
+    "norm_text": "a wide-angle photograph of a busy street scene in a town or city. the sky is heavily overcast with dark clouds. on the left, a long, multi-story building with light-colored walls and dark window frames dominates the view. several blue flags are hanging from the facade. the street is lined with utility poles and crisscrossed by numerous overhead power lines. traffic, including cars and motorcycles, is visible on the road. buildings of various colors line the street, and commercial signs are visible near the ground level.",
+    "bbox": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

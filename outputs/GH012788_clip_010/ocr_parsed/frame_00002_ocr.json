@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00002_det_001",
+    "frame_id": "frame_00002",
+    "text": "Image of a red pickup truck bed loaded with green foliage. A large, light blue banner is draped over the truck bed, featuring text in a non-Latin script (likely Tamil). The visible text on the banner reads:",
+    "norm_text": "image of a red pickup truck bed loaded with green foliage. a large, light blue banner is draped over the truck bed, featuring text in a non-latin script (likely tamil). the visible text on the banner reads:",
+    "bbox": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

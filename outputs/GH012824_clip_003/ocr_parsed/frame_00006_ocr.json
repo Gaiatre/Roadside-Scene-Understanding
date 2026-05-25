@@ -1,0 +1,58 @@
+[
+  {
+    "local_id": "frame_00006_det_001",
+    "frame_id": "frame_00006",
+    "text": "Admissions Open 1430 Campus 1100 Class Contact Us: 80955 81111 - 80955 8",
+    "norm_text": "admissions open 1430 campus 1100 class contact us: 80955 81111 - 80955 8",
+    "bbox": [
+      170,
+      0,
+      385,
+      201
+    ],
+    "label": "Text",
+    "region": "upper-left"
+  },
+  {
+    "local_id": "frame_00006_det_002",
+    "frame_id": "frame_00006",
+    "text": "Behind High Court, Allahabad www.zeeschools.in",
+    "norm_text": "behind high court, allahabad www.zeeschools.in",
+    "bbox": [
+      170,
+      178,
+      385,
+      364
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00006_det_003",
+    "frame_id": "frame_00006",
+    "text": "Rise UP BABY!",
+    "norm_text": "rise up baby!",
+    "bbox": [
+      74,
+      286,
+      220,
+      374
+    ],
+    "label": "Text",
+    "region": "middle-left"
+  },
+  {
+    "local_id": "frame_00006_det_004",
+    "frame_id": "frame_00006",
+    "text": "Image of a man and a woman smiling, part of the 'Rise UP BABY!' advertisement.",
+    "norm_text": "image of a man and a woman smiling, part of the 'rise up baby!' advertisement.",
+    "bbox": [
+      220,
+      328,
+      310,
+      436
+    ],
+    "label": "Image",
+    "region": "middle-left"
+  }
+]

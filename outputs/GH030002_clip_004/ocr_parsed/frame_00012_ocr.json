@@ -1,0 +1,16 @@
+[
+  {
+    "local_id": "frame_00012_det_001",
+    "frame_id": "frame_00012",
+    "text": "A street scene in an urban area, likely India, featuring a two-story building partially obscured by large trees. A person is walking across the foreground street. The building has a balcony on the upper floor. The ground floor has a dark entrance and a yellow sign on the left with Bengali script. A blue and white metal fence runs along the sidewalk. Laundry is hanging on lines near the fence. The overall atmosphere is bright and sunny.",
+    "norm_text": "a street scene in an urban area, likely india, featuring a two-story building partially obscured by large trees. a person is walking across the foreground street. the building has a balcony on the upper floor. the ground floor has a dark entrance and a yellow sign on the left with bengali script. a blue and white metal fence runs along the sidewalk. laundry is hanging on lines near the fence. the overall atmosphere is bright and sunny.",
+    "bbox": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]

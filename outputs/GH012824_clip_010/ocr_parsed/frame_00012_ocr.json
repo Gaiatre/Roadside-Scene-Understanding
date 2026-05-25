@@ -1,0 +1,32 @@
+[
+  {
+    "text": "RAWOOR ORCHID",
+    "label": "Text",
+    "region": "upper-center"
+  },
+  {
+    "text": "ರಾವೂರ್ ಓರ್ಚಿಡ್",
+    "label": "Text",
+    "region": "upper-center"
+  },
+  {
+    "text": "IRAYALODGE",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "Zain Bakery& General Stores",
+    "label": "Text",
+    "region": "lower-left"
+  },
+  {
+    "text": "Small logo depicting a cake or pastry.",
+    "label": "Image",
+    "region": "lower-left"
+  },
+  {
+    "text": "dil",
+    "label": "Text",
+    "region": "lower-center"
+  }
+]

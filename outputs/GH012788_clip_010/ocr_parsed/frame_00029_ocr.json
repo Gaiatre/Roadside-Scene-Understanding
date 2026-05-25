@@ -1,0 +1,58 @@
+[
+  {
+    "local_id": "frame_00029_det_001",
+    "frame_id": "frame_00029",
+    "text": "& Readymades",
+    "norm_text": "& readymades",
+    "bbox": [
+      0,
+      0,
+      455,
+      225
+    ],
+    "label": "Image",
+    "region": "upper-left"
+  },
+  {
+    "local_id": "frame_00029_det_002",
+    "frame_id": "frame_00029",
+    "text": "AVI PREMIUM CTC DUST TEA",
+    "norm_text": "avi premium ctc dust tea",
+    "bbox": [
+      455,
+      0,
+      1024,
+      290
+    ],
+    "label": "Image",
+    "region": "upper-center"
+  },
+  {
+    "local_id": "frame_00029_det_003",
+    "frame_id": "frame_00029",
+    "text": "Various colorful garments (sarees and kurtas) hanging for sale.",
+    "norm_text": "various colorful garments (sarees and kurtas) hanging for sale.",
+    "bbox": [
+      0,
+      225,
+      455,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-left"
+  },
+  {
+    "local_id": "frame_00029_det_004",
+    "frame_id": "frame_00029",
+    "text": "Interior view of a shop displaying large sacks of goods (likely tea or spices) and stacked boxes.",
+    "norm_text": "interior view of a shop displaying large sacks of goods (likely tea or spices) and stacked boxes.",
+    "bbox": [
+      455,
+      290,
+      1024,
+      1024
+    ],
+    "label": "Image",
+    "region": "lower-center"
+  }
+]
