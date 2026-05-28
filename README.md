@@ -62,7 +62,7 @@ The main pipeline script. Runs end-to-end from a raw video clip through to a fin
 
 **Usage:**
 ```bash
-python pipeline_from_captioning.py --input your_clip.mp4 --output outputs/
+python pipeline_from_captioning.py 
 ```
 
 ---
@@ -80,7 +80,7 @@ Uses template-guided prompting with controlled flexibility — the model follows
 
 **Usage:**
 ```bash
-python counting_qa.py --description outputs/description.txt --output outputs/qa_pairs.json
+python counting_qa.py
 ```
 
 ---
@@ -90,7 +90,7 @@ Generates QA pairs specifically for street character and activity inference. Que
 
 **Usage:**
 ```bash
-python counting_qa2.py --description outputs/description.txt --output outputs/qa_street.json
+python counting_qa2.py 
 ```
 
 ---
@@ -100,7 +100,7 @@ Validates OCR bounding box placement by grounding detected text regions against 
 
 **Usage:**
 ```bash
-python video_grounding.py --frames outputs/frames/ --ocr outputs/ocr_output.json --output outputs/grounded.json
+python video_grounding.py 
 ```
 
 ---
@@ -110,7 +110,7 @@ Baseline QA generation using LLaMA 3B/7B instead of Gemini. Used for comparison 
 
 **Usage:**
 ```bash
-python qa_llama.py --description outputs/description.txt --output outputs/qa_llama.json
+python qa_llama.py 
 ```
 
 ---
@@ -128,7 +128,8 @@ pip install -r requirements.txt
 export GEMINI_API_KEY=your_key_here
 ```
 
-**Chandra OCR:** Requires internal access to the CVIT IIIT Hyderabad Chandra OCR repository. Contact the CVIT lab for access.
+**Chandra OCR:** Can be downloaded from the [Chandra OCR Github](https://github.com/datalab-to/chandra)
+
 
 ---
 
