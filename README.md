@@ -25,6 +25,10 @@ The pipeline takes GoPro-recorded roadside video clips, extracts frames, runs OC
 ```
 
 ---
+## Outputs
+Here is some example data, frames from clips from multiple videos in malayalam,kannada,odia,bengali.
+Also consists of the frame and video captions of each clip, their final scene descriptions,and generated qas.
+
 
 ## Modules (`modules/`)
 
